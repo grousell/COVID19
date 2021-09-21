@@ -1,0 +1,87 @@
+/* Get a fancy font from Google Fonts */
+/*@import url('https://www.fonts.com/font/linotype/optima?QueryFontType=Web&src=GoogleWebFonts');*/
+
+body {
+  background-color: white;
+  color: black; /* text color */
+  font-size: 30;
+}
+
+/* Change header text to imported font */
+h2 {
+  font-family: 'optima', sans-serif;
+  font-weight: bold;
+  padding: 22px; /* padding will fill in color to edges*/
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: bold;
+  }
+
+/*Navbar*/
+.navbar {
+  background-color: #0b6ea1;
+  padding: 20px;
+  
+}
+.navbar-default .navbar-brand {/*Title*/
+  color: white;
+  font-size: 25px;
+  
+}
+.navbar-default .navbar-brand:hover { /*Title color on hover*/
+  color: white;
+  
+}
+.navbar-default .navbar-nav > li > a {
+  color:white;
+  font-size: 20px;
+}
+.navbar-default .navbar-nav > .active > a,
+
+.navbar-default .navbar-nav > .active > a:focus,
+
+.navbar-default .navbar-nav > .active > a:hover {
+  color: black;
+  background-color: #0b6ea1;
+  
+}
+        
+/*nav tabs*/
+.nav-tabs>{
+  font-size: 15;
+}
+
+
+/*Shiny input container, size is inside well*/
+.well .shiny-input-container {
+    background-color: #0b6ea1;
+    color: white;
+    font-size: 15px;
+    padding-left: 0px;
+  
+}
+.well { /*Container on sidebar*/
+    font-size: 18px;
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #e9f2fc;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);font-size: 20;
+    
+}
+
+.info-box{
+  width: auto;
+  height: 100px;
+  background-color: #0B6EA1;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  
+}
+
