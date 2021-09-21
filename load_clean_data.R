@@ -340,7 +340,7 @@ new_cases_plot_function <- function (df){
 
 # Schools Map -------------------------------------------------------------
 ## Set up data ----
-school_covid <- read_csv ("school_covid.csv",
+school_covid <- read_csv ("https://raw.githubusercontent.com/grousell/COVID19/main/Data/school_covid.csv",
                           col_types = cols(collected_date = col_character(),
                                            reported_date = col_character(),
                                            school_board = col_character(),
