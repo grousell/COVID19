@@ -1,594 +1,661 @@
 collected_date,reported_date,school_board,school_id,school,municipality,confirmed_student_cases,confirmed_staff_cases,confirmed_unspecified_cases,total_confirmed_cases,lon,lat
-2021-09-20,2021-09-21,Algonquin and Lakeshore Catholic District School Board,835099,Nicholson Catholic College,Belleville,0,1,0,1,-77.3823258,44.1687268
-2021-09-20,2021-09-21,Algonquin and Lakeshore Catholic District School Board,756830,Sacred Heart Catholic School,Marmora and Lake,0,1,0,1,-77.6783376,44.4805844
-2021-09-20,2021-09-21,Algonquin and Lakeshore Catholic District School Board,831840,St Mary Catholic School,Quinte West,1,0,0,1,-77.566086,44.108875
-2021-09-20,2021-09-21,Avon Maitland District School Board,190527,Exeter Elementary School,South Huron,1,0,0,1,-81.4770721,43.3509402
-2021-09-20,2021-09-21,Brant Haldimand Norfolk Catholic District School Board,750259,Jean Vanier Catholic Elementary School,Brantford,1,0,0,1,-80.249999,43.1211028
-2021-09-20,2021-09-21,Brant Haldimand Norfolk Catholic District School Board,736481,Notre Dame Catholic Catholic Elementary School,Haldimand County,2,0,0,2,-79.9639095,43.0619772
-2021-09-20,2021-09-21,Brant Haldimand Norfolk Catholic District School Board,751898,St John's College,Brantford,1,0,0,1,-80.287368,43.1607429
-2021-09-20,2021-09-21,Bruce-Grey Catholic District School Board,737399,Notre Dame Catholic School,Owen Sound,1,0,0,1,-80.9224244,44.5886061
-2021-09-20,2021-09-21,Bruce-Grey Catholic District School Board,732800,St Teresa of Calcutta Catholic School,Brockton,1,0,0,1,-81.1468565,44.1155534
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,715190,Holy Trinity Catholic Secondary School,South Glengarry,1,0,0,1,-74.6732692,45.0453521
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,691127,J L Jordan Separate School,Brockville,0,1,0,1,-75.67986839999999,44.6092522
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,736457,Notre Dame Catholic High School,Carleton Place,2,0,0,2,-76.1584404,45.1428542
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,758787,Sacred Heart of Jesus Separate School,Lanark Highlands,0,1,0,1,-76.3700077,45.0184256
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,759040,Sacred Heart School,Cornwall,1,0,0,1,-74.7511114,45.0365884
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,769312,St Andrew's Separate School,South Stormont,2,0,0,2,-74.800136,45.0963821
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,792365,St Francis Xavier Elementary School,Clarence-Rockland,1,0,0,1,-75.2096803,45.4214829
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,806277,St Joseph's Secondary School,Cornwall,1,0,0,1,-74.749842,45.0344797
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,814555,St. Mark Catholic School,Prescott,1,0,0,1,-75.51494749999999,44.7233336
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,828874,St Mary's Separate School,Carleton Place,3,0,0,3,-76.14632379999999,45.1348405
-2021-09-20,2021-09-21,Catholic District School Board of Eastern Ontario,733067,St. Thomas Aquinas Catholic High School,Russell,0,1,0,1,-75.3530979,45.2510991
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,488291,École élémentaire publique Carrefour Jeunesse,Clarence-Rockland,1,0,0,1,-75.2878862,45.5440165
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,412597,École élémentaire publique Charlotte Lemieux,Ottawa,2,0,0,2,-75.7631854,45.3629578
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,138681,École élémentaire publique De la Salle,Ottawa,1,0,0,1,-75.6857238,45.4351089
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,417726,École élémentaire publique Des Sentiers,Ottawa,4,0,0,4,-75.4609256,45.4594765
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,287180,École élémentaire publique Julie-Payette,Ottawa,1,0,0,1,-75.936554,45.348933
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,302864,École élémentaire publique L'Héritage,Cornwall,1,0,0,1,-74.699788,45.018235
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,323187,École élémentaire publique Louis-Riel,Ottawa,1,0,0,1,-75.5714633,45.4414467
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,327445,École élémentaire publique Michaëlle-Jean,Ottawa,6,0,0,6,-75.7258355,45.2878282
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,530457,École élémentaire publique Michel-Dupuis,Ottawa,3,0,0,3,-75.6930961,45.2670977
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,250627,École élémentaire publique Nouvel Horizon,Hawkesbury,1,0,0,1,-74.6014464,45.6062705
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,195774,École élémentaire publique Séraphin-Marion,Ottawa,1,0,0,1,-75.5923512,45.4524996
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,912662,École secondaire publique Gisèle-Lalonde,Ottawa,1,0,0,1,-75.4454481,45.4689434
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,949540,École secondaire publique Le Sommet,Hawkesbury,1,0,0,1,-74.5991942,45.6026621
-2021-09-20,2021-09-21,Conseil des écoles publiques de l'Est de l'Ontario,907464,École secondaire publique L'Héritage,Cornwall,2,0,0,2,-74.699788,45.018235
-2021-09-20,2021-09-21,Conseil scolaire catholique MonAvenir,694100,ÉÉC Cardinal-Léger,Kitchener,2,0,0,2,-80.4816649,43.4076273
-2021-09-20,2021-09-21,Conseil scolaire catholique MonAvenir,730211,ÉÉC Sainte-Marguerite-Bourgeoys-Brantfrd,Brantford,2,0,0,2,-80.2692004,43.1250061
-2021-09-20,2021-09-21,Conseil scolaire catholique MonAvenir,841308,ÉÉC Saint-Michel,Toronto,0,2,0,2,-79.1561025,43.7778996
-2021-09-20,2021-09-21,Conseil scolaire catholique MonAvenir,848808,ÉÉC Saint-René-Goupil,Guelph,13,0,0,13,-80.243509,43.522237
-2021-09-20,2021-09-21,Conseil scolaire catholique MonAvenir,750468,ÉIC Père-René-de-Galinée,Cambridge,1,0,0,1,-80.382062,43.424596
-2021-09-20,2021-09-21,Conseil scolaire catholique Providence,708054,École élémentaire catholique Georges P Vanier,Windsor,1,0,0,1,-82.9594671,42.3248797
-2021-09-20,2021-09-21,Conseil scolaire catholique Providence,732400,École élémentaire catholique Monseigneur Augustin Caron,Lasalle,2,0,0,2,-83.0758659,42.206855
-2021-09-20,2021-09-21,Conseil scolaire catholique Providence,708500,École secondaire catholique École secondaire Monseigneur-Bruyère,London,3,0,0,3,-81.232715,43.015623
-2021-09-20,2021-09-21,Conseil scolaire catholique Providence,704717,École secondaire catholique E.J.Lajeunesse,Windsor,0,1,0,1,-83.0199432,42.2770652
-2021-09-20,2021-09-21,Conseil scolaire de district catholique de l'Est ontarien,861367,École élémentaire catholique Marie-Tanguay,Cornwall,2,0,0,2,-74.7010351,45.036141
-2021-09-20,2021-09-21,Conseil scolaire de district catholique de l'Est ontarien,798304,École élémentaire catholique Saint-Isidore,The Nation Municipality,1,0,0,1,-74.9064258,45.384151
-2021-09-20,2021-09-21,Conseil scolaire de district catholique de l'Est ontarien,813257,École élémentaire catholique Saint-Joseph (Wendover),Alfred and Plantagenet,1,0,0,1,-75.1300942,45.572039
-2021-09-20,2021-09-21,Conseil scolaire de district catholique de l'Est ontarien,723592,École intermédiaire catholique La Citadelle,Cornwall,1,0,0,1,-74.7131919,45.02371
-2021-09-20,2021-09-21,Conseil scolaire de district catholique de l'Est ontarien,713740,École secondaire catholique régionale de Hawkesbury,Hawkesbury,2,1,0,3,-74.624558,45.6061484
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,769765,École élémentaire catholique Bernard-Grandmaître,Ottawa,1,0,0,1,-75.68246300000001,45.284937
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705390,École élémentaire catholique De la Découverte,Ottawa,3,0,0,3,-75.4614906,45.4648987
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703753,École élémentaire catholique d'enseignement personnalisé La Source,Ottawa,2,0,0,2,-75.5081477,45.4725175
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,764264,École élémentaire catholique Des Pins,Ottawa,1,0,0,1,-75.6049162,45.4215579
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703168,École élémentaire catholique Des Pionniers,Ottawa,2,0,0,2,-75.4816206,45.473832
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,864730,École élémentaire catholique George-Étienne-Cartier,Ottawa,0,1,0,1,-75.6727002,45.3633335
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705136,École élémentaire catholique Jean-Robert-Gauthier,Ottawa,1,0,0,1,-75.731415,45.2703325
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,725536,École élémentaire catholique La Vérendrye,Ottawa,6,0,0,6,-75.5976246,45.4602769
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,753157,École élémentaire catholique Marius-Barbeau,Ottawa,2,2,0,4,-75.656574,45.371536
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,732397,École élémentaire catholique Montfort,Ottawa,12,0,0,12,-75.630513,45.440591
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,796656,École élémentaire catholique Notre-Place,Ottawa,2,0,0,2,-75.4852618,45.4469732
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,688762,École élémentaire catholique Pierre-Elliott-Trudeau,Ottawa,9,0,0,9,-75.7435637,45.2853489
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,860573,École élémentaire catholique Sainte-Anne,Ottawa,2,0,0,2,-75.6815439,45.4321121
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,709387,École élémentaire catholique Sainte-Bernadette,Ottawa,2,0,0,2,-75.6230473,45.3521883
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,861871,École élémentaire catholique Sainte-Geneviève,Ottawa,1,0,0,1,-75.6310622,45.3900139
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,733402,École élémentaire catholique Sainte-Kateri,Ottawa,2,0,0,2,-75.7361318,45.2454599
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,793027,École élémentaire catholique Saint-François-d'Assise,Ottawa,4,0,0,4,-75.7240564,45.4024522
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703095,École élémentaire catholique Saint-Joseph d'Orléans,Ottawa,1,0,0,1,-75.521603,45.4658625
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,752625,École élémentaire catholique Saint-Rémi,Ottawa,2,0,0,2,-75.9228356,45.3275474
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,685986,École intermédiaire catholique Paul-Desmarais,Ottawa,1,0,0,1,-75.896757,45.2744469
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,751120,École intermédiaire catholique Samuel-Genest,Ottawa,2,0,0,2,-75.6302099,45.4426619
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,695955,École secondaire catholique Collège catholique Samuel-Genest,Ottawa,2,0,0,2,-75.6302099,45.4426619
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705233,École secondaire catholique Franco-Cité,Ottawa,6,0,0,6,-75.6415789,45.4006231
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,710903,École secondaire catholique Garneau,Ottawa,1,0,0,1,-75.5249211,45.4650594
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,846435,École secondaire catholique Mer Bleue,Ottawa,1,0,0,1,-75.5048231,45.4356254
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Centre-Est de l'Ontario,832670,École secondaire catholique Pierre-Savard,Ottawa,1,1,0,2,-75.7369827,45.273133
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Nouvel-Ontario,841490,École élémentaire catholique La Renaissance,Espanola,2,0,0,2,-81.773941,46.2588081
-2021-09-20,2021-09-21,Conseil scolaire de district catholique du Nouvel-Ontario,862886,École séparée Sainte-Marie,Greater Sudbury,1,0,0,1,-81.11480999999999,46.552006
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,165468,Académie de la Moraine,Richmond Hill,3,0,0,3,-79.45774209999999,43.949108
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,447621,École élémentaire Charles-Sauriol,Toronto,3,0,0,3,-79.4559275,43.667873
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,165212,École élémentaire Gabriel-Dumont,London,1,0,0,1,-81.1717084,42.9514867
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,165417,École élémentaire Horizon Jeunesse,Mississauga,1,2,0,3,-79.6450414,43.5162638
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,019735,École élémentaire La Mosaïque,Toronto,2,0,0,2,-79.3301549,43.6872344
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,191313,École élémentaire La Pommeraie,London,2,1,0,3,-81.3049595,42.9325145
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,910554,École secondaire Gabriel-Dumont,London,1,0,0,1,-81.1717084,42.9514867
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,907308,École secondaire Georges-P-Vanier,Hamilton,1,0,0,1,-79.89443,43.266019
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,925326,École secondaire Roméo Dallaire,Barrie,1,0,0,1,-79.7143086,44.3270265
-2021-09-20,2021-09-21,Conseil scolaire Viamonde,952803,École secondaire Toronto Ouest,Toronto,0,1,0,1,-79.4409854,43.6525409
-2021-09-20,2021-09-21,District School Board of Niagara,505005,Applewood Public School,St. Catharines,0,1,0,1,-79.2029037,43.14724409999999
-2021-09-20,2021-09-21,District School Board of Niagara,197416,Fitch Street Public School,Welland,1,1,0,2,-79.2625427,42.9949914
-2021-09-20,2021-09-21,District School Board of Niagara,281000,Jacob Beam Public School,Lincoln,3,0,0,3,-79.47930939999999,43.1656302
-2021-09-20,2021-09-21,District School Board of Niagara,287660,Kate S Durdan Public School,Niagara Falls,1,0,0,1,-79.1371258,43.0753367
-2021-09-20,2021-09-21,District School Board of Niagara,352500,McKay Public School,Port Colborne,1,0,0,1,-79.25775089999999,42.8913179
-2021-09-20,2021-09-21,District School Board of Niagara,414514,Oakridge Public School,St. Catharines,2,1,0,3,-79.2428429,43.1371456
-2021-09-20,2021-09-21,District School Board of Niagara,417521,Ontario Public School,Thorold,2,0,0,2,-79.1984964,43.0930385
-2021-09-20,2021-09-21,District School Board of Niagara,455202,Prince of Wales Public School,Thorold,1,0,0,1,-79.2028026,43.1226561
-2021-09-20,2021-09-21,District School Board of Niagara,457540,Princess Elizabeth Public School,Welland,2,0,0,2,-79.23272759999999,42.9851193
-2021-09-20,2021-09-21,District School Board of Niagara,505382,Senator Gibson Public School,Lincoln,1,0,0,1,-79.4732888,43.1708465
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,850888,Cardinal Leger Secondary School,Brampton,1,0,0,1,-79.7511893,43.6840635
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,706337,Father Clair Tipping School,Brampton,2,0,0,2,-79.7317292,43.7648548
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,730441,Father Francis McSpiritt Catholic Elementary School,Brampton,1,0,0,1,-79.69845,43.7744879
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,716405,Holy Family School,Caledon,2,0,0,2,-79.72624189999999,43.8736449
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,731447,Metropolitan Andrei Catholic School,Mississauga,1,0,0,1,-79.6134735,43.5929483
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,742171,Our Lady of Fatima School,Brampton,1,0,0,1,-79.777908300000007,43.6883188
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,747882,Our Lady of Providence Elementary School,Brampton,1,0,0,1,-79.7600472,43.7442623
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,751430,Philip Pocock Catholic Secondary School,Mississauga,1,0,0,1,-79.626165,43.6251025
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,767255,St Aloysius Gonzaga Secondary School,Mississauga,1,0,0,1,-79.7181446,43.5564811
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,812896,St. André Bessette Catholic Elementary School,Brampton,1,0,0,1,-79.67452639999999,43.7655696
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,773530,St Anthony School,Brampton,2,0,0,2,-79.742484,43.7361711
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,776092,St Basil School,Mississauga,1,0,0,1,-79.6127422,43.6237419
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,776742,St Benedict Elementary School,Orangeville,0,1,0,1,-80.11709160000001,43.9291837
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,738857,St. Bernard of Clairvaux Catholic Elementary School,Mississauga,0,2,0,2,-79.7351256,43.5475604
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,781401,St Catherine of Siena School,Mississauga,1,0,0,1,-79.6107581,43.5741345
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,783870,St Christopher School,Mississauga,1,0,0,1,-79.6267915,43.5219454
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,807712,St. Daniel Comboni Catholic Elementary School,Brampton,1,0,0,1,-79.8407884,43.6802611
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,788511,St Edmund Campion Secondary School,Brampton,1,0,0,1,-79.829895,43.6947937
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,797316,St Herbert School,Mississauga,2,0,0,2,-79.68439269999999,43.5861148
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,803502,St John Fisher Separate School,Brampton,2,0,0,2,-79.7111091,43.7112363
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,723967,St. John Henry Newman Catholic Elementary School,Brampton,1,0,0,1,-79.6994231,43.7216072
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,806919,St Joseph Secondary School,Mississauga,1,0,0,1,-79.70000540000001,43.58977489999999
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,821381,St Marcellinus Secondary School,Mississauga,1,0,0,1,-79.7101146,43.6237335
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,750298,St Margaret of Scotland School,Mississauga,3,0,0,3,-79.6766383,43.53615
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,864570,St. Michael Catholic Secondary School,Caledon,1,3,0,4,-79.7517823,43.8952732
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,845779,St Philip Elementary School,Mississauga,1,0,0,1,-79.6324441,43.5788272
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,863785,Sts Martha & Mary Separate School,Mississauga,1,0,0,1,-79.5909583,43.6322936
-2021-09-20,2021-09-21,Dufferin-Peel Catholic District School Board,854530,St Thomas Aquinas Secondary School,Brampton,2,3,0,5,-79.710826,43.738924
-2021-09-20,2021-09-21,Durham Catholic District School Board,703923,Archbishop Denis O'Connor Catholic High School,Ajax,1,0,0,1,-79.0205681,43.8586226
-2021-09-20,2021-09-21,Durham Catholic District School Board,851764,St. Anne Catholic Elementary School,Oshawa,1,0,0,1,-78.89070079999999,43.9606805
-2021-09-20,2021-09-21,Durham Catholic District School Board,789178,St Elizabeth Seton Catholic School,Pickering,2,1,0,3,-79.131253,43.826604
-2021-09-20,2021-09-21,Durham Catholic District School Board,803057,St John Bosco Catholic School,Oshawa,2,0,0,2,-78.8583016,43.9450454
-2021-09-20,2021-09-21,Durham Catholic District School Board,724084,St John XXIII Catholic School,Oshawa,4,0,0,4,-78.8146016,43.9009848
-2021-09-20,2021-09-21,Durham Catholic District School Board,762733,St Josephine Bakhita Catholic Elementary School,Ajax,1,0,0,1,-79.0318036,43.8907409
-2021-09-20,2021-09-21,Durham District School Board,097110,Carruthers Creek Public School,Ajax,1,0,0,1,-79.0047658,43.8400099
-2021-09-20,2021-09-21,Durham District School Board,905674,Dunbarton High School,Pickering,1,0,0,1,-79.1183771,43.8212623
-2021-09-20,2021-09-21,Durham District School Board,165514,Eagle Ridge Public School,Ajax,1,0,0,1,-79.0663469,43.863069
-2021-09-20,2021-09-21,Durham District School Board,213829,Glen Dhu Public School,Whitby,1,0,0,1,-78.9344638,43.9047361
-2021-09-20,2021-09-21,Durham District School Board,567787,Goodwood Public School,Uxbridge,2,0,0,2,-79.1979675,44.0401665
-2021-09-20,2021-09-21,Durham District School Board,231533,Highbush Public School,Pickering,1,0,0,1,-79.125969,43.827092
-2021-09-20,2021-09-21,Durham District School Board,918423,J Clarke Richardson Collegiate Institute,Ajax,1,0,0,1,-79.0270847,43.8832624
-2021-09-20,2021-09-21,Durham District School Board,559271,Jeanne Sauvé Public School,Oshawa,3,0,0,3,-78.8563561,43.9456171
-2021-09-20,2021-09-21,Durham District School Board,312983,Lincoln Avenue Public School,Ajax,3,0,0,3,-79.0498381,43.8538698
-2021-09-20,2021-09-21,Durham District School Board,932345,Maxwell Heights Secondary School,Oshawa,1,3,0,4,-78.8507544,43.9452973
-2021-09-20,2021-09-21,Durham District School Board,451177,R H Cornish Public School,Scugog,2,0,0,2,-78.9529534,44.0998435
-2021-09-20,2021-09-21,Durham District School Board,569933,Valley Farm Public School,Pickering,2,0,0,2,-79.0873293,43.858578
-2021-09-20,2021-09-21,Durham District School Board,092886,Vimy Ridge Public School,Ajax,0,1,0,1,-79.0493557,43.8785176
-2021-09-20,2021-09-21,Durham District School Board,093700,Walter E Harris Public School,Oshawa,1,0,0,1,-78.8539715,43.9144853
-2021-09-20,2021-09-21,Durham District School Board,598909,Westcreek Public School,Pickering,1,0,0,1,-79.142914,43.823277
-2021-09-20,2021-09-21,Durham District School Board,595535,Westney Heights Public School,Ajax,1,1,0,2,-79.0463446,43.8653037
-2021-09-20,2021-09-21,Durham District School Board,525960,Williamsburg Public School,Whitby,1,0,0,1,-78.9765421,43.9058263
-2021-09-20,2021-09-21,Grand Erie District School Board,034339,Branlyn Community School,Brantford,0,1,0,1,-80.2353862,43.1814965
-2021-09-20,2021-09-21,Grand Erie District School Board,558113,Echo Place PS,Brantford,2,0,0,2,-80.2324246,43.141962
-2021-09-20,2021-09-21,Grand Erie District School Board,295434,King George School,Brantford,2,0,0,2,-80.2481352,43.1456157
-2021-09-20,2021-09-21,Grand Erie District School Board,378372,Mount Pleasant School,Brant,1,0,0,1,-80.3127448,43.0820141
-2021-09-20,2021-09-21,Grand Erie District School Board,494208,Russell Reid Public School,Brantford,1,0,0,1,-80.2882656,43.1718698
-2021-09-20,2021-09-21,Grand Erie District School Board,521760,St George-German Public School,Brant,1,0,0,1,-80.257624,43.2442556
-2021-09-20,2021-09-21,Grand Erie District School Board,949035,Valley Heights Secondary School,Norfolk County,1,0,0,1,-80.5410625,42.69318639999999
-2021-09-20,2021-09-21,Greater Essex County District School Board,929727,Belle River District High School,Lakeshore,1,0,0,1,-82.7111152,42.2881209
-2021-09-20,2021-09-21,Greater Essex County District School Board,041947,Bellewood Public School,Windsor,1,0,0,1,-83.040417,42.2672396
-2021-09-20,2021-09-21,Greater Essex County District School Board,142948,Dougall Avenue Public School,Windsor,1,0,0,1,-83.03857359999999,42.310742
-2021-09-20,2021-09-21,Greater Essex County District School Board,909440,Essex District High School,Essex,0,1,0,1,-82.8291311,42.1792268
-2021-09-20,2021-09-21,Greater Essex County District School Board,222119,Ford City Public School,Windsor,1,0,0,1,-82.9758217,42.3104362
-2021-09-20,2021-09-21,Greater Essex County District School Board,917249,Hon W C Kennedy Collegiate Institute,Windsor,2,0,0,2,-83.0208807,42.2958592
-2021-09-20,2021-09-21,Greater Essex County District School Board,279315,J A McWilliam Public School,Windsor,1,0,0,1,-82.98614909999999,42.2813665
-2021-09-20,2021-09-21,Greater Essex County District School Board,551941,Lakeshore Discovery School,Lakeshore,1,0,0,1,-82.77328109999999,42.2900342
-2021-09-20,2021-09-21,Greater Essex County District School Board,922188,Leamington District Secondary School,Leamington,1,0,0,1,-82.6093978,42.0464973
-2021-09-20,2021-09-21,Greater Essex County District School Board,435872,Parkview Public School,Windsor,1,0,0,1,-82.9097293,42.3078029
-2021-09-20,2021-09-21,Greater Essex County District School Board,452734,Prince Andrew Public School,Lasalle,4,0,0,4,-83.0583713,42.2055389
-2021-09-20,2021-09-21,Greater Essex County District School Board,574155,Queen Victoria Public School,Windsor,1,0,0,1,-83.0308744,42.3021394
-2021-09-20,2021-09-21,Greater Essex County District School Board,491217,Roseland Public School,Windsor,2,0,0,2,-82.9928611,42.2597792
-2021-09-20,2021-09-21,Greater Essex County District School Board,939765,Sandwich Secondary School,Lasalle,2,0,0,2,-83.0592849,42.2239845
-2021-09-20,2021-09-21,Greater Essex County District School Board,498513,Sandwich West Public School,Lasalle,1,0,0,1,-83.0550862,42.2488552
-2021-09-20,2021-09-21,Greater Essex County District School Board,147362,West Gate Public School,Windsor,0,1,0,1,-83.0508847,42.2976411
-2021-09-20,2021-09-21,Greater Essex County District School Board,918806,Westview Freedom Academy Secondary School,Windsor,1,0,0,1,-83.0565521,42.2924474
-2021-09-20,2021-09-21,Greater Essex County District School Board,950009,W. F. Herman Academy Secondary School,Windsor,1,0,0,1,-82.9746151,42.3080738
-2021-09-20,2021-09-21,Halton Catholic District School Board,772647,St. Anne Catholic Elementary School,Burlington,0,1,0,1,-79.8241513,43.4069872
-2021-09-20,2021-09-21,Halton Catholic District School Board,696392,St. Francis of Xavier Catholic Secondary School,Milton,3,0,0,3,-79.8577667,43.4871882
-2021-09-20,2021-09-21,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School,Oakville,0,1,0,1,-79.7335124,43.4445535
-2021-09-20,2021-09-21,Halton Catholic District School Board,820679,St. Luke Catholic Elementary School,Oakville,0,1,0,1,-79.6620251,43.4966181
-2021-09-20,2021-09-21,Halton Catholic District School Board,848484,St. Raphael Catholic Elementary School,Burlington,2,0,0,2,-79.7672143,43.3542072
-2021-09-20,2021-09-21,Halton Catholic District School Board,794978,St. Scholastica Catholic Elementary School,Milton,3,0,0,3,-79.8522213,43.4850739
-2021-09-20,2021-09-21,Halton District School Board,890332,Acton District High School,Halton Hills,1,0,0,1,-80.0332063,43.6434086
-2021-09-20,2021-09-21,Halton District School Board,344051,Alton Village Public School,Burlington,5,0,0,5,-79.8267764,43.4000902
-2021-09-20,2021-09-21,Halton District School Board,058360,Bruce T Lindley,Burlington,3,0,0,3,-79.839129,43.3710697
-2021-09-20,2021-09-21,Halton District School Board,070777,Burlington Central Elementary School,Burlington,2,0,0,2,-79.8058164,43.3292627
-2021-09-20,2021-09-21,Halton District School Board,967740,Craig Kielburger Secondary School,Milton,1,1,0,2,-79.8274505,43.5144805
-2021-09-20,2021-09-21,Halton District School Board,164267,Eastview Public School,Oakville,1,0,0,1,-79.7101056,43.4012587
-2021-09-20,2021-09-21,Halton District School Board,121112,Escarpment View Public School,Milton,2,0,0,2,-79.881308,43.4975701
-2021-09-20,2021-09-21,Halton District School Board,912433,Georgetown District High School,Halton Hills,1,0,0,1,-79.9208365,43.6502946
-2021-09-20,2021-09-21,Halton District School Board,111600,Hawthorne Village Public School,Milton,5,0,0,5,-79.838123,43.513921
-2021-09-20,2021-09-21,Halton District School Board,253340,Heritage Glen Public School,Oakville,4,0,0,4,-79.7418342,43.4320677
-2021-09-20,2021-09-21,Halton District School Board,158377,Irma Coulson Elementary Public School,Milton,1,0,0,1,-79.8420011,43.5231035
-2021-09-20,2021-09-21,Halton District School Board,291536,Kilbride Public School,Burlington,1,0,0,1,-79.9365023,43.4274547
-2021-09-20,2021-09-21,Halton District School Board,445193,Pineland Public School,Burlington,1,0,0,1,-79.7466477,43.3677377
-2021-09-20,2021-09-21,Halton District School Board,310777,P. L. Robertson Public School,Milton,1,0,0,1,-79.8706055,43.4875911
-2021-09-20,2021-09-21,Halton District School Board,485438,River Oaks Public School,Oakville,1,0,0,1,-79.7216712,43.4649869
-2021-09-20,2021-09-21,Halton District School Board,487570,Robert Little Public School,Halton Hills,1,0,0,1,-80.0433112,43.6331158
-2021-09-20,2021-09-21,Halton District School Board,489395,Rolling Meadows Public School,Burlington,1,0,0,1,-79.8276041,43.3575795
-2021-09-20,2021-09-21,Halton District School Board,510289,Sheridan Public School,Oakville,1,0,0,1,-79.6901128,43.4817832
-2021-09-20,2021-09-21,Halton District School Board,515353,Sir Ernest Macmillan Public School,Burlington,0,1,0,1,-79.8073637,43.3688778
-2021-09-20,2021-09-21,Halton District School Board,369253,Viola Desmond Public School,Milton,1,0,0,1,-79.8467167,43.4833409
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,689386,Bishop Tonnos Catholic Secondary School,Hamilton,2,0,0,2,-79.995422,43.202035
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,690279,Blessed Sacrament Catholic Elementary School,Hamilton,1,0,0,1,-79.8413126,43.2275773
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,735799,Our Lady of Hope Catholic Elementary School,Hamilton,1,0,0,1,-79.476017,43.954402
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,748544,Our Lady of Peace Catholic Elementary School,Hamilton,2,0,0,2,-79.7100134,43.2212157
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,748633,Our Lady of the Assumption Catholic Elementary School,Hamilton,1,0,0,1,-79.8059243,43.1771511
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,792217,St. Francis Xavier Catholic Elementary School,Hamilton,1,0,0,1,-79.7321668,43.2200665
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,825892,St. Gabriel Catholic Elementary School,Hamilton,1,0,0,1,-79.6423595,43.2106828
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,799530,St. James the Apostle Catholic Elementary School,Hamilton,0,2,0,2,-79.7835865,43.1914428
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,800430,St. Jean de Brebeuf Catholic Secondary School,Hamilton,2,0,0,2,-79.8641859,43.200908
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,694134,St. John Henry Newman Catholic Secondary School,Hamilton,2,0,0,2,-79.745483,43.2220532
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,804673,St. John the Baptist Catholic Elementary School,Hamilton,1,0,0,1,-79.81945549999999,43.2389442
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,745279,St. Matthew Catholic Elementary School,Hamilton,0,1,0,1,-79.8141562,43.1172227
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,773786,St. Thérèse of Lisieux Catholic Elementary School,Hamilton,0,1,0,1,-79.9145776,43.2050395
-2021-09-20,2021-09-21,Hamilton-Wentworth Catholic District School Board,855685,St. Thomas More Catholic Secondary School,Hamilton,5,0,0,5,-79.9193025,43.2136953
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,287210,Ancaster Meadow Elementary Public School,Hamilton,2,0,0,2,-79.9525151,43.2215968
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,213012,Cootes Paradise Public School,Hamilton,2,0,0,2,-79.9022899,43.263844
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,488921,Dr. J. Edgar Davey (New) Elementary Public School,Hamilton,1,1,0,2,-79.8606726,43.2575214
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,913081,Glendale Secondary School,Hamilton,5,0,0,5,-79.7802708,43.2256703
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,273201,Huntington Park Junior Public School,Hamilton,2,1,0,3,-79.8269629,43.2206471
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,281026,Janet Lee Public School,Hamilton,1,0,0,1,-79.8069606,43.1917337
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,303755,Lake Avenue Public School,Hamilton,0,1,0,1,-79.7554956,43.2322843
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,094608,Lawfield Elementary School,Hamilton,1,0,0,1,-79.8504189,43.2156583
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,361739,Memorial Public School,Hamilton,2,0,0,2,-79.8204039,43.2431971
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,376299,Mount Hope Public School,Hamilton,1,0,0,1,-79.9202169,43.1571218
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,894432,Nora Henderson,Hamilton,1,0,0,1,-79.8664326,43.1910451
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,412309,Norwood Park Elementary School,Hamilton,1,0,0,1,-79.877021,43.2295601
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,437557,Pauline Johnson Public School,Hamilton,1,0,0,1,-79.8707786,43.2197657
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,484199,Ridgemount Junior Public School,Hamilton,1,0,0,1,-79.8796123,43.2245936
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,483142,Shannen Koostachin Elementary School Elementary Public School,Hamilton,6,0,0,6,-79.8025354,43.1766325
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,941328,Sherwood Secondary School,Hamilton,1,0,0,1,-79.8231362,43.2276266
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,516244,Sir Wilfrid Laurier Public School,Hamilton,1,0,0,1,-79.7880294,43.2177169
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,548022,Tapleytown Public School,Hamilton,2,3,0,5,-79.7330207,43.1810331
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,550817,Templemead Elementary School,Hamilton,0,6,0,6,-79.8480559,43.1968014
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,950653,Waterdown District High School,Hamilton,1,0,0,1,-79.9102713,43.3352604
-2021-09-20,2021-09-21,Hamilton-Wentworth District School Board,579610,W H Ballard Public School,Hamilton,1,0,0,1,-79.802944,43.2416417
-2021-09-20,2021-09-21,Hastings & Prince Edward District School Board,244600,Harmony Public School,Belleville,3,0,0,3,-77.3847395,44.2404203
-2021-09-20,2021-09-21,Huron Perth Catholic District School Board,832545,St Michael Catholic Secondary School,Stratford,1,0,0,1,-80.9953306,43.3862998
-2021-09-20,2021-09-21,Huron-Superior Catholic District School Board,792017,St. Basil Catholic School,Sault Ste. Marie,2,0,0,2,-84.3286572,46.52324309999999
-2021-09-20,2021-09-21,Huron-Superior Catholic District School Board,776076,St Mary's College Separate School,Sault Ste. Marie,1,0,0,1,-84.3074893,46.5389711
-2021-09-20,2021-09-21,Huron-Superior Catholic District School Board,826901,St Mary's French Immersion Catholic School,Sault Ste. Marie,1,0,0,1,-84.26647899999999,46.5225021
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,147826,Dr Ross Tilley Public School,Clarington,1,0,0,1,-78.7010312,43.8986135
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,449510,Kaawaate East City Public School Elementary Public School,Peterborough,0,1,0,1,-78.3041429,44.308143
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,325040,Lydia Trull Public School,Clarington,1,0,0,1,-78.7810801,43.9062675
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,551333,M J Hobbs Senior Public School,Clarington,1,0,0,1,-78.744057,43.9645781
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,403350,North Shore Public School,Otonabee-South Monaghan,1,0,0,1,-78.165831,44.24195719999999
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,947563,Thomas A Stewart Secondary School,Peterborough,1,0,0,1,-78.310071,44.3309288
-2021-09-20,2021-09-21,Kawartha Pine Ridge District School Board,587443,Waverley Public School,Clarington,2,0,0,2,-78.69172379999999,43.9019872
-2021-09-20,2021-09-21,Lakehead District School Board,952087,Westgate Collegiate and Vocational Institute,Thunder Bay,1,0,0,1,-89.2905215,48.3736702
-2021-09-20,2021-09-21,Lambton Kent District School Board,000078,A A Wright Public School,Chatham-Kent,1,0,0,1,-82.404083,42.5916958
-2021-09-20,2021-09-21,Lambton Kent District School Board,919322,Chatham-Kent Secondary School,Chatham-Kent,2,0,0,2,-82.1917222,42.4218065
-2021-09-20,2021-09-21,Lambton Kent District School Board,120715,Confederation Central School,Sarnia,1,0,0,1,-82.2702551,42.9581893
-2021-09-20,2021-09-21,Lambton Kent District School Board,148660,Dresden Area Central School,Chatham-Kent,2,0,0,2,-82.179132,42.5853104
-2021-09-20,2021-09-21,Lambton Kent District School Board,890861,Great Lakes Secondary School,Sarnia,1,0,0,1,-82.3661941,42.9667003
-2021-09-20,2021-09-21,Lambton Kent District School Board,275131,Indian Creek Road Public School,Chatham-Kent,1,0,0,1,-82.1816451,42.3784848
-2021-09-20,2021-09-21,Lambton Kent District School Board,918938,John McGregor Secondary School,Chatham-Kent,1,0,0,1,-82.1749834,42.3834533
-2021-09-20,2021-09-21,Lambton Kent District School Board,921530,Lambton Kent Composite School,Chatham-Kent,0,1,0,1,-82.1773879,42.595388
-2021-09-20,2021-09-21,Lambton Kent District School Board,462748,Queen Elizabeth II C Public School,Chatham-Kent,1,0,0,1,-82.1719968,42.3966045
-2021-09-20,2021-09-21,Lambton Kent District School Board,462870,Queen Elizabeth II P Public School,Petrolia,1,0,0,1,-82.1530992,42.8850309
-2021-09-20,2021-09-21,Lambton Kent District School Board,486922,Riverview Central School,St. Clair,1,0,0,1,-82.492989,42.684944
-2021-09-20,2021-09-21,Lambton Kent District School Board,548707,Tecumseh Public School,Chatham-Kent,3,0,0,3,-82.2098012,42.4089178
-2021-09-20,2021-09-21,Lambton Kent District School Board,948446,Tilbury District High School,Chatham-Kent,1,0,0,1,-82.4332425,42.2519323
-2021-09-20,2021-09-21,Limestone District School Board,911135,Frontenac Secondary School,Kingston,1,0,0,1,-76.5769332,44.2371477
-2021-09-20,2021-09-21,Limestone District School Board,281786,James R Henderson Public School,Kingston,2,0,0,2,-76.5752834,44.2292324
-2021-09-20,2021-09-21,Limestone District School Board,931089,Kingston Secondary School,Kingston,1,0,0,1,-76.49803,44.2291573
-2021-09-20,2021-09-21,London District Catholic School Board,695734,Catholic Central High School,London,2,0,0,2,-81.23921,42.9870502
-2021-09-20,2021-09-21,London District Catholic School Board,723673,Jean Vanier Separate School,London,1,0,0,1,-81.29377099999999,42.9454314
-2021-09-20,2021-09-21,London District Catholic School Board,790583,St Francis School,London,2,0,0,2,-81.208300500000007,42.9438031
-2021-09-20,2021-09-21,London District Catholic School Board,798986,St. Nicholas Senior Separate School,London,11,0,0,11,-81.3627585,42.9691878
-2021-09-20,2021-09-21,London District Catholic School Board,855898,St Thomas More Separate School,London,2,0,0,2,-81.2891953,42.99888929999999
-2021-09-20,2021-09-21,Near North District School Board,420428,Parry Sound Public School School,Parry Sound,2,0,0,2,-80.0292434,45.3573646
-2021-09-20,2021-09-21,Niagara Catholic District School Board,743577,Our Lady of Fatima Catholic Elementary School,St. Catharines,1,0,0,1,-79.2323813,43.1908751
-2021-09-20,2021-09-21,Niagara Catholic District School Board,719390,St Charles Catholic Elementary School,Thorold,1,0,0,1,-79.2081945,43.1260415
-2021-09-20,2021-09-21,Niagara Catholic District School Board,786349,St Denis Catholic Elementary School,St. Catharines,0,1,0,1,-79.2496452,43.1727165
-2021-09-20,2021-09-21,Niagara Catholic District School Board,799211,St James Catholic Elementary School,St. Catharines,1,0,0,1,-79.2430918,43.2032845
-2021-09-20,2021-09-21,Niagara Catholic District School Board,715166,St John Bosco Catholic Elementary School,Port Colborne,1,0,0,1,-79.2638936,42.8975296
-2021-09-20,2021-09-21,Niagara Catholic District School Board,803766,St John Catholic Elementary School,Lincoln,3,0,0,3,-79.5108649,43.1802997
-2021-09-20,2021-09-21,Niagara Catholic District School Board,852910,St Theresa Catholic Elementary School,St. Catharines,1,0,0,1,-79.2068276,43.1435281
-2021-09-20,2021-09-21,Nipissing-Parry Sound Catholic District School Board,733172,Mother St Bride School,North Bay,1,0,0,1,-79.46282,46.3166179
-2021-09-20,2021-09-21,Nipissing-Parry Sound Catholic District School Board,766585,St Alexander Separate School,North Bay,1,0,0,1,-79.4731539,46.322411
-2021-09-20,2021-09-21,Nipissing-Parry Sound Catholic District School Board,763659,St Joseph-Scollard Hall Secondary School,North Bay,1,0,0,1,-79.4580228,46.3222822
-2021-09-20,2021-09-21,Northwest Catholic District School Board,742309,Our Lady of the Way,Morley,2,0,0,2,-94.1645119,48.67726039999999
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,034452,Bridlewood Community Elementary School,Ottawa,4,0,0,4,-75.8610813,45.2849918
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,906514,Cairine Wilson Secondary School,Ottawa,1,0,0,1,-75.5398668,45.4823579
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,282953,Chapman Mills Elementary School,Ottawa,1,0,0,1,-75.7311576,45.2689701
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,107778,Churchill Alternative School,Ottawa,1,0,0,1,-75.7535754,45.3904042
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,902586,Colonel By Secondary School,Ottawa,1,0,0,1,-75.6002057,45.4552296
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,177008,Elmdale Public School,Ottawa,2,0,0,2,-75.7357092,45.3942859
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,224197,Glen Cairn Public School,Ottawa,2,0,0,2,-75.884339,45.2964148
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,913472,Gloucester High School,Ottawa,1,0,0,1,-75.5993128,45.4384246
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,252875,Henry Munro Middle School,Ottawa,1,0,0,1,-75.59663239999999,45.4578974
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,916854,Hillcrest High School,Ottawa,0,1,0,1,-75.6392846,45.3986848
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,285455,John Young Elementary School,Ottawa,2,0,0,2,-75.8841924,45.2894091
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,037699,Le Phare Elementary School,Ottawa,2,0,0,2,-75.60252539999999,45.4495993
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,922960,Lisgar Collegiate Institute,Ottawa,1,0,0,1,-75.688366,45.4207787
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,332356,Manor Park Public School,Ottawa,1,0,0,1,-75.6559644,45.4502664
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,129690,Maple Ridge Elementary School,Ottawa,0,1,0,1,-75.4615581,45.4709058
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,463523,Queen Elizabeth Public School,Ottawa,5,0,0,5,-75.6442886,45.4382266
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,480428,Regina Street Alternative School,Ottawa,2,0,0,2,-75.790294,45.366708
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,938564,Ridgemont High School,Ottawa,0,1,0,1,-75.6600002,45.3762881
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,488356,Rockcliffe Park Public School,Ottawa,1,0,0,1,-75.677599,45.4511336
-2021-09-20,2021-09-21,Ottawa-Carleton District School Board,565750,Steve MacLean Public School,Ottawa,2,0,0,2,-75.6853405,45.2812661
-2021-09-20,2021-09-21,Ottawa Catholic School Board,724777,All Saints Catholic High School,Ottawa,1,0,0,1,-75.9250885,45.3217232
-2021-09-20,2021-09-21,Ottawa Catholic School Board,688193,Assumption Catholic Elementary School,Ottawa,0,1,0,1,-75.660692,45.43492
-2021-09-20,2021-09-21,Ottawa Catholic School Board,700193,Divine Infant Catholic Elementary School,Ottawa,1,0,0,1,-75.5134719,45.48671299999999
-2021-09-20,2021-09-21,Ottawa Catholic School Board,724734,Holy Trinity Catholic Intermediate School,Ottawa,1,0,0,1,-75.9012784,45.3082646
-2021-09-20,2021-09-21,Ottawa Catholic School Board,809020,Notre Dame High School,Ottawa,5,0,0,5,-75.7561971,45.3786715
-2021-09-20,2021-09-21,Ottawa Catholic School Board,707821,Our Lady of Mount Carmel Elementary School,Ottawa,1,4,0,5,-75.6356389,45.4346372
-2021-09-20,2021-09-21,Ottawa Catholic School Board,749168,Our Lady of Victory Elementary School,Ottawa,1,0,0,1,-75.7799241,45.3498521
-2021-09-20,2021-09-21,Ottawa Catholic School Board,701599,St Andrew Elementary School,Ottawa,0,1,0,1,-75.7089837,45.2850671
-2021-09-20,2021-09-21,Ottawa Catholic School Board,849407,St. Benedict Elementary School,Ottawa,1,0,0,1,-75.7353915,45.2421218
-2021-09-20,2021-09-21,Ottawa Catholic School Board,688738,St Elizabeth Ann Seton Elementary School,Ottawa,2,0,0,2,-75.7692947,45.270977
-2021-09-20,2021-09-21,Ottawa Catholic School Board,848612,St. Francis Xavier (7-8) Catholic School,Ottawa,3,0,0,3,-75.6691426,45.2904731
-2021-09-20,2021-09-21,Ottawa Catholic School Board,843510,St. Francis Xavier (9-12) Catholic School,Ottawa,1,0,0,1,-75.6691426,45.2904731
-2021-09-20,2021-09-21,Ottawa Catholic School Board,729795,St Isidore Elementary School,Ottawa,1,0,0,1,-75.9488763,45.3668037
-2021-09-20,2021-09-21,Ottawa Catholic School Board,804126,St John the Apostle Elementary School,Ottawa,1,0,0,1,-75.79347299999999,45.33393
-2021-09-20,2021-09-21,Ottawa Catholic School Board,741680,St. Kateri Tekakwitha Elementary School,Ottawa,6,0,0,6,-75.5235547,45.4585307
-2021-09-20,2021-09-21,Ottawa Catholic School Board,733288,St. Mother Teresa High School,Ottawa,1,0,0,1,-75.7393518,45.285012
-2021-09-20,2021-09-21,Ottawa Catholic School Board,816132,St Patrick's High School,Ottawa,2,0,0,2,-75.659931,45.3780258
-2021-09-20,2021-09-21,Ottawa Catholic School Board,689203,St Paul High School,Ottawa,2,0,0,2,-75.7926875,45.3417324
-2021-09-20,2021-09-21,Ottawa Catholic School Board,842915,St Paul Intermediate School,Ottawa,2,0,0,2,-75.7926875,45.3417324
-2021-09-20,2021-09-21,Ottawa Catholic School Board,843296,St Peter High School,Ottawa,2,0,0,2,-75.4769561,45.4747775
-2021-09-20,2021-09-21,Ottawa Catholic School Board,847313,St Pius X High School,Ottawa,1,1,0,2,-75.7124051,45.3651801
-2021-09-20,2021-09-21,Ottawa Catholic School Board,689130,St. Rose of Lima Elementary School,Ottawa,1,0,0,1,-75.80680500000001,45.35077039999999
-2021-09-20,2021-09-21,Ottawa Catholic School Board,744065,St. Stephen Catholic Elementary School,Ottawa,1,0,0,1,-75.931714,45.2747134
-2021-09-20,2021-09-21,Peel District School Board,071188,Burnhamthorpe Public School,Mississauga,1,0,0,1,-79.5979328,43.6166955
-2021-09-20,2021-09-21,Peel District School Board,071781,Burnt Elm Public School,Brampton,1,0,0,1,-79.8180994,43.718641
-2021-09-20,2021-09-21,Peel District School Board,899003,Cawthra Park Secondary School,Mississauga,1,0,0,1,-79.5734938,43.5763613
-2021-09-20,2021-09-21,Peel District School Board,094757,Cheyne Middle School,Brampton,1,0,0,1,-79.8179082,43.7053954
-2021-09-20,2021-09-21,Peel District School Board,254568,Derry West Village Public School,Mississauga,7,0,0,7,-79.7235724,43.6405639
-2021-09-20,2021-09-21,Peel District School Board,165620,Edenbrook Hill Public School,Brampton,1,0,0,1,-79.8082853,43.6955187
-2021-09-20,2021-09-21,Peel District School Board,166936,Edenrose Public School,Mississauga,1,0,0,1,-79.6756876,43.5790271
-2021-09-20,2021-09-21,Peel District School Board,221538,Goldcrest Public School,Brampton,3,0,0,3,-79.7206972,43.7299977
-2021-09-20,2021-09-21,Peel District School Board,236845,Hazel McCallion Senior Public School,Mississauga,3,0,0,3,-79.7090808,43.5891109
-2021-09-20,2021-09-21,Peel District School Board,254550,Hickory Wood Public School,Brampton,1,0,0,1,-79.7428882,43.646312
-2021-09-20,2021-09-21,Peel District School Board,917559,Humberview Secondary School,Caledon,2,0,0,2,-79.73659,43.8879863
-2021-09-20,2021-09-21,Peel District School Board,005797,James Bolton Public School,Caledon,2,0,0,2,-79.741129,43.8866892
-2021-09-20,2021-09-21,Peel District School Board,297682,Kingswood Drive Public School,Brampton,0,1,0,1,-79.765954,43.7024507
-2021-09-20,2021-09-21,Peel District School Board,311960,Levi Creek Public School,Mississauga,1,0,0,1,-79.7475899,43.6232074
-2021-09-20,2021-09-21,Peel District School Board,904203,Louise Arbour Secondary School,Brampton,0,2,0,2,-79.7675382,43.7593116
-2021-09-20,2021-09-21,Peel District School Board,938009,Rick Hansen Secondary School,Mississauga,1,0,0,1,-79.6837785,43.5885904
-2021-09-20,2021-09-21,Peel District School Board,484849,Ridgewood Public School,Mississauga,1,0,0,1,-79.6405925,43.7151914
-2021-09-20,2021-09-21,Peel District School Board,486400,Riverside Public School,Mississauga,1,0,0,1,-79.5902653,43.5502235
-2021-09-20,2021-09-21,Peel District School Board,494275,Royal Orchard Middle School,Brampton,1,0,0,1,-79.7865063,43.6945128
-2021-09-20,2021-09-21,Peel District School Board,501506,Sawmill Valley Public School,Mississauga,2,0,0,2,-79.6799195,43.5515258
-2021-09-20,2021-09-21,Peel District School Board,510548,Sheridan Park Public School,Mississauga,1,0,0,1,-79.6659131,43.5298276
-2021-09-20,2021-09-21,Peel District School Board,516210,Sir Wilfrid Laurier Public School,Brampton,1,0,0,1,-79.7271563,43.677287
-2021-09-20,2021-09-21,Peel District School Board,945978,Streetsville Secondary School,Mississauga,1,0,0,1,-79.7195284,43.5796875
-2021-09-20,2021-09-21,Peel District School Board,551040,Terry Fox Public School,Brampton,1,0,0,1,-79.7924468,43.731294
-2021-09-20,2021-09-21,Peel District School Board,552259,Thomas Street Middle School,Mississauga,1,0,0,1,-79.7257273,43.5668011
-2021-09-20,2021-09-21,Peel District School Board,948187,T. L. Kennedy Secondary School,Mississauga,0,1,0,1,-79.6192452,43.5819102
-2021-09-20,2021-09-21,Peel District School Board,067723,Tribune Drive Public School,Brampton,0,1,0,1,-79.8394845,43.6907681
-2021-09-20,2021-09-21,Peel District School Board,578835,Vista Heights Public School,Mississauga,1,0,0,1,-79.7256076,43.5748007
-2021-09-20,2021-09-21,Peel District School Board,600091,Westervelts Corners Public School,Brampton,1,0,0,1,-79.7796544,43.7040385
-2021-09-20,2021-09-21,Peel District School Board,229647,Whaley's Corners Public School,Brampton,1,0,0,1,-79.7867162,43.6309896
-2021-09-20,2021-09-21,Peel District School Board,604780,Whitehorn Public School,Mississauga,2,0,0,2,-79.7028574,43.5962601
-2021-09-20,2021-09-21,Peterborough Victoria Northum Clarington Catholic District School Board,731358,Monsignor Leo Cleary Catholic Elementary School,Clarington,5,2,0,7,-78.789825,43.931867
-2021-09-20,2021-09-21,Peterborough Victoria Northum Clarington Catholic District School Board,788147,St. Elizabeth Catholic Elementary School,Clarington,1,0,0,1,-78.6929068,43.9289562
-2021-09-20,2021-09-21,Provincial and Demonstration Schools,B76686,Board Site,Milton,0,1,0,1,-79.87107209999999,43.5061943
-2021-09-20,2021-09-21,Rainbow District School Board,359529,Lasalle Elementary,Greater Sudbury,1,0,0,1,-80.939672,46.524667
-2021-09-20,2021-09-21,Rainbow District School Board,468070,R L Beattie Public School,Greater Sudbury,3,0,0,3,-80.9939727,46.4501419
-2021-09-20,2021-09-21,Rainy River District School Board,141518,Donald Young Public School,Emo,2,0,0,2,-93.8298807,48.6301321
-2021-09-20,2021-09-21,Simcoe County District School Board,003131,Admiral Collingwood Elementary School,Collingwood,1,0,0,1,-80.2029489,44.4862806
-2021-09-20,2021-09-21,Simcoe County District School Board,186666,Alliston Union Public School,New Tecumseth,4,0,0,4,-79.8713898,44.16255
-2021-09-20,2021-09-21,Simcoe County District School Board,080268,Cameron Street Public School,Collingwood,1,0,0,1,-80.21980359999999,44.4879041
-2021-09-20,2021-09-21,Simcoe County District School Board,456756,Chris Hadfield Public School,Bradford West Gwillimbury,1,0,0,1,-79.5852864,44.1049702
-2021-09-20,2021-09-21,Simcoe County District School Board,902551,Collingwood Collegiate Institute,Collingwood,1,0,0,1,-80.214944,44.487805
-2021-09-20,2021-09-21,Simcoe County District School Board,160172,East Oro Public School,Oro-Medonte,1,0,0,1,-79.495076,44.5288972
-2021-09-20,2021-09-21,Simcoe County District School Board,181323,Emma King Elementary School,Barrie,1,0,0,1,-79.731915,44.3962182
-2021-09-20,2021-09-21,Simcoe County District School Board,384550,Fieldcrest Elementary School,Bradford West Gwillimbury,2,0,0,2,-79.5817656,44.1149787
-2021-09-20,2021-09-21,Simcoe County District School Board,273988,Huron Park Public School,Midland,1,0,0,1,-79.8760917,44.7434208
-2021-09-20,2021-09-21,Simcoe County District School Board,225946,Hyde Park Public School,Barrie,1,0,0,1,-79.6070572,44.3592375
-2021-09-20,2021-09-21,Simcoe County District School Board,902636,Nottawasaga Pines Secondary School,Essa,2,0,0,2,-79.882859,44.312329
-2021-09-20,2021-09-21,Simcoe County District School Board,585599,W. H. Day Elementary School,Bradford West Gwillimbury,1,0,0,1,-79.570022,44.104777
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,808007,Saint Gabriel the Archangel Catholic School,Barrie,3,0,0,3,-79.6125823,44.3560231
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,777935,St Bernadette Elementary School,Barrie,2,0,0,2,-79.7214083,44.332426
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,790044,St Francis of Assisi Elementary School,Innisfil,2,0,0,2,-79.5512072,44.3035937
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,798436,St James Separate School,Adjala-Tosorontio,0,1,0,1,-79.8478305,44.0268224
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,813389,St Joseph's Separate School,Barrie,1,0,0,1,-79.6844182,44.412707
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,824690,St. Marie of the Incarnation Separate School,Bradford West Gwillimbury,1,0,0,1,-79.560783,44.1184119
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,833061,St Michael the Archangel Catholic Elementary School,Barrie,1,0,0,1,-79.6598283,44.3538003
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,836320,St Nicholas School,Barrie,2,0,0,2,-79.7291377,44.3225999
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,852775,St Theresa's Separate School,Midland,1,0,0,1,-79.8700223,44.7387651
-2021-09-20,2021-09-21,Simcoe Muskoka Catholic District School Board,773050,St Thomas Aquinas Catholic Secondary School,New Tecumseth,2,0,0,2,-79.8081743,44.0354002
-2021-09-20,2021-09-21,St Clair Catholic District School Board,690762,St. Angela Merici Catholic School,Chatham-Kent,2,0,0,2,-82.2249834,42.3986148
-2021-09-20,2021-09-21,St Clair Catholic District School Board,771295,St Anne Catholic School,Chatham-Kent,1,0,0,1,-81.9948776,42.3276222
-2021-09-20,2021-09-21,St Clair Catholic District School Board,773757,St Matthew Catholic School,Sarnia,1,0,0,1,-82.3824017,42.9726601
-2021-09-20,2021-09-21,St Clair Catholic District School Board,846015,St Philip Catholic School,Petrolia,2,0,0,2,-82.1509644,42.8803286
-2021-09-20,2021-09-21,Sudbury Catholic District School Board,689351,Bishop Alexander Carter Catholic Secondary School,Greater Sudbury,4,0,0,4,-80.9669721,46.6564035
-2021-09-20,2021-09-21,Sudbury Catholic District School Board,820436,Bishop Alexander Carter Elementary Schoo,Greater Sudbury,1,0,0,1,-80.96697209999999,46.6564035
-2021-09-20,2021-09-21,Sudbury Catholic District School Board,770744,St Anne Separate School,Greater Sudbury,1,0,0,1,-80.93372339999999,46.651287
-2021-09-20,2021-09-21,Sudbury Catholic District School Board,783358,St Charles College,Greater Sudbury,3,0,0,3,-80.927149,46.518235
-2021-09-20,2021-09-21,Sudbury Catholic District School Board,830399,St. Charles College Elementary,Greater Sudbury,1,0,0,1,-80.927149,46.518235
-2021-09-20,2021-09-21,Thames Valley District School Board,467572,Blenheim District Public School,Blandford-Blenheim,1,0,0,1,-80.5504972,43.23590979999999
-2021-09-20,2021-09-21,Thames Valley District School Board,136020,Cedar Hollow Public School,London,1,0,0,1,-81.2120312,43.0431678
-2021-09-20,2021-09-21,Thames Valley District School Board,899305,Central Elgin Collegiate Institute,St. Thomas,1,0,0,1,-81.173915,42.7700861
-2021-09-20,2021-09-21,Thames Valley District School Board,901644,Clarke Road Secondary School,London,0,1,0,1,-81.1721,42.9997
-2021-09-20,2021-09-21,Thames Valley District School Board,902420,College Avenue Secondary School,Woodstock,0,1,0,1,-80.74548279999999,43.1242326
-2021-09-20,2021-09-21,Thames Valley District School Board,912956,Glendale High School,Tillsonburg,1,0,0,1,-80.7417955,42.8671791
-2021-09-20,2021-09-21,Thames Valley District School Board,257737,Hillcrest Public School,London,1,0,0,1,-81.2238051,43.0223341
-2021-09-20,2021-09-21,Thames Valley District School Board,280810,Jack Chambers Public School,London,1,0,0,1,-81.26943419999999,43.0363654
-2021-09-20,2021-09-21,Thames Valley District School Board,289710,Kensal Park Public School,London,2,0,0,2,-81.2783894,42.9697794
-2021-09-20,2021-09-21,Thames Valley District School Board,000469,Lambeth Public School,London,1,1,0,2,-81.2976024,42.913418
-2021-09-20,2021-09-21,Thames Valley District School Board,351466,McGillivray Central School,North Middlesex,1,0,0,1,-81.5793991,43.2008972
-2021-09-20,2021-09-21,Thames Valley District School Board,410748,Northdale Public School,Woodstock,1,0,0,1,-80.7554232,43.1406001
-2021-09-20,2021-09-21,Thames Valley District School Board,944939,Parkside Collegiate Institute,St. Thomas,1,0,0,1,-81.1930415,42.755919
-2021-09-20,2021-09-21,Thames Valley District School Board,941743,Sir Frederick Banting Secondary School,London,1,0,0,1,-81.3050783,43.0021399
-2021-09-20,2021-09-21,Thames Valley District School Board,586970,Stoney Creek Public School,London,1,0,0,1,-81.2422882,43.0460188
-2021-09-20,2021-09-21,Thames Valley District School Board,951439,West Elgin Secondary School,West Elgin,2,0,0,2,-81.598599,42.598233
-2021-09-20,2021-09-21,Thames Valley District School Board,073745,Westfield Public School,Tillsonburg,2,0,0,2,-80.7491899,42.8582204
-2021-09-20,2021-09-21,Toronto Catholic District School Board,710601,Blessed Margherita of Citta Castello Catholic School,Toronto,2,0,0,2,-79.5079102,43.7437156
-2021-09-20,2021-09-21,Toronto Catholic District School Board,694045,Canadian Martyrs Catholic School,Toronto,1,0,0,1,-79.3197093,43.6982088
-2021-09-20,2021-09-21,Toronto Catholic District School Board,707589,Father Henry Carr Catholic Secondary School,Toronto,0,1,0,1,-79.5921817,43.7360602
-2021-09-20,2021-09-21,Toronto Catholic District School Board,731951,Father John Redmond Catholic Secondary School,Toronto,1,0,0,1,-79.5167212,43.5948601
-2021-09-20,2021-09-21,Toronto Catholic District School Board,719528,Holy Rosary Catholic School,Toronto,0,1,0,1,-79.4142534,43.6848122
-2021-09-20,2021-09-21,Toronto Catholic District School Board,723428,Jean Vanier Catholic Secondary School,Toronto,1,0,0,1,-79.25841439999999,43.7379705
-2021-09-20,2021-09-21,Toronto Catholic District School Board,728063,Loretto College School,Toronto,1,0,0,1,-79.4432802,43.6759651
-2021-09-20,2021-09-21,Toronto Catholic District School Board,730653,Marshall McLuhan Catholic Secondary School,Toronto,1,0,0,1,-79.4093017,43.7079505
-2021-09-20,2021-09-21,Toronto Catholic District School Board,763772,Senator O'Connor College School,Toronto,2,0,0,2,-79.317419,43.7506144
-2021-09-20,2021-09-21,Toronto Catholic District School Board,775444,St Augustine Catholic School,Toronto,1,0,0,1,-79.5250424,43.7680849
-2021-09-20,2021-09-21,Toronto Catholic District School Board,780880,St Brigid Catholic School,Toronto,1,0,0,1,-79.3168714,43.6868117
-2021-09-20,2021-09-21,Toronto Catholic District School Board,784389,St Clare Catholic School,Toronto,1,0,0,1,-79.441401,43.6793488
-2021-09-20,2021-09-21,Toronto Catholic District School Board,788163,St Edward Catholic School,Toronto,3,0,0,3,-79.41351379999999,43.7535081
-2021-09-20,2021-09-21,Toronto Catholic District School Board,789917,St Fidelis Catholic School,Toronto,2,2,0,4,-79.4852408,43.7173818
-2021-09-20,2021-09-21,Toronto Catholic District School Board,793620,St Gabriel Catholic Catholic School,Toronto,0,1,0,1,-79.3909579,43.7691091
-2021-09-20,2021-09-21,Toronto Catholic District School Board,694193,St John Henry Newman Catholic High School,Toronto,1,0,0,1,-79.2403912,43.7147603
-2021-09-20,2021-09-21,Toronto Catholic District School Board,802468,St John the Evangelist Catholic School,Toronto,1,0,0,1,-79.5206919,43.703366
-2021-09-20,2021-09-21,Toronto Catholic District School Board,805971,St Josaphat Catholic School,Toronto,1,0,0,1,-79.508719,43.5994813
-2021-09-20,2021-09-21,Toronto Catholic District School Board,817287,St Lawrence Catholic School,Toronto,1,0,0,1,-79.2799645,43.7491775
-2021-09-20,2021-09-21,Toronto Catholic District School Board,802247,St Martin Catholic School (St.Martin),Toronto,1,0,0,1,-79.3644439,43.6669477
-2021-09-20,2021-09-21,Toronto Catholic District School Board,836133,St Nicholas Catholic School,Toronto,1,0,0,1,-79.2330176,43.7479438
-2021-09-20,2021-09-21,Toronto Catholic District School Board,848875,St Richard Catholic School,Toronto,3,0,0,3,-79.239856,43.7683236
-2021-09-20,2021-09-21,Toronto Catholic District School Board,849650,St Robert Catholic School,Toronto,1,0,0,1,-79.4444112,43.7498365
-2021-09-20,2021-09-21,Toronto Catholic District School Board,856541,St Timothy Catholic School,Toronto,1,0,0,1,-79.35114659999999,43.7749766
-2021-09-20,2021-09-21,Toronto Catholic District School Board,859036,St Wilfrid Catholic School,Toronto,1,1,0,2,-79.5025515,43.7600685
-2021-09-20,2021-09-21,Toronto District School Board,287801,Alvin Curling Public School,Toronto,4,1,0,5,-79.1901378,43.8083169
-2021-09-20,2021-09-21,Toronto District School Board,049344,Birch Cliff Public School,Toronto,1,1,0,2,-79.2653469,43.6916538
-2021-09-20,2021-09-21,Toronto District School Board,050679,Blake Street Junior Public School,Toronto,1,0,0,1,-79.3384795,43.6718149
-2021-09-20,2021-09-21,Toronto District School Board,054593,Bliss Carman Senior Public School,Toronto,5,0,0,5,-79.2255448,43.7325371
-2021-09-20,2021-09-21,Toronto District School Board,055328,Blythwood Junior Public School,Toronto,1,0,0,1,-79.3893342,43.7195626
-2021-09-20,2021-09-21,Toronto District School Board,425826,Carleton Village Junior and Senior Public School,Toronto,1,0,0,1,-79.4601581,43.672613
-2021-09-20,2021-09-21,Toronto District School Board,106151,Chester Elementary School,Toronto,1,0,0,1,-79.3514383,43.6876142
-2021-09-20,2021-09-21,Toronto District School Board,123315,Cornell Junior Public School,Toronto,2,0,0,2,-79.218356,43.759448
-2021-09-20,2021-09-21,Toronto District School Board,413470,D A Morrison Middle School,Toronto,1,0,0,1,-79.3117458,43.6954146
-2021-09-20,2021-09-21,Toronto District School Board,133582,Danforth Gardens Public School,Toronto,1,0,0,1,-79.2710626,43.7085484
-2021-09-20,2021-09-21,Toronto District School Board,135011,Davisville Junior Public School,Toronto,1,0,0,1,-79.4367975,43.6907183
-2021-09-20,2021-09-21,Toronto District School Board,153478,Dunlace Public School,Toronto,1,0,0,1,-79.3704177,43.7622441
-2021-09-20,2021-09-21,Toronto District School Board,906450,Earl Haig Secondary School,Toronto,1,1,0,2,-79.406068,43.7694734
-2021-09-20,2021-09-21,Toronto District School Board,906840,East York Collegiate Institute,Toronto,3,0,0,3,-79.3278337,43.6948087
-2021-09-20,2021-09-21,Toronto District School Board,361348,Fairbank Memorial Community School,Toronto,1,0,0,1,-79.4558014,43.6917504
-2021-09-20,2021-09-21,Toronto District School Board,910481,Forest Hill Collegiate Institute,Toronto,0,2,0,2,-79.4214749,43.7028779
-2021-09-20,2021-09-21,Toronto District School Board,511195,Fraser Mustard Early Learning Academy,Toronto,1,0,0,1,-79.344171,43.705151
-2021-09-20,2021-09-21,Toronto District School Board,252816,Henry Hudson Senior Public School,Toronto,1,0,0,1,-79.2146947,43.777754
-2021-09-20,2021-09-21,Toronto District School Board,270342,Humber Valley Village Junior Middle School,Toronto,0,1,0,1,-79.5267309,43.6654635
-2021-09-20,2021-09-21,Toronto District School Board,918547,Jarvis Collegiate Institute,Toronto,1,0,0,1,-79.3776125,43.6658765
-2021-09-20,2021-09-21,Toronto District School Board,906736,John Polanyi Collegiate Institute,Toronto,1,0,0,1,-79.4397628,43.7173659
-2021-09-20,2021-09-21,Toronto District School Board,296473,King George Junior Public School,Toronto,9,0,0,9,-79.4868796,43.6631967
-2021-09-20,2021-09-21,Toronto District School Board,305707,Lambton Park Community School,Toronto,1,0,0,1,-79.4982237,43.6673783
-2021-09-20,2021-09-21,Toronto District School Board,922315,Leaside High School,Toronto,1,0,0,1,-79.372426,43.7111943
-2021-09-20,2021-09-21,Toronto District School Board,311812,Leslieville Junior Public School,Toronto,2,0,0,2,-79.3323009,43.6674572
-2021-09-20,2021-09-21,Toronto District School Board,922498,Lester B Pearson Collegiate Institute,Toronto,1,0,0,1,-79.225092,43.8041614
-2021-09-20,2021-09-21,Toronto District School Board,346659,Mason Road Junior Public School,Toronto,1,0,0,1,-79.225666,43.7391573
-2021-09-20,2021-09-21,Toronto District School Board,365769,Millwood Junior School,Toronto,1,0,0,1,-79.5771723,43.6335106
-2021-09-20,2021-09-21,Toronto District School Board,930504,North Toronto Collegiate Institute,Toronto,1,0,0,1,-79.3966319,43.7098648
-2021-09-20,2021-09-21,Toronto District School Board,932116,Oasis Alternative Secondary School,Toronto,1,0,0,1,-79.39822889999999,43.6457371
-2021-09-20,2021-09-21,Toronto District School Board,419710,Orde Street Public School,Toronto,1,0,0,1,-79.3920484,43.6583217
-2021-09-20,2021-09-21,Toronto District School Board,490300,Rose Avenue Junior Public School,Toronto,1,0,0,1,-79.3725444,43.67025659999999
-2021-09-20,2021-09-21,Toronto District School Board,495506,Ryerson Community School Junior Senior,Toronto,2,0,0,2,-79.4023283,43.6517418
-2021-09-20,2021-09-21,Toronto District School Board,949744,SATEC @ W A Porter Collegiate Institute,Toronto,1,0,0,1,-79.2873215,43.7166108
-2021-09-20,2021-09-21,Toronto District School Board,505587,Seneca School,Toronto,1,0,0,1,-79.5820289,43.6511598
-2021-09-20,2021-09-21,Toronto District School Board,515132,Sir Adam Beck Junior School,Toronto,1,0,0,1,-79.5482315,43.6017735
-2021-09-20,2021-09-21,Toronto District School Board,515337,Sir Ernest MacMillan Senior Public School,Toronto,1,0,0,1,-79.328599,43.8064283
-2021-09-20,2021-09-21,Toronto District School Board,941972,Sir Oliver Mowat Collegiate Institute,Toronto,1,0,0,1,-79.1420622,43.7793926
-2021-09-20,2021-09-21,Toronto District School Board,942200,Sir Wilfrid Laurier Collegiate Institute,Toronto,1,0,0,1,-79.1971404,43.7475868
-2021-09-20,2021-09-21,Toronto District School Board,531022,St Margaret's Public School,Toronto,1,0,0,1,-79.1957525,43.7679964
-2021-09-20,2021-09-21,Toronto District School Board,555169,The Waterfront School,Toronto,2,0,0,2,-79.3974515,43.636048099999996
-2021-09-20,2021-09-21,Toronto District School Board,947407,Thistletown Collegiate Institute,Toronto,1,0,0,1,-79.5614312,43.7273126
-2021-09-20,2021-09-21,Toronto District School Board,951560,West Hill Collegiate Institute,Toronto,1,0,0,1,-79.1903221,43.7757537
-2021-09-20,2021-09-21,Toronto District School Board,602850,Weston Memorial Junior Public School,Toronto,1,0,0,1,-79.5093989,43.7060047
-2021-09-20,2021-09-21,Toronto District School Board,603406,Westwood Middle School,Toronto,1,0,0,1,-79.351016,43.686483
-2021-09-20,2021-09-21,Toronto District School Board,954683,York Memorial Collegiate Institute,Toronto,1,2,0,3,-79.5311855,43.6897554
-2021-09-20,2021-09-21,Trillium Lakelands District School Board,909700,Fenelon Falls Secondary School,Kawartha Lakes,1,0,0,1,-78.73958019999999,44.5324547
-2021-09-20,2021-09-21,Trillium Lakelands District School Board,357707,Glen Orchard Public School,Muskoka Lakes,1,0,0,1,-79.6337738,45.0853614
-2021-09-20,2021-09-21,Trillium Lakelands District School Board,227099,Grandview Public School,Kawartha Lakes,1,0,0,1,-78.6565094,44.1604351
-2021-09-20,2021-09-21,Trillium Lakelands District School Board,278211,Irwin Memorial Public School,Lake of Bays,2,0,0,2,-78.9971173,45.3236909
-2021-09-20,2021-09-21,Upper Canada District School Board,106283,Chesterville Public School,North Dundas,1,0,0,1,-75.2326373,45.1002239
-2021-09-20,2021-09-21,Upper Canada District School Board,902810,Cornwall Collegiate and Vocational School,Cornwall,2,0,0,2,-74.7285075,45.0228721
-2021-09-20,2021-09-21,Upper Canada District School Board,477957,Cornwall Intermediate School,Cornwall,3,0,0,3,-74.6982426,45.03004199999999
-2021-09-20,2021-09-21,Upper Canada District School Board,349623,Maynard Public School,Augusta,2,0,0,2,-75.5824728,44.7251746
-2021-09-20,2021-09-21,Upper Canada District School Board,452297,Pleasant Corners Public School,Champlain,1,0,0,1,-74.6358605,45.5475499
-2021-09-20,2021-09-21,Upper Canada District School Board,935425,Rockland District High School,Clarence-Rockland,1,0,0,1,-75.285136,45.5441483
-2021-09-20,2021-09-21,Upper Canada District School Board,488542,Rockland Public School,Clarence-Rockland,2,0,0,2,-75.28666199999999,45.54535
-2021-09-20,2021-09-21,Upper Canada District School Board,167126,South Edwardsburg Public School,Edwardsburgh/Cardinal,1,0,0,1,-75.4661422,44.7484877
-2021-09-20,2021-09-21,Upper Canada District School Board,540056,St Lawrence Intermediate School,Cornwall,4,0,0,4,-74.6982426,45.03004199999999
-2021-09-20,2021-09-21,Upper Canada District School Board,944670,St Lawrence Secondary School,Cornwall,6,0,0,6,-74.6982426,45.030042
-2021-09-20,2021-09-21,Upper Canada District School Board,946648,Tagwi Secondary School,North Stormont,0,1,0,1,-74.9285867,45.1798411
-2021-09-20,2021-09-21,Upper Canada District School Board,949094,Vankleek Hill Collegiate Institute,Champlain,2,0,0,2,-74.6530358,45.5225305
-2021-09-20,2021-09-21,Upper Canada District School Board,578444,Viscount Alexander Public School,Cornwall,13,2,0,15,-74.7665122,45.0151915
-2021-09-20,2021-09-21,Upper Grand District School Board,B66117,Board Site,Guelph,0,0,1,1,-80.2627031,43.5791119
-2021-09-20,2021-09-21,Upper Grand District School Board,418790,Credit Meadows Elementary School,Orangeville,0,0,2,2,-80.1169483,43.9220675
-2021-09-20,2021-09-21,Upper Grand District School Board,178969,Elora Public School,Centre Wellington,0,0,2,2,-80.4197004,43.6882615
-2021-09-20,2021-09-21,Upper Grand District School Board,909050,Erin District High School,Erin,0,0,1,1,-80.0678383,43.7788464
-2021-09-20,2021-09-21,Upper Grand District School Board,418765,Island Lake Public School,Orangeville,0,0,1,1,-80.0757552,43.9215754
-2021-09-20,2021-09-21,Upper Grand District School Board,918679,John F Ross Collegiate and Vocational Institute,Guelph,0,0,1,1,-80.24662440000002,43.5614365
-2021-09-20,2021-09-21,Upper Grand District School Board,286729,June Avenue Public School,Guelph,0,0,3,3,-80.2752515,43.5549991
-2021-09-20,2021-09-21,Upper Grand District School Board,586866,Ken Danby Public School,Guelph,0,0,3,3,-80.2212388,43.5704342
-2021-09-20,2021-09-21,Upper Grand District School Board,368644,Mitchell Woods Public School,Guelph,0,0,2,2,-80.2942359,43.5272717
-2021-09-20,2021-09-21,Upper Grand District School Board,271678,Rickson Ridge Public School,Guelph,0,0,1,1,-80.2127163,43.5133119
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,718920,Holy Rosary Catholic Elementary School,Waterloo,1,0,0,1,-80.5537295,43.445444
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,720208,Holy Spirit Catholic Elementary School,Cambridge,0,1,0,1,-80.2805167,43.3439334
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,732320,Monsignor Doyle Catholic Secondary School,Cambridge,2,0,0,2,-80.298,43.3409853
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,744700,Our Lady of Grace Catholic Elementary School,Kitchener,1,0,0,1,-80.4781229,43.419855
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,753009,Resurrection Catholic Secondary School,Kitchener,1,0,0,1,-80.5468556,43.4405344
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,764450,Sir Edgar Bauer Catholic Elementary School,Waterloo,2,0,0,2,-80.5542617,43.4915782
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,776726,St Benedict Catholic Secondary School,Cambridge,2,0,0,2,-80.300535,43.3929749
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,780650,St Brigid Catholic Elementary School,North Dumfries,3,0,0,3,-80.4610888,43.2905041
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,786217,St David Catholic Secondary School,Waterloo,2,0,0,2,-80.5294301,43.48422799999999
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,786772,St Dominic Savio Catholic Elementary School,Kitchener,0,1,0,1,-80.5399568,43.43377659999999
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,788694,St Elizabeth Catholic Elementary School,Cambridge,1,0,0,1,-80.2909529,43.4259249
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,831724,St Gabriel Catholic Elementary School,Cambridge,1,0,0,1,-80.3134538,43.441757
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,801682,St John Catholic Elementary School,Kitchener,1,0,0,1,-80.5088484,43.4491127
-2021-09-20,2021-09-21,Waterloo Catholic District School Board,832103,St Mary's High School,Kitchener,0,1,0,1,-80.4670935,43.4202176
-2021-09-20,2021-09-21,Waterloo Region District School Board,028541,Avenue Road Public School,Cambridge,0,1,0,1,-80.3131681,43.3798204
-2021-09-20,2021-09-21,Waterloo Region District School Board,588849,Breslau Public School,Woolwich,1,0,0,1,-80.4166412,43.477936
-2021-09-20,2021-09-21,Waterloo Region District School Board,620432,Conestogo Public School,Woolwich,2,1,0,3,-80.508382,43.541877
-2021-09-20,2021-09-21,Waterloo Region District School Board,124354,Coronation Public School,Cambridge,0,1,0,1,-80.3452441,43.39993279999999
-2021-09-20,2021-09-21,Waterloo Region District School Board,910350,Forest Heights Collegiate Institute,Kitchener,2,1,0,3,-80.5219633,43.4258866
-2021-09-20,2021-09-21,Waterloo Region District School Board,201448,Forest Hill Public School,Kitchener,2,0,0,2,-80.5057261,43.4261387
-2021-09-20,2021-09-21,Waterloo Region District School Board,913340,Glenview Park Secondary School,Cambridge,1,0,0,1,-80.3069096,43.3463241
-2021-09-20,2021-09-21,Waterloo Region District School Board,095230,Hespeler Public School,Cambridge,0,1,0,1,-80.3050266,43.4207453
-2021-09-20,2021-09-21,Waterloo Region District School Board,918555,Jacob Hespeler Secondary School,Cambridge,1,0,0,1,-80.3163779,43.4180047
-2021-09-20,2021-09-21,Waterloo Region District School Board,303003,Lackner Woods Public School,Kitchener,1,0,0,1,-80.4192784,43.4527284
-2021-09-20,2021-09-21,Waterloo Region District School Board,486140,Riverside Public School,Woolwich,1,0,0,1,-80.5709464,43.604217
-2021-09-20,2021-09-21,Waterloo Region District School Board,509159,Sheppard Public School,Kitchener,1,0,0,1,-80.4721244,43.4466499
-2021-09-20,2021-09-21,Waterloo Region District School Board,942006,Sir John A Macdonald Secondary School,Waterloo,1,0,0,1,-80.5941144,43.471009
-2021-09-20,2021-09-21,Waterloo Region District School Board,534242,Stanley Park Public School,Kitchener,1,1,0,2,-80.44803689999999,43.4536933
-2021-09-20,2021-09-21,Waterloo Region District School Board,547506,Tait Street Public School,Cambridge,1,0,0,1,-80.3234867,43.3390631
-2021-09-20,2021-09-21,Waterloo Region District School Board,951048,Waterloo-Oxford District Secondary School,Wilmot,2,0,0,2,-80.689385,43.4013686
-2021-09-20,2021-09-21,Waterloo Region District School Board,602906,Westvale Public School,Waterloo,1,0,0,1,-80.5601119,43.4450334
-2021-09-20,2021-09-21,Wellington Catholic District School Board,798690,St James Catholic School,Guelph,1,0,0,1,-80.2328736,43.5602061
-2021-09-20,2021-09-21,Wellington Catholic District School Board,808830,St Joseph Catholic School,Guelph,3,0,0,3,-80.2682172,43.5385257
-2021-09-20,2021-09-21,Wellington Catholic District School Board,833690,St Michael Catholic School,Guelph,1,0,0,1,-80.2238531,43.5190044
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,688363,Assumption College School,Windsor,1,0,0,1,-83.0611267,42.2956428
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,694452,Cardinal Carter Catholic Secondary School,Leamington,2,0,0,2,-82.6171272,42.0419259
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,700088,Catholic Central,Windsor,2,0,0,2,-83.0183257,42.29705
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,706523,F J Brennan Catholic High School,Windsor,1,0,0,1,-82.975601,42.324782
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,704245,Holy Cross Catholic Elementary School,Lasalle,1,0,0,1,-83.022055,42.235847
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,725510,L A Desmarais Catholic School,Windsor,2,0,0,2,-82.909467,42.309686
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,769576,St Angela Catholic School,Windsor,2,0,0,2,-83.0175813,42.3060125
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,771520,St Anne Secondary School,Lakeshore,2,0,0,2,-82.765594,42.289106
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,859575,Stella Maris Catholic School,Amherstburg,1,0,0,1,-83.106554,42.115545
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,803243,St John de Brebeuf Catholic School,Kingsville,1,0,0,1,-82.734466,42.036738
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,781533,St John Vianney Catholic School,Windsor,2,0,0,2,-82.939782,42.337197
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,736163,St Joseph's High School,Windsor,6,1,0,7,-82.9121975,42.3168561
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,844160,St Peter Catholic School,Tecumseh,1,0,0,1,-82.8821201,42.2810584
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,847704,St Pius X Catholic School,Tecumseh,1,0,0,1,-82.883453,42.321029
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,849910,St Rose Catholic School,Windsor,0,1,0,1,-82.9543086,42.3302605
-2021-09-20,2021-09-21,Windsor-Essex Catholic District School Board,778931,St Teresa of CalcuttaCatholic School,Windsor,1,0,0,1,-82.9854219,42.3051826
-2021-09-20,2021-09-21,York Catholic District School Board,874361,Blessed Trinity Catholic Elementary School,Vaughan,3,0,0,3,-79.5261052,43.8438528
-2021-09-20,2021-09-21,York Catholic District School Board,728632,Cardinal Carter Catholic Secondary School,Aurora,0,1,0,1,-79.4669061,43.96279699999999
-2021-09-20,2021-09-21,York Catholic District School Board,706809,Father Michael McGivney Catholic High School,Markham,1,0,0,1,-79.2788897,43.8501249
-2021-09-20,2021-09-21,York Catholic District School Board,744026,Our Lady of Fatima Catholic Elementary School,Vaughan,1,0,0,1,-79.6009612,43.8113481
-2021-09-20,2021-09-21,York Catholic District School Board,874888,Our Lady Queen of the World CA High School,Richmond Hill,1,0,0,1,-79.4167327,43.886699
-2021-09-20,2021-09-21,York Catholic District School Board,766636,Pope Francis Catholic Elementary School,Vaughan,1,0,0,1,-79.6559658,43.8300092
-2021-09-20,2021-09-21,York Catholic District School Board,756709,Sacred Heart Catholic High School,Newmarket,1,0,0,1,-79.4396918,44.0570582
-2021-09-20,2021-09-21,York Catholic District School Board,753161,San Lorenzo Ruiz Catholic Elementary School,Markham,2,0,0,2,-79.2827564,43.8974401
-2021-09-20,2021-09-21,York Catholic District School Board,765708,St Augustine Catholic High School,Markham,1,0,0,1,-79.358348,43.8749274
-2021-09-20,2021-09-21,York Catholic District School Board,781460,St Catherine of Siena Catholic Elementary School,Vaughan,1,0,0,1,-79.5734258,43.7783757
-2021-09-20,2021-09-21,York Catholic District School Board,799912,St Jean de Brebeuf Catholic High School,Vaughan,2,0,0,2,-79.5596005,43.8353428
-2021-09-20,2021-09-21,York Catholic District School Board,801259,St Joan of Arc Catholic High School,Vaughan,1,0,0,1,-79.5189183,43.8612838
-2021-09-20,2021-09-21,York Catholic District School Board,761079,St John Bosco Catholic Elementary School,Vaughan,1,0,0,1,-79.55709519999999,43.8043876
-2021-09-20,2021-09-21,York Catholic District School Board,830437,St Mary Catholic Elementary School,King,3,0,0,3,-79.6455135,43.907782
-2021-09-20,2021-09-21,York Catholic District School Board,728752,St Mary of the Angels Catholic Elementary School,Vaughan,1,0,0,1,-79.5583245,43.8547558
-2021-09-20,2021-09-21,York Catholic District School Board,737242,St Veronica Catholic Elementary School,Vaughan,0,1,0,1,-79.5656864,43.8388396
-2021-09-20,2021-09-21,York Region District School Board,904040,Alexander MacKenzie High School,Richmond Hill,1,0,0,1,-79.448071,43.8698743
-2021-09-20,2021-09-21,York Region District School Board,068710,Alexander Muir Public School,Newmarket,2,0,0,2,-79.4987413,44.0554441
-2021-09-20,2021-09-21,York Region District School Board,112387,Anne Frank Public School,Vaughan,1,1,0,2,-79.4651009,43.8591387
-2021-09-20,2021-09-21,York Region District School Board,028282,Aurora Heights Public School,Aurora,1,0,0,1,-79.47391329999999,44.0038906
-2021-09-20,2021-09-21,York Region District School Board,071870,Buttonville Public School,Markham,2,0,0,2,-79.3552818,43.8647182
-2021-09-20,2021-09-21,York Region District School Board,086517,Castlemore Elementary Public School,Markham,1,0,0,1,-79.3037987,43.8975546
-2021-09-20,2021-09-21,York Region District School Board,128511,Crosby Heights Public School,Richmond Hill,1,0,0,1,-79.4254115,43.884759
-2021-09-20,2021-09-21,York Region District School Board,246078,David Suzuki Public School,Markham,3,0,0,3,-79.2253008,43.8558865
-2021-09-20,2021-09-21,York Region District School Board,904970,Dr John M Denison Secondary School,Newmarket,0,1,0,1,-79.4767299,44.0691009
-2021-09-20,2021-09-21,York Region District School Board,908819,Emily Carr Secondary School,Vaughan,2,0,0,2,-79.5940281,43.8170262
-2021-09-20,2021-09-21,York Region District School Board,156019,E T Crowle Public School,Markham,1,0,0,1,-79.2565839,43.8904297
-2021-09-20,2021-09-21,York Region District School Board,254078,Herbert H Carnegie Public School,Vaughan,1,0,0,1,-79.4773339,43.8771237
-2021-09-20,2021-09-21,York Region District School Board,917893,Huron Heights Secondary School,Newmarket,2,0,0,2,-79.446758,44.064323
-2021-09-20,2021-09-21,York Region District School Board,951714,Maple High School,Vaughan,1,0,0,1,-79.5309309,43.8395045
-2021-09-20,2021-09-21,York Region District School Board,356263,Meadowbrook Public School,Newmarket,1,0,0,1,-79.45049639999999,44.0693068
-2021-09-20,2021-09-21,York Region District School Board,234591,Park Avenue Public School,East Gwillimbury,1,0,0,1,-79.507658,44.1104119
-2021-09-20,2021-09-21,York Region District School Board,894672,Pierre Elliott Trudeau High School,Markham,0,1,0,1,-79.3134237,43.8896491
-2021-09-20,2021-09-21,York Region District School Board,257447,Rick Hansen Public School,Aurora,1,0,0,1,-79.4417523,44.0209442
-2021-09-20,2021-09-21,York Region District School Board,548712,Thornhill Woods Public School,Vaughan,1,0,0,1,-79.4670026,43.8350163
-2021-09-20,2021-09-21,York Region District School Board,340936,Unionville Public School,Markham,1,0,0,1,-79.3137112,43.8745162
-2021-09-20,2021-09-21,York Region District School Board,954292,Woodbridge College,Vaughan,1,0,0,1,-79.5823801,43.7799382
-2021-09-20,2021-09-21,York Region District School Board,617318,Woodbridge Public School,Vaughan,1,0,0,1,-79.595124,43.7803723
+2021-09-21,2021-09-22,Algonquin and Lakeshore Catholic District School Board,835099,Nicholson Catholic College,Belleville,2,1,0,3,-77.3823258,44.1687268
+2021-09-21,2021-09-22,Algonquin and Lakeshore Catholic District School Board,756830,Sacred Heart Catholic School,Marmora and Lake,0,1,0,1,-77.6783376,44.4805844
+2021-09-21,2021-09-22,Algonquin and Lakeshore Catholic District School Board,831840,St Mary Catholic School,Quinte West,1,0,0,1,-77.566086,44.108875
+2021-09-21,2021-09-22,Avon Maitland District School Board,093718,Central Perth Elementary School,Perth East,1,0,0,1,-81.0262188,43.46338799999999
+2021-09-21,2021-09-22,Avon Maitland District School Board,190527,Exeter Elementary School,South Huron,1,0,0,1,-81.4770721,43.3509402
+2021-09-21,2021-09-22,Brant Haldimand Norfolk Catholic District School Board,750259,Jean Vanier Catholic Elementary School,Brantford,1,0,0,1,-80.249999,43.1211028
+2021-09-21,2021-09-22,Brant Haldimand Norfolk Catholic District School Board,736481,Notre Dame Catholic Catholic Elementary School,Haldimand County,2,0,0,2,-79.9639095,43.0619772
+2021-09-21,2021-09-22,Brant Haldimand Norfolk Catholic District School Board,751898,St John's College,Brantford,1,0,0,1,-80.287368,43.1607429
+2021-09-21,2021-09-22,Bruce-Grey Catholic District School Board,737399,Notre Dame Catholic School,Owen Sound,1,0,0,1,-80.9224244,44.5886061
+2021-09-21,2021-09-22,Bruce-Grey Catholic District School Board,732800,St Teresa of Calcutta Catholic School,Brockton,1,0,0,1,-81.1468565,44.1155534
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,715190,Holy Trinity Catholic Secondary School,South Glengarry,1,0,0,1,-74.6732692,45.0453521
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,691127,J L Jordan Separate School,Brockville,0,1,0,1,-75.67986839999999,44.6092522
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,736457,Notre Dame Catholic High School,Carleton Place,2,0,0,2,-76.1584404,45.1428542
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,758787,Sacred Heart of Jesus Separate School,Lanark Highlands,0,1,0,1,-76.3700077,45.0184256
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,759040,Sacred Heart School,Cornwall,1,0,0,1,-74.7511114,45.0365884
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,769312,St Andrew's Separate School,South Stormont,2,0,0,2,-74.800136,45.0963821
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,792365,St Francis Xavier Elementary School,Clarence-Rockland,1,0,0,1,-75.2096803,45.4214829
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,806277,St Joseph's Secondary School,Cornwall,1,0,0,1,-74.749842,45.0344797
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,814555,St. Mark Catholic School,Prescott,1,0,0,1,-75.51494749999999,44.7233336
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,828874,St Mary's Separate School,Carleton Place,3,0,0,3,-76.14632379999999,45.1348405
+2021-09-21,2021-09-22,Catholic District School Board of Eastern Ontario,753602,St Patrick Catholic Elementary School,Clarence-Rockland,1,0,0,1,-75.2972652,45.5401516
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,488291,École élémentaire publique Carrefour Jeunesse,Clarence-Rockland,1,0,0,1,-75.2878862,45.5440165
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,412597,École élémentaire publique Charlotte Lemieux,Ottawa,2,0,0,2,-75.7631854,45.3629578
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,138681,École élémentaire publique De la Salle,Ottawa,1,0,0,1,-75.6857238,45.4351089
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,417726,École élémentaire publique Des Sentiers,Ottawa,4,0,0,4,-75.4609256,45.4594765
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,287180,École élémentaire publique Julie-Payette,Ottawa,1,0,0,1,-75.936554,45.348933
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,302864,École élémentaire publique L'Héritage,Cornwall,1,0,0,1,-74.699788,45.018235
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,323187,École élémentaire publique Louis-Riel,Ottawa,1,0,0,1,-75.5714633,45.4414467
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,327445,École élémentaire publique Michaëlle-Jean,Ottawa,4,0,0,4,-75.7258355,45.2878282
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,530457,École élémentaire publique Michel-Dupuis,Ottawa,3,0,0,3,-75.6930961,45.2670977
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,250627,École élémentaire publique Nouvel Horizon,Hawkesbury,1,0,0,1,-74.6014464,45.6062705
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,383392,École élémentaire publique Rose des Vents,Cornwall,1,0,0,1,-74.693585,45.0314992
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,949540,École secondaire publique Le Sommet,Hawkesbury,1,0,0,1,-74.5991942,45.6026621
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,907464,École secondaire publique L'Héritage,Cornwall,2,0,0,2,-74.699788,45.018235
+2021-09-21,2021-09-22,Conseil des écoles publiques de l'Est de l'Ontario,930144,École secondaire publique Maurice-Lapointe,Ottawa,1,0,0,1,-75.8589571,45.2785525
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,694100,ÉÉC Cardinal-Léger,Kitchener,2,0,0,2,-80.4816649,43.4076273
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,730211,ÉÉC Sainte-Marguerite-Bourgeoys-Brantfrd,Brantford,2,0,0,2,-80.2692004,43.1250061
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,841308,ÉÉC Saint-Michel,Toronto,0,2,0,2,-79.1561025,43.7778996
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,848808,ÉÉC Saint-René-Goupil,Guelph,13,0,0,13,-80.243509,43.522237
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,750468,ÉIC Père-René-de-Galinée,Cambridge,1,0,0,1,-80.382062,43.424596
+2021-09-21,2021-09-22,Conseil scolaire catholique MonAvenir,846041,ÉSC Père-Philippe-Lamarche,Toronto,2,0,0,2,-79.2404907,43.7386808
+2021-09-21,2021-09-22,Conseil scolaire catholique Providence,708054,École élémentaire catholique Georges P Vanier,Windsor,1,0,0,1,-82.9594671,42.3248797
+2021-09-21,2021-09-22,Conseil scolaire catholique Providence,732400,École élémentaire catholique Monseigneur Augustin Caron,Lasalle,2,0,0,2,-83.0758659,42.206855
+2021-09-21,2021-09-22,Conseil scolaire catholique Providence,832626,École élémentaire catholique Saint-Michel,Leamington,1,0,0,1,-82.5946905,42.0425964
+2021-09-21,2021-09-22,Conseil scolaire catholique Providence,708500,École secondaire catholique École secondaire Monseigneur-Bruyère,London,3,0,0,3,-81.232715,43.015623
+2021-09-21,2021-09-22,Conseil scolaire catholique Providence,704717,École secondaire catholique E.J.Lajeunesse,Windsor,0,1,0,1,-83.0199432,42.2770652
+2021-09-21,2021-09-22,Conseil scolaire de district catholique de l'Est ontarien,861367,École élémentaire catholique Marie-Tanguay,Cornwall,2,0,0,2,-74.7010351,45.036141
+2021-09-21,2021-09-22,Conseil scolaire de district catholique de l'Est ontarien,798304,École élémentaire catholique Saint-Isidore,The Nation Municipality,1,0,0,1,-74.9064258,45.384151
+2021-09-21,2021-09-22,Conseil scolaire de district catholique de l'Est ontarien,813257,École élémentaire catholique Saint-Joseph (Wendover),Alfred and Plantagenet,1,0,0,1,-75.1300942,45.572039
+2021-09-21,2021-09-22,Conseil scolaire de district catholique de l'Est ontarien,723592,École intermédiaire catholique La Citadelle,Cornwall,1,0,0,1,-74.7131919,45.02371
+2021-09-21,2021-09-22,Conseil scolaire de district catholique de l'Est ontarien,713740,École secondaire catholique régionale de Hawkesbury,Hawkesbury,3,1,0,4,-74.624558,45.6061484
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,769765,École élémentaire catholique Bernard-Grandmaître,Ottawa,1,0,0,1,-75.68246300000001,45.284937
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705390,École élémentaire catholique De la Découverte,Ottawa,3,0,0,3,-75.4614906,45.4648987
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703753,École élémentaire catholique d'enseignement personnalisé La Source,Ottawa,2,0,0,2,-75.5081477,45.4725175
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,764264,École élémentaire catholique Des Pins,Ottawa,1,0,0,1,-75.6049162,45.4215579
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703168,École élémentaire catholique Des Pionniers,Ottawa,2,0,0,2,-75.4816206,45.473832
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705136,École élémentaire catholique Jean-Robert-Gauthier,Ottawa,1,0,0,1,-75.731415,45.2703325
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,725536,École élémentaire catholique La Vérendrye,Ottawa,6,0,0,6,-75.5976246,45.4602769
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,753157,École élémentaire catholique Marius-Barbeau,Ottawa,3,2,0,5,-75.656574,45.371536
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705420,École élémentaire catholique Mgr-Rémi-Gaulin,Kingston,1,0,0,1,-76.48689949999999,44.2695908
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,732397,École élémentaire catholique Montfort,Ottawa,12,0,0,12,-75.630513,45.440591
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,796656,École élémentaire catholique Notre-Place,Ottawa,2,0,0,2,-75.4852618,45.4469732
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,688762,École élémentaire catholique Pierre-Elliott-Trudeau,Ottawa,4,0,0,4,-75.7435637,45.2853489
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,860573,École élémentaire catholique Sainte-Anne,Ottawa,2,0,0,2,-75.6815439,45.4321121
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,709387,École élémentaire catholique Sainte-Bernadette,Ottawa,2,0,0,2,-75.6230473,45.3521883
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,861871,École élémentaire catholique Sainte-Geneviève,Ottawa,1,0,0,1,-75.6310622,45.3900139
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,703095,École élémentaire catholique Saint-Joseph d'Orléans,Ottawa,1,0,0,1,-75.521603,45.4658625
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,752625,École élémentaire catholique Saint-Rémi,Ottawa,2,0,0,2,-75.9228356,45.3275474
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,752576,École intermédiaire catholique Garneau,Ottawa,1,0,0,1,-75.5249211,45.4650594
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,685986,École intermédiaire catholique Paul-Desmarais,Ottawa,2,0,0,2,-75.896757,45.2744469
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,751120,École intermédiaire catholique Samuel-Genest,Ottawa,3,0,0,3,-75.6302099,45.4426619
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,695955,École secondaire catholique Collège catholique Samuel-Genest,Ottawa,2,0,0,2,-75.6302099,45.4426619
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,705233,École secondaire catholique Franco-Cité,Ottawa,6,0,0,6,-75.6415789,45.4006231
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,710903,École secondaire catholique Garneau,Ottawa,1,0,0,1,-75.5249211,45.4650594
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,846435,École secondaire catholique Mer Bleue,Ottawa,1,0,0,1,-75.5048231,45.4356254
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Centre-Est de l'Ontario,832670,École secondaire catholique Pierre-Savard,Ottawa,1,0,0,1,-75.7369827,45.273133
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Nouvel-Ontario,841490,École élémentaire catholique La Renaissance,Espanola,1,0,0,1,-81.773941,46.2588081
+2021-09-21,2021-09-22,Conseil scolaire de district catholique du Nouvel-Ontario,862886,École séparée Sainte-Marie,Greater Sudbury,1,0,0,1,-81.11480999999999,46.552006
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,165468,Académie de la Moraine,Richmond Hill,3,0,0,3,-79.45774209999999,43.949108
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,156167,École élémentaire Antonine Maillet,Oshawa,2,0,0,2,-78.8896062,43.9003747
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,447621,École élémentaire Charles-Sauriol,Toronto,3,0,0,3,-79.4559275,43.667873
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,165212,École élémentaire Gabriel-Dumont,London,1,0,0,1,-81.1717084,42.9514867
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,165417,École élémentaire Horizon Jeunesse,Mississauga,1,2,0,3,-79.6450414,43.5162638
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,019735,École élémentaire La Mosaïque,Toronto,2,0,0,2,-79.3301549,43.6872344
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,191313,École élémentaire La Pommeraie,London,2,1,0,3,-81.3049595,42.9325145
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,910554,École secondaire Gabriel-Dumont,London,1,0,0,1,-81.1717084,42.9514867
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,907308,École secondaire Georges-P-Vanier,Hamilton,1,0,0,1,-79.89443,43.266019
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,925326,École secondaire Roméo Dallaire,Barrie,1,0,0,1,-79.7143086,44.3270265
+2021-09-21,2021-09-22,Conseil scolaire Viamonde,952803,École secondaire Toronto Ouest,Toronto,0,1,0,1,-79.4409854,43.6525409
+2021-09-21,2021-09-22,District School Board of Niagara,505005,Applewood Public School,St. Catharines,0,1,0,1,-79.2029037,43.14724409999999
+2021-09-21,2021-09-22,District School Board of Niagara,197416,Fitch Street Public School,Welland,1,2,0,3,-79.2625427,42.9949914
+2021-09-21,2021-09-22,District School Board of Niagara,281000,Jacob Beam Public School,Lincoln,3,0,0,3,-79.47930939999999,43.1656302
+2021-09-21,2021-09-22,District School Board of Niagara,287660,Kate S Durdan Public School,Niagara Falls,1,0,0,1,-79.1371258,43.0753367
+2021-09-21,2021-09-22,District School Board of Niagara,352500,McKay Public School,Port Colborne,1,0,0,1,-79.25775089999999,42.8913179
+2021-09-21,2021-09-22,District School Board of Niagara,414514,Oakridge Public School,St. Catharines,2,1,0,3,-79.2428429,43.1371456
+2021-09-21,2021-09-22,District School Board of Niagara,417521,Ontario Public School,Thorold,2,0,0,2,-79.1984964,43.0930385
+2021-09-21,2021-09-22,District School Board of Niagara,457540,Princess Elizabeth Public School,Welland,2,0,0,2,-79.23272759999999,42.9851193
+2021-09-21,2021-09-22,District School Board of Niagara,458066,Princess Margaret Public School,Niagara Falls,4,0,0,4,-79.105213,43.085014
+2021-09-21,2021-09-22,District School Board of Niagara,483117,Richmond Street Public School,Thorold,1,0,0,1,-79.2141704,43.116801100000004
+2021-09-21,2021-09-22,District School Board of Niagara,505382,Senator Gibson Public School,Lincoln,1,0,0,1,-79.4732888,43.1708465
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,850888,Cardinal Leger Secondary School,Brampton,2,0,0,2,-79.7511893,43.6840635
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,706337,Father Clair Tipping School,Brampton,2,0,0,2,-79.7317292,43.7648548
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,696307,Father C W Sullivan Catholic School,Brampton,1,0,0,1,-79.747064,43.70617
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,730441,Father Francis McSpiritt Catholic Elementary School,Brampton,1,0,0,1,-79.69845,43.7744879
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,716405,Holy Family School,Caledon,2,0,0,2,-79.72624189999999,43.8736449
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,819219,Holy Spirit Catholic Elementary School,Brampton,1,0,0,1,-79.7299217,43.784183
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,726494,Lester B Pearson Catholic School,Brampton,1,0,0,1,-79.7291431,43.7230616
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,731447,Metropolitan Andrei Catholic School,Mississauga,2,0,0,2,-79.6134735,43.5929483
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,742171,Our Lady of Fatima School,Brampton,1,0,0,1,-79.777908300000007,43.6883188
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,747882,Our Lady of Providence Elementary School,Brampton,3,0,0,3,-79.7600472,43.7442623
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,751430,Philip Pocock Catholic Secondary School,Mississauga,2,0,0,2,-79.626165,43.6251025
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,767255,St Aloysius Gonzaga Secondary School,Mississauga,1,0,0,1,-79.7181446,43.5564811
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,812896,St. André Bessette Catholic Elementary School,Brampton,1,0,0,1,-79.67452639999999,43.7655696
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,772496,St Andrew School,Orangeville,3,0,0,3,-80.11712279999999,43.9189811
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,773530,St Anthony School,Brampton,2,0,0,2,-79.742484,43.7361711
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,776092,St Basil School,Mississauga,1,0,0,1,-79.6127422,43.6237419
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,776742,St Benedict Elementary School,Orangeville,0,1,0,1,-80.11709160000001,43.9291837
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,777528,St Bernadette Elementary School,Mississauga,1,0,0,1,-79.673508,43.5817379
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,738857,St. Bernard of Clairvaux Catholic Elementary School,Mississauga,0,2,0,2,-79.7351256,43.5475604
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,781401,St Catherine of Siena School,Mississauga,1,0,0,1,-79.6107581,43.5741345
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,783870,St Christopher School,Mississauga,1,0,0,1,-79.6267915,43.5219454
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,807712,St. Daniel Comboni Catholic Elementary School,Brampton,1,0,0,1,-79.8407884,43.6802611
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,788511,St Edmund Campion Secondary School,Brampton,1,0,0,1,-79.829895,43.6947937
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,797316,St Herbert School,Mississauga,2,0,0,2,-79.68439269999999,43.5861148
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,776175,St. Jean-Marie Vianney Catholic Elementary School,Brampton,1,0,0,1,-79.8014228,43.6692214
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,803502,St John Fisher Separate School,Brampton,2,0,0,2,-79.7111091,43.7112363
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,723967,St. John Henry Newman Catholic Elementary School,Brampton,1,0,0,1,-79.6994231,43.7216072
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,806919,St Joseph Secondary School,Mississauga,2,0,0,2,-79.70000540000001,43.58977489999999
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,818500,St Leonard School,Brampton,0,1,0,1,-79.790886,43.723126
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,821381,St Marcellinus Secondary School,Mississauga,1,0,0,1,-79.7101146,43.6237335
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,750298,St Margaret of Scotland School,Mississauga,3,0,0,3,-79.6766383,43.53615
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,822639,St Marguerite Bourgeoys Separate School,Brampton,1,0,0,1,-79.7539194,43.7275952
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,824950,St Mary Elementary School,Brampton,1,0,0,1,-79.7531976,43.6838259
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,864570,St. Michael Catholic Secondary School,Caledon,2,3,0,5,-79.7517823,43.8952732
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,843547,St Peter Separate School,Orangeville,0,2,0,2,-80.102571,43.912624
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,845779,St Philip Elementary School,Mississauga,2,0,0,2,-79.6324441,43.5788272
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,848930,St Richard School,Mississauga,1,0,0,1,-79.7706325,43.5939671
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,863785,Sts Martha & Mary Separate School,Mississauga,1,0,0,1,-79.5909583,43.6322936
+2021-09-21,2021-09-22,Dufferin-Peel Catholic District School Board,854530,St Thomas Aquinas Secondary School,Brampton,2,3,0,5,-79.710826,43.738924
+2021-09-21,2021-09-22,Durham Catholic District School Board,703923,Archbishop Denis O'Connor Catholic High School,Ajax,2,0,0,2,-79.0205681,43.8586226
+2021-09-21,2021-09-22,Durham Catholic District School Board,851764,St. Anne Catholic Elementary School,Oshawa,1,0,0,1,-78.89070079999999,43.9606805
+2021-09-21,2021-09-22,Durham Catholic District School Board,762083,St Bernard Catholic School,Whitby,1,0,0,1,-78.9390841,43.9110197
+2021-09-21,2021-09-22,Durham Catholic District School Board,789178,St Elizabeth Seton Catholic School,Pickering,2,1,0,3,-79.131253,43.826604
+2021-09-21,2021-09-22,Durham Catholic District School Board,803057,St John Bosco Catholic School,Oshawa,2,0,0,2,-78.8583016,43.9450454
+2021-09-21,2021-09-22,Durham Catholic District School Board,724084,St John XXIII Catholic School,Oshawa,4,0,0,4,-78.8146016,43.9009848
+2021-09-21,2021-09-22,Durham Catholic District School Board,762733,St Josephine Bakhita Catholic Elementary School,Ajax,1,0,0,1,-79.0318036,43.8907409
+2021-09-21,2021-09-22,Durham District School Board,097110,Carruthers Creek Public School,Ajax,2,0,0,2,-79.0047658,43.8400099
+2021-09-21,2021-09-22,Durham District School Board,905674,Dunbarton High School,Pickering,1,0,0,1,-79.1183771,43.8212623
+2021-09-21,2021-09-22,Durham District School Board,165514,Eagle Ridge Public School,Ajax,1,0,0,1,-79.0663469,43.863069
+2021-09-21,2021-09-22,Durham District School Board,192210,Fairport Beach Public School,Pickering,0,1,0,1,-79.109678,43.81295
+2021-09-21,2021-09-22,Durham District School Board,213829,Glen Dhu Public School,Whitby,1,0,0,1,-78.9344638,43.9047361
+2021-09-21,2021-09-22,Durham District School Board,567787,Goodwood Public School,Uxbridge,2,0,0,2,-79.1979675,44.0401665
+2021-09-21,2021-09-22,Durham District School Board,231533,Highbush Public School,Pickering,1,0,0,1,-79.125969,43.827092
+2021-09-21,2021-09-22,Durham District School Board,918423,J Clarke Richardson Collegiate Institute,Ajax,1,0,0,1,-79.0270847,43.8832624
+2021-09-21,2021-09-22,Durham District School Board,559271,Jeanne Sauvé Public School,Oshawa,3,0,0,3,-78.8563561,43.9456171
+2021-09-21,2021-09-22,Durham District School Board,312983,Lincoln Avenue Public School,Ajax,4,0,0,4,-79.0498381,43.8538698
+2021-09-21,2021-09-22,Durham District School Board,932345,Maxwell Heights Secondary School,Oshawa,1,3,0,4,-78.8507544,43.9452973
+2021-09-21,2021-09-22,Durham District School Board,451177,R H Cornish Public School,Scugog,2,0,0,2,-78.9529534,44.0998435
+2021-09-21,2021-09-22,Durham District School Board,490563,Rosebank Road Public School,Pickering,2,0,0,2,-79.120627,43.807416
+2021-09-21,2021-09-22,Durham District School Board,937525,R S Mclaughlin Collegiate and Vocational Institute,Oshawa,1,0,0,1,-78.8908333,43.9076338
+2021-09-21,2021-09-22,Durham District School Board,569933,Valley Farm Public School,Pickering,2,0,0,2,-79.0873293,43.858578
+2021-09-21,2021-09-22,Durham District School Board,092886,Vimy Ridge Public School,Ajax,0,1,0,1,-79.0493557,43.8785176
+2021-09-21,2021-09-22,Durham District School Board,093700,Walter E Harris Public School,Oshawa,1,0,0,1,-78.8539715,43.9144853
+2021-09-21,2021-09-22,Durham District School Board,598909,Westcreek Public School,Pickering,1,0,0,1,-79.142914,43.823277
+2021-09-21,2021-09-22,Durham District School Board,595535,Westney Heights Public School,Ajax,1,2,0,3,-79.0463446,43.8653037
+2021-09-21,2021-09-22,Durham District School Board,525960,Williamsburg Public School,Whitby,1,0,0,1,-78.9765421,43.9058263
+2021-09-21,2021-09-22,Grand Erie District School Board,034339,Branlyn Community School,Brantford,0,1,0,1,-80.2353862,43.1814965
+2021-09-21,2021-09-22,Grand Erie District School Board,558113,Echo Place PS,Brantford,2,0,0,2,-80.2324246,43.141962
+2021-09-21,2021-09-22,Grand Erie District School Board,295434,King George School,Brantford,2,0,0,2,-80.2481352,43.1456157
+2021-09-21,2021-09-22,Grand Erie District School Board,898007,McKinnon Park Secondary School,Haldimand County,1,0,0,1,-79.9529099,43.0628891
+2021-09-21,2021-09-22,Grand Erie District School Board,378372,Mount Pleasant School,Brant,1,0,0,1,-80.3127448,43.0820141
+2021-09-21,2021-09-22,Grand Erie District School Board,494208,Russell Reid Public School,Brantford,1,0,0,1,-80.2882656,43.1718698
+2021-09-21,2021-09-22,Grand Erie District School Board,521760,St George-German Public School,Brant,1,0,0,1,-80.257624,43.2442556
+2021-09-21,2021-09-22,Grand Erie District School Board,949035,Valley Heights Secondary School,Norfolk County,1,0,0,1,-80.5410625,42.69318639999999
+2021-09-21,2021-09-22,Greater Essex County District School Board,929727,Belle River District High School,Lakeshore,1,0,0,1,-82.7111152,42.2881209
+2021-09-21,2021-09-22,Greater Essex County District School Board,041947,Bellewood Public School,Windsor,1,0,0,1,-83.040417,42.2672396
+2021-09-21,2021-09-22,Greater Essex County District School Board,142948,Dougall Avenue Public School,Windsor,1,0,0,1,-83.03857359999999,42.310742
+2021-09-21,2021-09-22,Greater Essex County District School Board,909440,Essex District High School,Essex,0,1,0,1,-82.8291311,42.1792268
+2021-09-21,2021-09-22,Greater Essex County District School Board,222119,Ford City Public School,Windsor,1,0,0,1,-82.9758217,42.3104362
+2021-09-21,2021-09-22,Greater Essex County District School Board,917249,Hon W C Kennedy Collegiate Institute,Windsor,2,0,0,2,-83.0208807,42.2958592
+2021-09-21,2021-09-22,Greater Essex County District School Board,279315,J A McWilliam Public School,Windsor,1,0,0,1,-82.98614909999999,42.2813665
+2021-09-21,2021-09-22,Greater Essex County District School Board,300500,Kingsville Public School,Kingsville,1,0,0,1,-82.74103579999999,42.0395907
+2021-09-21,2021-09-22,Greater Essex County District School Board,551941,Lakeshore Discovery School,Lakeshore,1,0,0,1,-82.77328109999999,42.2900342
+2021-09-21,2021-09-22,Greater Essex County District School Board,308897,LaSalle Public School,Lasalle,1,0,0,1,-83.0884997,42.2284991
+2021-09-21,2021-09-22,Greater Essex County District School Board,922188,Leamington District Secondary School,Leamington,1,0,0,1,-82.6093978,42.0464973
+2021-09-21,2021-09-22,Greater Essex County District School Board,435872,Parkview Public School,Windsor,1,0,0,1,-82.9097293,42.3078029
+2021-09-21,2021-09-22,Greater Essex County District School Board,452734,Prince Andrew Public School,Lasalle,4,0,0,4,-83.0583713,42.2055389
+2021-09-21,2021-09-22,Greater Essex County District School Board,574155,Queen Victoria Public School,Windsor,1,0,0,1,-83.0308744,42.3021394
+2021-09-21,2021-09-22,Greater Essex County District School Board,491217,Roseland Public School,Windsor,2,0,0,2,-82.9928611,42.2597792
+2021-09-21,2021-09-22,Greater Essex County District School Board,939765,Sandwich Secondary School,Lasalle,2,0,0,2,-83.0592849,42.2239845
+2021-09-21,2021-09-22,Greater Essex County District School Board,498513,Sandwich West Public School,Lasalle,1,0,0,1,-83.0550862,42.2488552
+2021-09-21,2021-09-22,Greater Essex County District School Board,539427,Tecumseh Vista Academy - Elementary,Tecumseh,1,0,0,1,-82.8923367,42.280965
+2021-09-21,2021-09-22,Greater Essex County District School Board,147362,West Gate Public School,Windsor,0,1,0,1,-83.0508847,42.2976411
+2021-09-21,2021-09-22,Greater Essex County District School Board,918806,Westview Freedom Academy Secondary School,Windsor,1,0,0,1,-83.0565521,42.2924474
+2021-09-21,2021-09-22,Greater Essex County District School Board,950009,W. F. Herman Academy Secondary School,Windsor,1,0,0,1,-82.9746151,42.3080738
+2021-09-21,2021-09-22,Halton Catholic District School Board,687286,Ascension Catholic Elementary School,Burlington,1,0,0,1,-79.7479839,43.3730537
+2021-09-21,2021-09-22,Halton Catholic District School Board,772647,St. Anne Catholic Elementary School,Burlington,0,1,0,1,-79.8241513,43.4069872
+2021-09-21,2021-09-22,Halton Catholic District School Board,696392,St. Francis of Xavier Catholic Secondary School,Milton,3,0,0,3,-79.8577667,43.4871882
+2021-09-21,2021-09-22,Halton Catholic District School Board,755052,St. Gregory the Great Catholic Elementary School,Oakville,3,0,0,3,-79.7354543,43.4773512
+2021-09-21,2021-09-22,Halton Catholic District School Board,798010,St. Ignatius of Loyola Catholic Secondary School,Oakville,0,1,0,1,-79.7335124,43.4445535
+2021-09-21,2021-09-22,Halton Catholic District School Board,820679,St. Luke Catholic Elementary School,Oakville,0,1,0,1,-79.6620251,43.4966181
+2021-09-21,2021-09-22,Halton Catholic District School Board,848484,St. Raphael Catholic Elementary School,Burlington,2,0,0,2,-79.7672143,43.3542072
+2021-09-21,2021-09-22,Halton Catholic District School Board,794978,St. Scholastica Catholic Elementary School,Milton,3,0,0,3,-79.8522213,43.4850739
+2021-09-21,2021-09-22,Halton Catholic District School Board,729159,St. Teresa of Calcutta Catholic Elementary School,Oakville,0,1,0,1,-79.7355009,43.4508873
+2021-09-21,2021-09-22,Halton District School Board,890332,Acton District High School,Halton Hills,1,0,0,1,-80.0332063,43.6434086
+2021-09-21,2021-09-22,Halton District School Board,344051,Alton Village Public School,Burlington,5,0,0,5,-79.8267764,43.4000902
+2021-09-21,2021-09-22,Halton District School Board,058360,Bruce T Lindley,Burlington,3,0,0,3,-79.839129,43.3710697
+2021-09-21,2021-09-22,Halton District School Board,070777,Burlington Central Elementary School,Burlington,2,0,0,2,-79.8058164,43.3292627
+2021-09-21,2021-09-22,Halton District School Board,967740,Craig Kielburger Secondary School,Milton,1,1,0,2,-79.8274505,43.5144805
+2021-09-21,2021-09-22,Halton District School Board,164267,Eastview Public School,Oakville,1,0,0,1,-79.7101056,43.4012587
+2021-09-21,2021-09-22,Halton District School Board,121112,Escarpment View Public School,Milton,2,0,0,2,-79.881308,43.4975701
+2021-09-21,2021-09-22,Halton District School Board,474578,Forest Trail Public School (Elementary),Oakville,0,1,0,1,-79.7531779,43.45093850000001
+2021-09-21,2021-09-22,Halton District School Board,912433,Georgetown District High School,Halton Hills,1,0,0,1,-79.9208365,43.6502946
+2021-09-21,2021-09-22,Halton District School Board,111600,Hawthorne Village Public School,Milton,5,0,0,5,-79.838123,43.513921
+2021-09-21,2021-09-22,Halton District School Board,253340,Heritage Glen Public School,Oakville,4,0,0,4,-79.7418342,43.4320677
+2021-09-21,2021-09-22,Halton District School Board,158377,Irma Coulson Elementary Public School,Milton,1,0,0,1,-79.8420011,43.5231035
+2021-09-21,2021-09-22,Halton District School Board,291536,Kilbride Public School,Burlington,1,0,0,1,-79.9365023,43.4274547
+2021-09-21,2021-09-22,Halton District School Board,076727,Oodenawi Public School,Oakville,0,1,0,1,-79.7439392,43.4715626
+2021-09-21,2021-09-22,Halton District School Board,445193,Pineland Public School,Burlington,1,0,0,1,-79.7466477,43.3677377
+2021-09-21,2021-09-22,Halton District School Board,310777,P. L. Robertson Public School,Milton,1,0,0,1,-79.8706055,43.4875911
+2021-09-21,2021-09-22,Halton District School Board,485438,River Oaks Public School,Oakville,2,0,0,2,-79.7216712,43.4649869
+2021-09-21,2021-09-22,Halton District School Board,487570,Robert Little Public School,Halton Hills,1,0,0,1,-80.0433112,43.6331158
+2021-09-21,2021-09-22,Halton District School Board,489395,Rolling Meadows Public School,Burlington,1,0,0,1,-79.8276041,43.3575795
+2021-09-21,2021-09-22,Halton District School Board,510289,Sheridan Public School,Oakville,1,0,0,1,-79.6901128,43.4817832
+2021-09-21,2021-09-22,Halton District School Board,515353,Sir Ernest Macmillan Public School,Burlington,0,1,0,1,-79.8073637,43.3688778
+2021-09-21,2021-09-22,Halton District School Board,369253,Viola Desmond Public School,Milton,1,0,0,1,-79.8467167,43.4833409
+2021-09-21,2021-09-22,Halton District School Board,579742,W H Morden Public School,Oakville,0,1,0,1,-79.685851,43.4341428
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,689386,Bishop Tonnos Catholic Secondary School,Hamilton,2,0,0,2,-79.995422,43.202035
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,690279,Blessed Sacrament Catholic Elementary School,Hamilton,1,0,0,1,-79.8413126,43.2275773
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,735799,Our Lady of Hope Catholic Elementary School,Hamilton,1,0,0,1,-79.476017,43.954402
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,748544,Our Lady of Peace Catholic Elementary School,Hamilton,2,0,0,2,-79.7100134,43.2212157
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,748633,Our Lady of the Assumption Catholic Elementary School,Hamilton,1,0,0,1,-79.8059243,43.1771511
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,792217,St. Francis Xavier Catholic Elementary School,Hamilton,2,0,0,2,-79.7321668,43.2200665
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,825892,St. Gabriel Catholic Elementary School,Hamilton,1,0,0,1,-79.6423595,43.2106828
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,800430,St. Jean de Brebeuf Catholic Secondary School,Hamilton,2,0,0,2,-79.8641859,43.200908
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,694134,St. John Henry Newman Catholic Secondary School,Hamilton,3,0,0,3,-79.745483,43.2220532
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,804673,St. John the Baptist Catholic Elementary School,Hamilton,1,0,0,1,-79.81945549999999,43.2389442
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,745279,St. Matthew Catholic Elementary School,Hamilton,0,2,0,2,-79.8141562,43.1172227
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,863955,Sts. Peter and Paul Catholic Elementary School,Hamilton,1,0,0,1,-79.8742826,43.2371224
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,773786,St. Thérèse of Lisieux Catholic Elementary School,Hamilton,0,1,0,1,-79.9145776,43.2050395
+2021-09-21,2021-09-22,Hamilton-Wentworth Catholic District School Board,855685,St. Thomas More Catholic Secondary School,Hamilton,5,0,0,5,-79.9193025,43.2136953
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,287210,Ancaster Meadow Elementary Public School,Hamilton,2,0,0,2,-79.9525151,43.2215968
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,041548,Bellmoore Public School,Hamilton,2,0,0,2,-79.8126015,43.1263283
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,091723,Central Junior Public School,Hamilton,1,0,0,1,-79.874559,43.2541778
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,213012,Cootes Paradise Public School,Hamilton,2,0,0,2,-79.9022899,43.263844
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,488921,Dr. J. Edgar Davey (New) Elementary Public School,Hamilton,1,1,0,2,-79.8606726,43.2575214
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,913081,Glendale Secondary School,Hamilton,6,0,0,6,-79.7802708,43.2256703
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,273201,Huntington Park Junior Public School,Hamilton,2,1,0,3,-79.8269629,43.2206471
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,281026,Janet Lee Public School,Hamilton,1,0,0,1,-79.8069606,43.1917337
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,094608,Lawfield Elementary School,Hamilton,1,0,0,1,-79.8504189,43.2156583
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,314544,Lisgar Junior Public School,Hamilton,2,0,0,2,-79.8294734,43.211184
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,361739,Memorial Public School,Hamilton,2,0,0,2,-79.8204039,43.2431971
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,376299,Mount Hope Public School,Hamilton,1,0,0,1,-79.9202169,43.1571218
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,894432,Nora Henderson,Hamilton,1,0,0,1,-79.8664326,43.1910451
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,412309,Norwood Park Elementary School,Hamilton,1,0,0,1,-79.877021,43.2295601
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,437557,Pauline Johnson Public School,Hamilton,1,0,0,1,-79.8707786,43.2197657
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,484199,Ridgemount Junior Public School,Hamilton,1,0,0,1,-79.8796123,43.2245936
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,483142,Shannen Koostachin Elementary School Elementary Public School,Hamilton,6,0,0,6,-79.8025354,43.1766325
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,941328,Sherwood Secondary School,Hamilton,1,0,0,1,-79.8231362,43.2276266
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,516244,Sir Wilfrid Laurier Public School,Hamilton,1,0,0,1,-79.7880294,43.2177169
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,548022,Tapleytown Public School,Hamilton,4,3,0,7,-79.7330207,43.1810331
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,550817,Templemead Elementary School,Hamilton,0,6,0,6,-79.8480559,43.1968014
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,950653,Waterdown District High School,Hamilton,1,0,0,1,-79.9102713,43.3352604
+2021-09-21,2021-09-22,Hamilton-Wentworth District School Board,579610,W H Ballard Public School,Hamilton,2,0,0,2,-79.802944,43.2416417
+2021-09-21,2021-09-22,Hastings & Prince Edward District School Board,244600,Harmony Public School,Belleville,3,0,0,3,-77.3847395,44.2404203
+2021-09-21,2021-09-22,Huron Perth Catholic District School Board,832545,St Michael Catholic Secondary School,Stratford,1,0,0,1,-80.9953306,43.3862998
+2021-09-21,2021-09-22,Huron-Superior Catholic District School Board,792017,St. Basil Catholic School,Sault Ste. Marie,2,0,0,2,-84.3286572,46.52324309999999
+2021-09-21,2021-09-22,Huron-Superior Catholic District School Board,776076,St Mary's College Separate School,Sault Ste. Marie,1,0,0,1,-84.3074893,46.5389711
+2021-09-21,2021-09-22,Huron-Superior Catholic District School Board,826901,St Mary's French Immersion Catholic School,Sault Ste. Marie,1,0,0,1,-84.26647899999999,46.5225021
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,147826,Dr Ross Tilley Public School,Clarington,2,0,0,2,-78.7010312,43.8986135
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,449510,Kaawaate East City Public School Elementary Public School,Peterborough,0,1,0,1,-78.3041429,44.308143
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,325040,Lydia Trull Public School,Clarington,1,0,0,1,-78.7810801,43.9062675
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,551333,M J Hobbs Senior Public School,Clarington,1,0,0,1,-78.744057,43.9645781
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,403350,North Shore Public School,Otonabee-South Monaghan,1,0,0,1,-78.165831,44.24195719999999
+2021-09-21,2021-09-22,Kawartha Pine Ridge District School Board,947563,Thomas A Stewart Secondary School,Peterborough,1,0,0,1,-78.310071,44.3309288
+2021-09-21,2021-09-22,Lakehead District School Board,952087,Westgate Collegiate and Vocational Institute,Thunder Bay,1,0,0,1,-89.2905215,48.3736702
+2021-09-21,2021-09-22,Lambton Kent District School Board,000078,A A Wright Public School,Chatham-Kent,1,0,0,1,-82.404083,42.5916958
+2021-09-21,2021-09-22,Lambton Kent District School Board,088609,Cathcart Boulevard Public School,Sarnia,1,0,0,1,-82.362965,43.010485
+2021-09-21,2021-09-22,Lambton Kent District School Board,919322,Chatham-Kent Secondary School,Chatham-Kent,2,0,0,2,-82.1917222,42.4218065
+2021-09-21,2021-09-22,Lambton Kent District School Board,120715,Confederation Central School,Sarnia,1,0,0,1,-82.2702551,42.9581893
+2021-09-21,2021-09-22,Lambton Kent District School Board,148660,Dresden Area Central School,Chatham-Kent,2,0,0,2,-82.179132,42.5853104
+2021-09-21,2021-09-22,Lambton Kent District School Board,890861,Great Lakes Secondary School,Sarnia,1,0,0,1,-82.3661941,42.9667003
+2021-09-21,2021-09-22,Lambton Kent District School Board,275131,Indian Creek Road Public School,Chatham-Kent,1,0,0,1,-82.1816451,42.3784848
+2021-09-21,2021-09-22,Lambton Kent District School Board,918938,John McGregor Secondary School,Chatham-Kent,2,0,0,2,-82.1749834,42.3834533
+2021-09-21,2021-09-22,Lambton Kent District School Board,921530,Lambton Kent Composite School,Chatham-Kent,0,1,0,1,-82.1773879,42.595388
+2021-09-21,2021-09-22,Lambton Kent District School Board,462748,Queen Elizabeth II C Public School,Chatham-Kent,2,0,0,2,-82.1719968,42.3966045
+2021-09-21,2021-09-22,Lambton Kent District School Board,462870,Queen Elizabeth II P Public School,Petrolia,1,0,0,1,-82.1530992,42.8850309
+2021-09-21,2021-09-22,Lambton Kent District School Board,486922,Riverview Central School,St. Clair,1,0,0,1,-82.492989,42.684944
+2021-09-21,2021-09-22,Lambton Kent District School Board,548707,Tecumseh Public School,Chatham-Kent,4,0,0,4,-82.2098012,42.4089178
+2021-09-21,2021-09-22,Lambton Kent District School Board,948446,Tilbury District High School,Chatham-Kent,2,0,0,2,-82.4332425,42.2519323
+2021-09-21,2021-09-22,Limestone District School Board,911135,Frontenac Secondary School,Kingston,1,0,0,1,-76.5769332,44.2371477
+2021-09-21,2021-09-22,Limestone District School Board,281786,James R Henderson Public School,Kingston,2,0,0,2,-76.5752834,44.2292324
+2021-09-21,2021-09-22,Limestone District School Board,931089,Kingston Secondary School,Kingston,1,0,0,1,-76.49803,44.2291573
+2021-09-21,2021-09-22,London District Catholic School Board,695734,Catholic Central High School,London,2,0,0,2,-81.23921,42.9870502
+2021-09-21,2021-09-22,London District Catholic School Board,723673,Jean Vanier Separate School,London,1,0,0,1,-81.29377099999999,42.9454314
+2021-09-21,2021-09-22,London District Catholic School Board,733032,Mother Teresa Catholic Secondary School,London,1,0,0,1,-81.2517283,43.048327
+2021-09-21,2021-09-22,London District Catholic School Board,790583,St Francis School,London,2,0,0,2,-81.208300500000007,42.9438031
+2021-09-21,2021-09-22,London District Catholic School Board,855898,St Thomas More Separate School,London,4,0,0,4,-81.2891953,42.99888929999999
+2021-09-21,2021-09-22,Near North District School Board,420428,Parry Sound Public School School,Parry Sound,2,0,0,2,-80.0292434,45.3573646
+2021-09-21,2021-09-22,Niagara Catholic District School Board,715247,Holy Cross Catholic Secondary School,St. Catharines,1,0,0,1,-79.216961800000007,43.202033900000004
+2021-09-21,2021-09-22,Niagara Catholic District School Board,743577,Our Lady of Fatima Catholic Elementary School,St. Catharines,1,0,0,1,-79.2323813,43.1908751
+2021-09-21,2021-09-22,Niagara Catholic District School Board,719390,St Charles Catholic Elementary School,Thorold,1,0,0,1,-79.2081945,43.1260415
+2021-09-21,2021-09-22,Niagara Catholic District School Board,786349,St Denis Catholic Elementary School,St. Catharines,0,1,0,1,-79.2496452,43.1727165
+2021-09-21,2021-09-22,Niagara Catholic District School Board,799211,St James Catholic Elementary School,St. Catharines,1,0,0,1,-79.2430918,43.2032845
+2021-09-21,2021-09-22,Niagara Catholic District School Board,715166,St John Bosco Catholic Elementary School,Port Colborne,1,0,0,1,-79.2638936,42.8975296
+2021-09-21,2021-09-22,Niagara Catholic District School Board,803766,St John Catholic Elementary School,Lincoln,3,0,0,3,-79.5108649,43.1802997
+2021-09-21,2021-09-22,Niagara Catholic District School Board,852910,St Theresa Catholic Elementary School,St. Catharines,1,0,0,1,-79.2068276,43.1435281
+2021-09-21,2021-09-22,Nipissing-Parry Sound Catholic District School Board,733172,Mother St Bride School,North Bay,1,0,0,1,-79.46282,46.3166179
+2021-09-21,2021-09-22,Nipissing-Parry Sound Catholic District School Board,766585,St Alexander Separate School,North Bay,1,0,0,1,-79.4731539,46.322411
+2021-09-21,2021-09-22,Nipissing-Parry Sound Catholic District School Board,763659,St Joseph-Scollard Hall Secondary School,North Bay,1,0,0,1,-79.4580228,46.3222822
+2021-09-21,2021-09-22,Northwest Catholic District School Board,742309,Our Lady of the Way,Morley,2,0,0,2,-94.1645119,48.67726039999999
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,B66184,Board Site,Ottawa,0,2,0,2,-75.688641,45.427079
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,034452,Bridlewood Community Elementary School,Ottawa,4,0,0,4,-75.8610813,45.2849918
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,906514,Cairine Wilson Secondary School,Ottawa,1,0,0,1,-75.5398668,45.4823579
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,282953,Chapman Mills Elementary School,Ottawa,1,0,0,1,-75.7311576,45.2689701
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,107778,Churchill Alternative School,Ottawa,1,0,0,1,-75.7535754,45.3904042
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,902586,Colonel By Secondary School,Ottawa,1,0,0,1,-75.6002057,45.4552296
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,177008,Elmdale Public School,Ottawa,2,0,0,2,-75.7357092,45.3942859
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,083456,Farley Mowat Public School,Ottawa,1,0,0,1,-75.7084809,45.2818533
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,224197,Glen Cairn Public School,Ottawa,2,0,0,2,-75.884339,45.2964148
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,913472,Gloucester High School,Ottawa,1,0,0,1,-75.5993128,45.4384246
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,252875,Henry Munro Middle School,Ottawa,1,0,0,1,-75.59663239999999,45.4578974
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,916854,Hillcrest High School,Ottawa,0,1,0,1,-75.6392846,45.3986848
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,285455,John Young Elementary School,Ottawa,2,0,0,2,-75.8841924,45.2894091
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,037699,Le Phare Elementary School,Ottawa,2,0,0,2,-75.60252539999999,45.4495993
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,922960,Lisgar Collegiate Institute,Ottawa,1,0,0,1,-75.688366,45.4207787
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,332356,Manor Park Public School,Ottawa,1,0,0,1,-75.6559644,45.4502664
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,129690,Maple Ridge Elementary School,Ottawa,0,1,0,1,-75.4615581,45.4709058
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,423874,Metcalfe Public School,Ottawa,1,0,0,1,-75.47119099999999,45.233382400000004
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,463523,Queen Elizabeth Public School,Ottawa,6,0,0,6,-75.6442886,45.4382266
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,480428,Regina Street Alternative School,Ottawa,2,0,0,2,-75.790294,45.366708
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,938564,Ridgemont High School,Ottawa,0,1,0,1,-75.6600002,45.3762881
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,488356,Rockcliffe Park Public School,Ottawa,1,0,0,1,-75.677599,45.4511336
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,565750,Steve MacLean Public School,Ottawa,2,0,0,2,-75.6853405,45.2812661
+2021-09-21,2021-09-22,Ottawa-Carleton District School Board,537624,Stittsville Public School,Ottawa,1,0,0,1,-75.9082974,45.2713039
+2021-09-21,2021-09-22,Ottawa Catholic School Board,724777,All Saints Catholic High School,Ottawa,1,0,0,1,-75.9250885,45.3217232
+2021-09-21,2021-09-22,Ottawa Catholic School Board,688193,Assumption Catholic Elementary School,Ottawa,0,1,0,1,-75.660692,45.43492
+2021-09-21,2021-09-22,Ottawa Catholic School Board,700193,Divine Infant Catholic Elementary School,Ottawa,1,0,0,1,-75.5134719,45.48671299999999
+2021-09-21,2021-09-22,Ottawa Catholic School Board,724734,Holy Trinity Catholic Intermediate School,Ottawa,1,0,0,1,-75.9012784,45.3082646
+2021-09-21,2021-09-22,Ottawa Catholic School Board,809020,Notre Dame High School,Ottawa,5,0,0,5,-75.7561971,45.3786715
+2021-09-21,2021-09-22,Ottawa Catholic School Board,707821,Our Lady of Mount Carmel Elementary School,Ottawa,2,5,0,7,-75.6356389,45.4346372
+2021-09-21,2021-09-22,Ottawa Catholic School Board,749168,Our Lady of Victory Elementary School,Ottawa,1,0,0,1,-75.7799241,45.3498521
+2021-09-21,2021-09-22,Ottawa Catholic School Board,701599,St Andrew Elementary School,Ottawa,0,1,0,1,-75.7089837,45.2850671
+2021-09-21,2021-09-22,Ottawa Catholic School Board,849407,St. Benedict Elementary School,Ottawa,2,0,0,2,-75.7353915,45.2421218
+2021-09-21,2021-09-22,Ottawa Catholic School Board,688738,St Elizabeth Ann Seton Elementary School,Ottawa,2,0,0,2,-75.7692947,45.270977
+2021-09-21,2021-09-22,Ottawa Catholic School Board,848612,St. Francis Xavier (7-8) Catholic School,Ottawa,3,0,0,3,-75.6691426,45.2904731
+2021-09-21,2021-09-22,Ottawa Catholic School Board,843510,St. Francis Xavier (9-12) Catholic School,Ottawa,1,0,0,1,-75.6691426,45.2904731
+2021-09-21,2021-09-22,Ottawa Catholic School Board,729795,St Isidore Elementary School,Ottawa,1,0,0,1,-75.9488763,45.3668037
+2021-09-21,2021-09-22,Ottawa Catholic School Board,804126,St John the Apostle Elementary School,Ottawa,1,0,0,1,-75.79347299999999,45.33393
+2021-09-21,2021-09-22,Ottawa Catholic School Board,741680,St. Kateri Tekakwitha Elementary School,Ottawa,6,0,0,6,-75.5235547,45.4585307
+2021-09-21,2021-09-22,Ottawa Catholic School Board,733288,St. Mother Teresa High School,Ottawa,1,0,0,1,-75.7393518,45.285012
+2021-09-21,2021-09-22,Ottawa Catholic School Board,816132,St Patrick's High School,Ottawa,2,0,0,2,-75.659931,45.3780258
+2021-09-21,2021-09-22,Ottawa Catholic School Board,689203,St Paul High School,Ottawa,3,0,0,3,-75.7926875,45.3417324
+2021-09-21,2021-09-22,Ottawa Catholic School Board,842915,St Paul Intermediate School,Ottawa,3,0,0,3,-75.7926875,45.3417324
+2021-09-21,2021-09-22,Ottawa Catholic School Board,843296,St Peter High School,Ottawa,2,0,0,2,-75.4769561,45.4747775
+2021-09-21,2021-09-22,Ottawa Catholic School Board,847313,St Pius X High School,Ottawa,1,1,0,2,-75.7124051,45.3651801
+2021-09-21,2021-09-22,Ottawa Catholic School Board,689130,St. Rose of Lima Elementary School,Ottawa,1,0,0,1,-75.80680500000001,45.35077039999999
+2021-09-21,2021-09-22,Ottawa Catholic School Board,744065,St. Stephen Catholic Elementary School,Ottawa,2,0,0,2,-75.931714,45.2747134
+2021-09-21,2021-09-22,Peel District School Board,071188,Burnhamthorpe Public School,Mississauga,1,0,0,1,-79.5979328,43.6166955
+2021-09-21,2021-09-22,Peel District School Board,071781,Burnt Elm Public School,Brampton,2,0,0,2,-79.8180994,43.718641
+2021-09-21,2021-09-22,Peel District School Board,899003,Cawthra Park Secondary School,Mississauga,1,0,0,1,-79.5734938,43.5763613
+2021-09-21,2021-09-22,Peel District School Board,088935,Champlain Trail Public School,Mississauga,1,0,0,1,-79.6783332,43.6036612
+2021-09-21,2021-09-22,Peel District School Board,094757,Cheyne Middle School,Brampton,1,0,0,1,-79.8179082,43.7053954
+2021-09-21,2021-09-22,Peel District School Board,254568,Derry West Village Public School,Mississauga,7,0,0,7,-79.7235724,43.6405639
+2021-09-21,2021-09-22,Peel District School Board,603791,Dunrankin Drive Public School,Mississauga,2,0,0,2,-79.6305879,43.7230593
+2021-09-21,2021-09-22,Peel District School Board,165620,Edenbrook Hill Public School,Brampton,1,0,0,1,-79.8082853,43.6955187
+2021-09-21,2021-09-22,Peel District School Board,166936,Edenrose Public School,Mississauga,1,0,0,1,-79.6756876,43.5790271
+2021-09-21,2021-09-22,Peel District School Board,588552,Fairlawn Elementary Public School,Brampton,1,0,0,1,-79.7255218,43.7681065
+2021-09-21,2021-09-22,Peel District School Board,199362,Floradale Public School,Mississauga,2,0,0,2,-79.6153803,43.5716572
+2021-09-21,2021-09-22,Peel District School Board,221538,Goldcrest Public School,Brampton,3,0,0,3,-79.7206972,43.7299977
+2021-09-21,2021-09-22,Peel District School Board,228940,Great Lakes Public School,Brampton,2,0,0,2,-79.7684966,43.7365852
+2021-09-21,2021-09-22,Peel District School Board,229377,Greenbriar Senior Public School,Brampton,1,0,0,1,-79.7156369,43.7362776
+2021-09-21,2021-09-22,Peel District School Board,236845,Hazel McCallion Senior Public School,Mississauga,3,0,0,3,-79.7090808,43.5891109
+2021-09-21,2021-09-22,Peel District School Board,254550,Hickory Wood Public School,Brampton,1,0,0,1,-79.7428882,43.646312
+2021-09-21,2021-09-22,Peel District School Board,917559,Humberview Secondary School,Caledon,2,0,0,2,-79.73659,43.8879863
+2021-09-21,2021-09-22,Peel District School Board,005797,James Bolton Public School,Caledon,2,0,0,2,-79.741129,43.8866892
+2021-09-21,2021-09-22,Peel District School Board,297682,Kingswood Drive Public School,Brampton,0,1,0,1,-79.765954,43.7024507
+2021-09-21,2021-09-22,Peel District School Board,311960,Levi Creek Public School,Mississauga,1,0,0,1,-79.7475899,43.6232074
+2021-09-21,2021-09-22,Peel District School Board,904203,Louise Arbour Secondary School,Brampton,0,2,0,2,-79.7675382,43.7593116
+2021-09-21,2021-09-22,Peel District School Board,351857,McHugh Public School,Brampton,1,0,0,1,-79.759145,43.6797007
+2021-09-21,2021-09-22,Peel District School Board,382647,Nahani Way Public School,Mississauga,1,0,0,1,-79.6509949,43.6147544
+2021-09-21,2021-09-22,Peel District School Board,431966,Palgrave Public School,Caledon,1,0,0,1,-79.8331625,43.9471617
+2021-09-21,2021-09-22,Peel District School Board,938009,Rick Hansen Secondary School,Mississauga,1,0,0,1,-79.6837785,43.5885904
+2021-09-21,2021-09-22,Peel District School Board,484849,Ridgewood Public School,Mississauga,1,0,0,1,-79.6405925,43.7151914
+2021-09-21,2021-09-22,Peel District School Board,486400,Riverside Public School,Mississauga,1,0,0,1,-79.5902653,43.5502235
+2021-09-21,2021-09-22,Peel District School Board,494275,Royal Orchard Middle School,Brampton,2,0,0,2,-79.7865063,43.6945128
+2021-09-21,2021-09-22,Peel District School Board,501506,Sawmill Valley Public School,Mississauga,2,0,0,2,-79.6799195,43.5515258
+2021-09-21,2021-09-22,Peel District School Board,510548,Sheridan Park Public School,Mississauga,1,0,0,1,-79.6659131,43.5298276
+2021-09-21,2021-09-22,Peel District School Board,516210,Sir Wilfrid Laurier Public School,Brampton,1,0,0,1,-79.7271563,43.677287
+2021-09-21,2021-09-22,Peel District School Board,945978,Streetsville Secondary School,Mississauga,1,0,0,1,-79.7195284,43.5796875
+2021-09-21,2021-09-22,Peel District School Board,551040,Terry Fox Public School,Brampton,1,0,0,1,-79.7924468,43.731294
+2021-09-21,2021-09-22,Peel District School Board,551422,The Valleys Senior Public School,Mississauga,2,0,0,2,-79.6235844,43.5983195
+2021-09-21,2021-09-22,Peel District School Board,552259,Thomas Street Middle School,Mississauga,1,0,0,1,-79.7257273,43.5668011
+2021-09-21,2021-09-22,Peel District School Board,948187,T. L. Kennedy Secondary School,Mississauga,0,1,0,1,-79.6192452,43.5819102
+2021-09-21,2021-09-22,Peel District School Board,067723,Tribune Drive Public School,Brampton,0,1,0,1,-79.8394845,43.6907681
+2021-09-21,2021-09-22,Peel District School Board,578835,Vista Heights Public School,Mississauga,1,0,0,1,-79.7256076,43.5748007
+2021-09-21,2021-09-22,Peel District School Board,600091,Westervelts Corners Public School,Brampton,1,0,0,1,-79.7796544,43.7040385
+2021-09-21,2021-09-22,Peel District School Board,229647,Whaley's Corners Public School,Brampton,1,0,0,1,-79.7867162,43.6309896
+2021-09-21,2021-09-22,Peel District School Board,604780,Whitehorn Public School,Mississauga,2,0,0,2,-79.7028574,43.5962601
+2021-09-21,2021-09-22,Peterborough Victoria Northum Clarington Catholic District School Board,731358,Monsignor Leo Cleary Catholic Elementary School,Clarington,3,2,0,5,-78.789825,43.931867
+2021-09-21,2021-09-22,Peterborough Victoria Northum Clarington Catholic District School Board,788147,St. Elizabeth Catholic Elementary School,Clarington,1,0,0,1,-78.6929068,43.9289562
+2021-09-21,2021-09-22,Provincial and Demonstration Schools,B76686,Board Site,Milton,0,1,0,1,-79.87107209999999,43.5061943
+2021-09-21,2021-09-22,Rainbow District School Board,002283,Adamsdale Public School,Greater Sudbury,1,0,0,1,-80.9375447,46.49476019999999
+2021-09-21,2021-09-22,Rainbow District School Board,359529,Lasalle Elementary,Greater Sudbury,1,0,0,1,-80.939672,46.524667
+2021-09-21,2021-09-22,Rainbow District School Board,468070,R L Beattie Public School,Greater Sudbury,3,0,0,3,-80.9939727,46.4501419
+2021-09-21,2021-09-22,Rainy River District School Board,141518,Donald Young Public School,Emo,2,0,0,2,-93.8298807,48.6301321
+2021-09-21,2021-09-22,Simcoe County District School Board,003131,Admiral Collingwood Elementary School,Collingwood,1,0,0,1,-80.2029489,44.4862806
+2021-09-21,2021-09-22,Simcoe County District School Board,186666,Alliston Union Public School,New Tecumseth,4,0,0,4,-79.8713898,44.16255
+2021-09-21,2021-09-22,Simcoe County District School Board,080268,Cameron Street Public School,Collingwood,1,0,0,1,-80.21980359999999,44.4879041
+2021-09-21,2021-09-22,Simcoe County District School Board,456756,Chris Hadfield Public School,Bradford West Gwillimbury,1,0,0,1,-79.5852864,44.1049702
+2021-09-21,2021-09-22,Simcoe County District School Board,902551,Collingwood Collegiate Institute,Collingwood,1,0,0,1,-80.214944,44.487805
+2021-09-21,2021-09-22,Simcoe County District School Board,160172,East Oro Public School,Oro-Medonte,1,0,0,1,-79.495076,44.5288972
+2021-09-21,2021-09-22,Simcoe County District School Board,181323,Emma King Elementary School,Barrie,1,0,0,1,-79.731915,44.3962182
+2021-09-21,2021-09-22,Simcoe County District School Board,384550,Fieldcrest Elementary School,Bradford West Gwillimbury,2,0,0,2,-79.5817656,44.1149787
+2021-09-21,2021-09-22,Simcoe County District School Board,273988,Huron Park Public School,Midland,1,0,0,1,-79.8760917,44.7434208
+2021-09-21,2021-09-22,Simcoe County District School Board,225946,Hyde Park Public School,Barrie,1,0,0,1,-79.6070572,44.3592375
+2021-09-21,2021-09-22,Simcoe County District School Board,902636,Nottawasaga Pines Secondary School,Essa,2,0,0,2,-79.882859,44.312329
+2021-09-21,2021-09-22,Simcoe County District School Board,585599,W. H. Day Elementary School,Bradford West Gwillimbury,2,0,0,2,-79.570022,44.104777
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,732311,Monsignor Clair Separate School,Barrie,2,0,0,2,-79.6851107,44.4143475
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,808007,Saint Gabriel the Archangel Catholic School,Barrie,3,0,0,3,-79.6125823,44.3560231
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,777935,St Bernadette Elementary School,Barrie,2,0,0,2,-79.7214083,44.332426
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,790044,St Francis of Assisi Elementary School,Innisfil,2,0,0,2,-79.5512072,44.3035937
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,798436,St James Separate School,Adjala-Tosorontio,0,1,0,1,-79.8478305,44.0268224
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,813389,St Joseph's Separate School,Barrie,2,0,0,2,-79.6844182,44.412707
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,824690,St. Marie of the Incarnation Separate School,Bradford West Gwillimbury,1,0,0,1,-79.560783,44.1184119
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,833061,St Michael the Archangel Catholic Elementary School,Barrie,1,0,0,1,-79.6598283,44.3538003
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,836320,St Nicholas School,Barrie,2,0,0,2,-79.7291377,44.3225999
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,852775,St Theresa's Separate School,Midland,1,0,0,1,-79.8700223,44.7387651
+2021-09-21,2021-09-22,Simcoe Muskoka Catholic District School Board,773050,St Thomas Aquinas Catholic Secondary School,New Tecumseth,2,0,0,2,-79.8081743,44.0354002
+2021-09-21,2021-09-22,St Clair Catholic District School Board,710970,Gregory A Hogan Catholic School,Sarnia,2,0,0,2,-82.3599315,43.0108059
+2021-09-21,2021-09-22,St Clair Catholic District School Board,690762,St. Angela Merici Catholic School,Chatham-Kent,2,0,0,2,-82.2249834,42.3986148
+2021-09-21,2021-09-22,St Clair Catholic District School Board,771295,St Anne Catholic School,Chatham-Kent,1,0,0,1,-81.9948776,42.3276222
+2021-09-21,2021-09-22,St Clair Catholic District School Board,773757,St Matthew Catholic School,Sarnia,1,0,0,1,-82.3824017,42.9726601
+2021-09-21,2021-09-22,St Clair Catholic District School Board,846015,St Philip Catholic School,Petrolia,2,0,0,2,-82.1509644,42.8803286
+2021-09-21,2021-09-22,Sudbury Catholic District School Board,689351,Bishop Alexander Carter Catholic Secondary School,Greater Sudbury,4,0,0,4,-80.9669721,46.6564035
+2021-09-21,2021-09-22,Sudbury Catholic District School Board,820436,Bishop Alexander Carter Elementary Schoo,Greater Sudbury,1,0,0,1,-80.96697209999999,46.6564035
+2021-09-21,2021-09-22,Sudbury Catholic District School Board,770744,St Anne Separate School,Greater Sudbury,1,0,0,1,-80.93372339999999,46.651287
+2021-09-21,2021-09-22,Sudbury Catholic District School Board,783358,St Charles College,Greater Sudbury,3,0,0,3,-80.927149,46.518235
+2021-09-21,2021-09-22,Sudbury Catholic District School Board,830399,St. Charles College Elementary,Greater Sudbury,1,0,0,1,-80.927149,46.518235
+2021-09-21,2021-09-22,Thames Valley District School Board,026395,Ashley Oaks Public School,London,1,0,0,1,-81.2423096,42.9372281
+2021-09-21,2021-09-22,Thames Valley District School Board,467572,Blenheim District Public School,Blandford-Blenheim,1,0,0,1,-80.5504972,43.23590979999999
+2021-09-21,2021-09-22,Thames Valley District School Board,136020,Cedar Hollow Public School,London,1,0,0,1,-81.2120312,43.0431678
+2021-09-21,2021-09-22,Thames Valley District School Board,899305,Central Elgin Collegiate Institute,St. Thomas,1,0,0,1,-81.173915,42.7700861
+2021-09-21,2021-09-22,Thames Valley District School Board,901644,Clarke Road Secondary School,London,0,1,0,1,-81.1721,42.9997
+2021-09-21,2021-09-22,Thames Valley District School Board,902420,College Avenue Secondary School,Woodstock,0,1,0,1,-80.74548279999999,43.1242326
+2021-09-21,2021-09-22,Thames Valley District School Board,912956,Glendale High School,Tillsonburg,1,0,0,1,-80.7417955,42.8671791
+2021-09-21,2021-09-22,Thames Valley District School Board,257737,Hillcrest Public School,London,1,0,0,1,-81.2238051,43.0223341
+2021-09-21,2021-09-22,Thames Valley District School Board,280810,Jack Chambers Public School,London,1,0,0,1,-81.26943419999999,43.0363654
+2021-09-21,2021-09-22,Thames Valley District School Board,289710,Kensal Park Public School,London,2,0,0,2,-81.2783894,42.9697794
+2021-09-21,2021-09-22,Thames Valley District School Board,000469,Lambeth Public School,London,1,1,0,2,-81.2976024,42.913418
+2021-09-21,2021-09-22,Thames Valley District School Board,410748,Northdale Public School,Woodstock,1,0,0,1,-80.7554232,43.1406001
+2021-09-21,2021-09-22,Thames Valley District School Board,944939,Parkside Collegiate Institute,St. Thomas,1,0,0,1,-81.1930415,42.755919
+2021-09-21,2021-09-22,Thames Valley District School Board,941743,Sir Frederick Banting Secondary School,London,1,0,0,1,-81.3050783,43.0021399
+2021-09-21,2021-09-22,Thames Valley District School Board,586970,Stoney Creek Public School,London,1,0,0,1,-81.2422882,43.0460188
+2021-09-21,2021-09-22,Thames Valley District School Board,951439,West Elgin Secondary School,West Elgin,2,0,0,2,-81.598599,42.598233
+2021-09-21,2021-09-22,Thames Valley District School Board,073745,Westfield Public School,Tillsonburg,2,0,0,2,-80.7491899,42.8582204
+2021-09-21,2021-09-22,Toronto Catholic District School Board,691798,Bishop Marrocco/Thomas Merton Catholic Secondary School,Toronto,1,0,0,1,-79.4520945,43.6561083
+2021-09-21,2021-09-22,Toronto Catholic District School Board,710601,Blessed Margherita of Citta Castello Catholic School,Toronto,2,0,0,2,-79.5079102,43.7437156
+2021-09-21,2021-09-22,Toronto Catholic District School Board,694045,Canadian Martyrs Catholic School,Toronto,1,0,0,1,-79.3197093,43.6982088
+2021-09-21,2021-09-22,Toronto Catholic District School Board,707589,Father Henry Carr Catholic Secondary School,Toronto,0,1,0,1,-79.5921817,43.7360602
+2021-09-21,2021-09-22,Toronto Catholic District School Board,731951,Father John Redmond Catholic Secondary School,Toronto,1,0,0,1,-79.5167212,43.5948601
+2021-09-21,2021-09-22,Toronto Catholic District School Board,719528,Holy Rosary Catholic School,Toronto,0,1,0,1,-79.4142534,43.6848122
+2021-09-21,2021-09-22,Toronto Catholic District School Board,723428,Jean Vanier Catholic Secondary School,Toronto,1,0,0,1,-79.25841439999999,43.7379705
+2021-09-21,2021-09-22,Toronto Catholic District School Board,728063,Loretto College School,Toronto,1,0,0,1,-79.4432802,43.6759651
+2021-09-21,2021-09-22,Toronto Catholic District School Board,730653,Marshall McLuhan Catholic Secondary School,Toronto,1,0,0,1,-79.4093017,43.7079505
+2021-09-21,2021-09-22,Toronto Catholic District School Board,763772,Senator O'Connor College School,Toronto,2,0,0,2,-79.317419,43.7506144
+2021-09-21,2021-09-22,Toronto Catholic District School Board,775444,St Augustine Catholic School,Toronto,1,0,0,1,-79.5250424,43.7680849
+2021-09-21,2021-09-22,Toronto Catholic District School Board,780880,St Brigid Catholic School,Toronto,1,0,0,1,-79.3168714,43.6868117
+2021-09-21,2021-09-22,Toronto Catholic District School Board,784389,St Clare Catholic School,Toronto,1,0,0,1,-79.441401,43.6793488
+2021-09-21,2021-09-22,Toronto Catholic District School Board,788163,St Edward Catholic School,Toronto,3,0,0,3,-79.41351379999999,43.7535081
+2021-09-21,2021-09-22,Toronto Catholic District School Board,789917,St Fidelis Catholic School,Toronto,2,2,0,4,-79.4852408,43.7173818
+2021-09-21,2021-09-22,Toronto Catholic District School Board,793620,St Gabriel Catholic Catholic School,Toronto,0,1,0,1,-79.3909579,43.7691091
+2021-09-21,2021-09-22,Toronto Catholic District School Board,694193,St John Henry Newman Catholic High School,Toronto,1,0,0,1,-79.2403912,43.7147603
+2021-09-21,2021-09-22,Toronto Catholic District School Board,802468,St John the Evangelist Catholic School,Toronto,1,0,0,1,-79.5206919,43.703366
+2021-09-21,2021-09-22,Toronto Catholic District School Board,805971,St Josaphat Catholic School,Toronto,1,0,0,1,-79.508719,43.5994813
+2021-09-21,2021-09-22,Toronto Catholic District School Board,817287,St Lawrence Catholic School,Toronto,1,0,0,1,-79.2799645,43.7491775
+2021-09-21,2021-09-22,Toronto Catholic District School Board,820903,St Malachy Catholic School,Toronto,1,0,0,1,-79.1662029,43.7711471
+2021-09-21,2021-09-22,Toronto Catholic District School Board,802247,St Martin Catholic School (St.Martin),Toronto,1,0,0,1,-79.3644439,43.6669477
+2021-09-21,2021-09-22,Toronto Catholic District School Board,836133,St Nicholas Catholic School,Toronto,1,0,0,1,-79.2330176,43.7479438
+2021-09-21,2021-09-22,Toronto Catholic District School Board,848875,St Richard Catholic School,Toronto,3,0,0,3,-79.239856,43.7683236
+2021-09-21,2021-09-22,Toronto Catholic District School Board,849650,St Robert Catholic School,Toronto,1,0,0,1,-79.4444112,43.7498365
+2021-09-21,2021-09-22,Toronto Catholic District School Board,856541,St Timothy Catholic School,Toronto,1,0,0,1,-79.35114659999999,43.7749766
+2021-09-21,2021-09-22,Toronto Catholic District School Board,858757,St Vincent de Paul Catholic School,Toronto,0,1,0,1,-79.4479789,43.6467881
+2021-09-21,2021-09-22,Toronto Catholic District School Board,859036,St Wilfrid Catholic School,Toronto,1,1,0,2,-79.5025515,43.7600685
+2021-09-21,2021-09-22,Toronto District School Board,287801,Alvin Curling Public School,Toronto,4,1,0,5,-79.1901378,43.8083169
+2021-09-21,2021-09-22,Toronto District School Board,049344,Birch Cliff Public School,Toronto,1,1,0,2,-79.2653469,43.6916538
+2021-09-21,2021-09-22,Toronto District School Board,050679,Blake Street Junior Public School,Toronto,1,0,0,1,-79.3384795,43.6718149
+2021-09-21,2021-09-22,Toronto District School Board,054593,Bliss Carman Senior Public School,Toronto,6,0,0,6,-79.2255448,43.7325371
+2021-09-21,2021-09-22,Toronto District School Board,055328,Blythwood Junior Public School,Toronto,1,0,0,1,-79.3893342,43.7195626
+2021-09-21,2021-09-22,Toronto District School Board,425826,Carleton Village Junior and Senior Public School,Toronto,1,0,0,1,-79.4601581,43.672613
+2021-09-21,2021-09-22,Toronto District School Board,106151,Chester Elementary School,Toronto,1,0,0,1,-79.3514383,43.6876142
+2021-09-21,2021-09-22,Toronto District School Board,123315,Cornell Junior Public School,Toronto,2,0,0,2,-79.218356,43.759448
+2021-09-21,2021-09-22,Toronto District School Board,128058,C R Marchant Middle School,Toronto,1,0,0,1,-79.5128555,43.7019348
+2021-09-21,2021-09-22,Toronto District School Board,413470,D A Morrison Middle School,Toronto,1,0,0,1,-79.3117458,43.6954146
+2021-09-21,2021-09-22,Toronto District School Board,133582,Danforth Gardens Public School,Toronto,1,0,0,1,-79.2710626,43.7085484
+2021-09-21,2021-09-22,Toronto District School Board,135011,Davisville Junior Public School,Toronto,1,0,0,1,-79.4367975,43.6907183
+2021-09-21,2021-09-22,Toronto District School Board,904635,Downsview Secondary School,Toronto,0,1,0,1,-79.4791025,43.7307231
+2021-09-21,2021-09-22,Toronto District School Board,153478,Dunlace Public School,Toronto,1,0,0,1,-79.3704177,43.7622441
+2021-09-21,2021-09-22,Toronto District School Board,906450,Earl Haig Secondary School,Toronto,1,1,0,2,-79.406068,43.7694734
+2021-09-21,2021-09-22,Toronto District School Board,906840,East York Collegiate Institute,Toronto,3,0,0,3,-79.3278337,43.6948087
+2021-09-21,2021-09-22,Toronto District School Board,361348,Fairbank Memorial Community School,Toronto,1,0,0,1,-79.4558014,43.6917504
+2021-09-21,2021-09-22,Toronto District School Board,511195,Fraser Mustard Early Learning Academy,Toronto,1,0,0,1,-79.344171,43.705151
+2021-09-21,2021-09-22,Toronto District School Board,252816,Henry Hudson Senior Public School,Toronto,1,0,0,1,-79.2146947,43.777754
+2021-09-21,2021-09-22,Toronto District School Board,270342,Humber Valley Village Junior Middle School,Toronto,0,1,0,1,-79.5267309,43.6654635
+2021-09-21,2021-09-22,Toronto District School Board,918547,Jarvis Collegiate Institute,Toronto,1,0,0,1,-79.3776125,43.6658765
+2021-09-21,2021-09-22,Toronto District School Board,906736,John Polanyi Collegiate Institute,Toronto,1,0,0,1,-79.4397628,43.7173659
+2021-09-21,2021-09-22,Toronto District School Board,296473,King George Junior Public School,Toronto,9,0,0,9,-79.4868796,43.6631967
+2021-09-21,2021-09-22,Toronto District School Board,305707,Lambton Park Community School,Toronto,1,0,0,1,-79.4982237,43.6673783
+2021-09-21,2021-09-22,Toronto District School Board,922315,Leaside High School,Toronto,1,0,0,1,-79.372426,43.7111943
+2021-09-21,2021-09-22,Toronto District School Board,311812,Leslieville Junior Public School,Toronto,2,0,0,2,-79.3323009,43.6674572
+2021-09-21,2021-09-22,Toronto District School Board,922498,Lester B Pearson Collegiate Institute,Toronto,1,0,0,1,-79.225092,43.8041614
+2021-09-21,2021-09-22,Toronto District School Board,933198,Marc Garneau Collegiate Institute,Toronto,1,0,0,1,-79.3354171,43.7092251
+2021-09-21,2021-09-22,Toronto District School Board,346659,Mason Road Junior Public School,Toronto,1,0,0,1,-79.225666,43.7391573
+2021-09-21,2021-09-22,Toronto District School Board,365769,Millwood Junior School,Toronto,2,0,0,2,-79.5771723,43.6335106
+2021-09-21,2021-09-22,Toronto District School Board,433624,Nelson Mandela Park Public School,Toronto,0,1,0,1,-79.3609333,43.6581627
+2021-09-21,2021-09-22,Toronto District School Board,930504,North Toronto Collegiate Institute,Toronto,1,0,0,1,-79.3966319,43.7098648
+2021-09-21,2021-09-22,Toronto District School Board,932116,Oasis Alternative Secondary School,Toronto,1,0,0,1,-79.39822889999999,43.6457371
+2021-09-21,2021-09-22,Toronto District School Board,419710,Orde Street Public School,Toronto,1,0,0,1,-79.3920484,43.6583217
+2021-09-21,2021-09-22,Toronto District School Board,490300,Rose Avenue Junior Public School,Toronto,1,0,0,1,-79.3725444,43.67025659999999
+2021-09-21,2021-09-22,Toronto District School Board,495506,Ryerson Community School Junior Senior,Toronto,2,0,0,2,-79.4023283,43.6517418
+2021-09-21,2021-09-22,Toronto District School Board,949744,SATEC @ W A Porter Collegiate Institute,Toronto,1,0,0,1,-79.2873215,43.7166108
+2021-09-21,2021-09-22,Toronto District School Board,505587,Seneca School,Toronto,1,0,0,1,-79.5820289,43.6511598
+2021-09-21,2021-09-22,Toronto District School Board,515132,Sir Adam Beck Junior School,Toronto,1,0,0,1,-79.5482315,43.6017735
+2021-09-21,2021-09-22,Toronto District School Board,515337,Sir Ernest MacMillan Senior Public School,Toronto,1,0,0,1,-79.328599,43.8064283
+2021-09-21,2021-09-22,Toronto District School Board,941972,Sir Oliver Mowat Collegiate Institute,Toronto,1,0,0,1,-79.1420622,43.7793926
+2021-09-21,2021-09-22,Toronto District School Board,942200,Sir Wilfrid Laurier Collegiate Institute,Toronto,1,0,0,1,-79.1971404,43.7475868
+2021-09-21,2021-09-22,Toronto District School Board,531022,St Margaret's Public School,Toronto,1,0,0,1,-79.1957525,43.7679964
+2021-09-21,2021-09-22,Toronto District School Board,555169,The Waterfront School,Toronto,2,0,0,2,-79.3974515,43.636048099999996
+2021-09-21,2021-09-22,Toronto District School Board,947407,Thistletown Collegiate Institute,Toronto,1,0,0,1,-79.5614312,43.7273126
+2021-09-21,2021-09-22,Toronto District School Board,951560,West Hill Collegiate Institute,Toronto,1,0,0,1,-79.1903221,43.7757537
+2021-09-21,2021-09-22,Toronto District School Board,952605,Weston Collegiate Institute,Toronto,1,0,0,1,-79.5093967,43.7038742
+2021-09-21,2021-09-22,Toronto District School Board,602850,Weston Memorial Junior Public School,Toronto,1,0,0,1,-79.5093989,43.7060047
+2021-09-21,2021-09-22,Toronto District School Board,603015,Westway Junior School,Toronto,1,0,0,1,-79.5486944,43.6908027
+2021-09-21,2021-09-22,Toronto District School Board,603406,Westwood Middle School,Toronto,1,0,0,1,-79.351016,43.686483
+2021-09-21,2021-09-22,Toronto District School Board,954160,Woburn Collegiate Institute,Toronto,1,0,0,1,-79.2279919,43.7780772
+2021-09-21,2021-09-22,Toronto District School Board,954683,York Memorial Collegiate Institute,Toronto,3,1,0,4,-79.5311855,43.6897554
+2021-09-21,2021-09-22,Trillium Lakelands District School Board,909700,Fenelon Falls Secondary School,Kawartha Lakes,1,0,0,1,-78.73958019999999,44.5324547
+2021-09-21,2021-09-22,Trillium Lakelands District School Board,357707,Glen Orchard Public School,Muskoka Lakes,1,0,0,1,-79.6337738,45.0853614
+2021-09-21,2021-09-22,Trillium Lakelands District School Board,227099,Grandview Public School,Kawartha Lakes,1,0,0,1,-78.6565094,44.1604351
+2021-09-21,2021-09-22,Trillium Lakelands District School Board,278211,Irwin Memorial Public School,Lake of Bays,2,0,0,2,-78.9971173,45.3236909
+2021-09-21,2021-09-22,Trillium Lakelands District School Board,368946,Monck Public School,Bracebridge,1,0,0,1,-79.3207417,45.0410178
+2021-09-21,2021-09-22,Upper Canada District School Board,106283,Chesterville Public School,North Dundas,1,0,0,1,-75.2326373,45.1002239
+2021-09-21,2021-09-22,Upper Canada District School Board,902810,Cornwall Collegiate and Vocational School,Cornwall,2,0,0,2,-74.7285075,45.0228721
+2021-09-21,2021-09-22,Upper Canada District School Board,477957,Cornwall Intermediate School,Cornwall,3,0,0,3,-74.6982426,45.03004199999999
+2021-09-21,2021-09-22,Upper Canada District School Board,349623,Maynard Public School,Augusta,2,0,0,2,-75.5824728,44.7251746
+2021-09-21,2021-09-22,Upper Canada District School Board,452297,Pleasant Corners Public School,Champlain,1,0,0,1,-74.6358605,45.5475499
+2021-09-21,2021-09-22,Upper Canada District School Board,935425,Rockland District High School,Clarence-Rockland,1,0,0,1,-75.285136,45.5441483
+2021-09-21,2021-09-22,Upper Canada District School Board,488542,Rockland Public School,Clarence-Rockland,2,0,0,2,-75.28666199999999,45.54535
+2021-09-21,2021-09-22,Upper Canada District School Board,167126,South Edwardsburg Public School,Edwardsburgh/Cardinal,1,0,0,1,-75.4661422,44.7484877
+2021-09-21,2021-09-22,Upper Canada District School Board,942987,South Grenville District High School,Prescott,1,0,0,1,-75.5216401,44.7198023
+2021-09-21,2021-09-22,Upper Canada District School Board,540056,St Lawrence Intermediate School,Cornwall,4,0,0,4,-74.6982426,45.03004199999999
+2021-09-21,2021-09-22,Upper Canada District School Board,944670,St Lawrence Secondary School,Cornwall,6,0,0,6,-74.6982426,45.030042
+2021-09-21,2021-09-22,Upper Canada District School Board,946648,Tagwi Secondary School,North Stormont,0,1,0,1,-74.9285867,45.1798411
+2021-09-21,2021-09-22,Upper Canada District School Board,949094,Vankleek Hill Collegiate Institute,Champlain,2,0,0,2,-74.6530358,45.5225305
+2021-09-21,2021-09-22,Upper Canada District School Board,578444,Viscount Alexander Public School,Cornwall,13,2,0,15,-74.7665122,45.0151915
+2021-09-21,2021-09-22,Upper Grand District School Board,B66117,Board Site,Guelph,0,0,1,1,-80.2627031,43.5791119
+2021-09-21,2021-09-22,Upper Grand District School Board,418790,Credit Meadows Elementary School,Orangeville,0,0,2,2,-80.1169483,43.9220675
+2021-09-21,2021-09-22,Upper Grand District School Board,909050,Erin District High School,Erin,0,0,1,1,-80.0678383,43.7788464
+2021-09-21,2021-09-22,Upper Grand District School Board,418765,Island Lake Public School,Orangeville,0,0,1,1,-80.0757552,43.9215754
+2021-09-21,2021-09-22,Upper Grand District School Board,918679,John F Ross Collegiate and Vocational Institute,Guelph,0,0,1,1,-80.24662440000002,43.5614365
+2021-09-21,2021-09-22,Upper Grand District School Board,586866,Ken Danby Public School,Guelph,0,0,1,1,-80.2212388,43.5704342
+2021-09-21,2021-09-22,Upper Grand District School Board,368644,Mitchell Woods Public School,Guelph,0,0,2,2,-80.2942359,43.5272717
+2021-09-21,2021-09-22,Upper Grand District School Board,450006,Ponsonby Public School,Centre Wellington,0,0,2,2,-80.3538284,43.6229667
+2021-09-21,2021-09-22,Upper Grand District School Board,185329,Ross R MacKay Public School,Erin,0,0,2,2,-80.13727569999999,43.7859164
+2021-09-21,2021-09-22,Upper Grand District School Board,590665,Waverley Drive Public School,Guelph,0,0,1,1,-80.2594843,43.5730719
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,718920,Holy Rosary Catholic Elementary School,Waterloo,1,0,0,1,-80.5537295,43.445444
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,732320,Monsignor Doyle Catholic Secondary School,Cambridge,2,0,0,2,-80.298,43.3409853
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,744700,Our Lady of Grace Catholic Elementary School,Kitchener,1,0,0,1,-80.4781229,43.419855
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,753009,Resurrection Catholic Secondary School,Kitchener,1,0,0,1,-80.5468556,43.4405344
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,764450,Sir Edgar Bauer Catholic Elementary School,Waterloo,2,0,0,2,-80.5542617,43.4915782
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,776726,St Benedict Catholic Secondary School,Cambridge,2,0,0,2,-80.300535,43.3929749
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,866296,St Boniface Catholic Elementary School,Woolwich,1,0,0,1,-80.3927864,43.536101
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,780650,St Brigid Catholic Elementary School,North Dumfries,2,0,0,2,-80.4610888,43.2905041
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,786772,St Dominic Savio Catholic Elementary School,Kitchener,0,1,0,1,-80.5399568,43.43377659999999
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,788694,St Elizabeth Catholic Elementary School,Cambridge,1,0,0,1,-80.2909529,43.4259249
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,831724,St Gabriel Catholic Elementary School,Cambridge,1,0,0,1,-80.3134538,43.441757
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,801682,St John Catholic Elementary School,Kitchener,1,0,0,1,-80.5088484,43.4491127
+2021-09-21,2021-09-22,Waterloo Catholic District School Board,832103,St Mary's High School,Kitchener,0,1,0,1,-80.4670935,43.4202176
+2021-09-21,2021-09-22,Waterloo Region District School Board,028541,Avenue Road Public School,Cambridge,0,1,0,1,-80.3131681,43.3798204
+2021-09-21,2021-09-22,Waterloo Region District School Board,588849,Breslau Public School,Woolwich,1,0,0,1,-80.4166412,43.477936
+2021-09-21,2021-09-22,Waterloo Region District School Board,620432,Conestogo Public School,Woolwich,2,1,0,3,-80.508382,43.541877
+2021-09-21,2021-09-22,Waterloo Region District School Board,124354,Coronation Public School,Cambridge,0,1,0,1,-80.3452441,43.39993279999999
+2021-09-21,2021-09-22,Waterloo Region District School Board,910350,Forest Heights Collegiate Institute,Kitchener,3,1,0,4,-80.5219633,43.4258866
+2021-09-21,2021-09-22,Waterloo Region District School Board,201448,Forest Hill Public School,Kitchener,2,0,0,2,-80.5057261,43.4261387
+2021-09-21,2021-09-22,Waterloo Region District School Board,913340,Glenview Park Secondary School,Cambridge,1,0,0,1,-80.3069096,43.3463241
+2021-09-21,2021-09-22,Waterloo Region District School Board,095230,Hespeler Public School,Cambridge,0,1,0,1,-80.3050266,43.4207453
+2021-09-21,2021-09-22,Waterloo Region District School Board,918555,Jacob Hespeler Secondary School,Cambridge,1,0,0,1,-80.3163779,43.4180047
+2021-09-21,2021-09-22,Waterloo Region District School Board,920495,Kitchener Waterloo Collegiate and Vocational School,Kitchener,0,1,0,1,-80.509026,43.455668
+2021-09-21,2021-09-22,Waterloo Region District School Board,303003,Lackner Woods Public School,Kitchener,1,0,0,1,-80.4192784,43.4527284
+2021-09-21,2021-09-22,Waterloo Region District School Board,461962,Queen Elizabeth Public School,Kitchener,0,1,0,1,-80.4865997,43.4303219
+2021-09-21,2021-09-22,Waterloo Region District School Board,486140,Riverside Public School,Woolwich,1,0,0,1,-80.5709464,43.604217
+2021-09-21,2021-09-22,Waterloo Region District School Board,509159,Sheppard Public School,Kitchener,1,0,0,1,-80.4721244,43.4466499
+2021-09-21,2021-09-22,Waterloo Region District School Board,942006,Sir John A Macdonald Secondary School,Waterloo,1,0,0,1,-80.5941144,43.471009
+2021-09-21,2021-09-22,Waterloo Region District School Board,534242,Stanley Park Public School,Kitchener,1,2,0,3,-80.44803689999999,43.4536933
+2021-09-21,2021-09-22,Waterloo Region District School Board,547506,Tait Street Public School,Cambridge,1,0,0,1,-80.3234867,43.3390631
+2021-09-21,2021-09-22,Waterloo Region District School Board,951048,Waterloo-Oxford District Secondary School,Wilmot,2,0,0,2,-80.689385,43.4013686
+2021-09-21,2021-09-22,Waterloo Region District School Board,602906,Westvale Public School,Waterloo,2,0,0,2,-80.5601119,43.4450334
+2021-09-21,2021-09-22,Wellington Catholic District School Board,798690,St James Catholic School,Guelph,1,0,0,1,-80.2328736,43.5602061
+2021-09-21,2021-09-22,Wellington Catholic District School Board,808830,St Joseph Catholic School,Guelph,3,0,0,3,-80.2682172,43.5385257
+2021-09-21,2021-09-22,Wellington Catholic District School Board,833690,St Michael Catholic School,Guelph,1,0,0,1,-80.2238531,43.5190044
+2021-09-21,2021-09-22,Wellington Catholic District School Board,837210,St Patrick Catholic School,Guelph,1,0,0,1,-80.257797299999993,43.5767132
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,688363,Assumption College School,Windsor,1,0,0,1,-83.0611267,42.2956428
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,694452,Cardinal Carter Catholic Secondary School,Leamington,2,0,0,2,-82.6171272,42.0419259
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,700088,Catholic Central,Windsor,2,0,0,2,-83.0183257,42.29705
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,706523,F J Brennan Catholic High School,Windsor,1,0,0,1,-82.975601,42.324782
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,704245,Holy Cross Catholic Elementary School,Lasalle,2,0,0,2,-83.022055,42.235847
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,725510,L A Desmarais Catholic School,Windsor,2,0,0,2,-82.909467,42.309686
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,839397,St. André,Tecumseh,1,0,0,1,-82.858251,42.314848
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,769576,St Angela Catholic School,Windsor,1,0,0,1,-83.0175813,42.3060125
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,771520,St Anne Secondary School,Lakeshore,3,0,0,3,-82.765594,42.289106
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,859575,Stella Maris Catholic School,Amherstburg,1,0,0,1,-83.106554,42.115545
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,803243,St John de Brebeuf Catholic School,Kingsville,1,0,0,1,-82.734466,42.036738
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,781533,St John Vianney Catholic School,Windsor,3,0,0,3,-82.939782,42.337197
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,736163,St Joseph's High School,Windsor,6,1,0,7,-82.9121975,42.3168561
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,844160,St Peter Catholic School,Tecumseh,1,0,0,1,-82.8821201,42.2810584
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,847704,St Pius X Catholic School,Tecumseh,1,0,0,1,-82.883453,42.321029
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,849910,St Rose Catholic School,Windsor,0,1,0,1,-82.9543086,42.3302605
+2021-09-21,2021-09-22,Windsor-Essex Catholic District School Board,778931,St Teresa of CalcuttaCatholic School,Windsor,1,0,0,1,-82.9854219,42.3051826
+2021-09-21,2021-09-22,York Catholic District School Board,874361,Blessed Trinity Catholic Elementary School,Vaughan,4,0,0,4,-79.5261052,43.8438528
+2021-09-21,2021-09-22,York Catholic District School Board,728632,Cardinal Carter Catholic Secondary School,Aurora,0,1,0,1,-79.4669061,43.96279699999999
+2021-09-21,2021-09-22,York Catholic District School Board,706809,Father Michael McGivney Catholic High School,Markham,1,0,0,1,-79.2788897,43.8501249
+2021-09-21,2021-09-22,York Catholic District School Board,744026,Our Lady of Fatima Catholic Elementary School,Vaughan,1,0,0,1,-79.6009612,43.8113481
+2021-09-21,2021-09-22,York Catholic District School Board,874888,Our Lady Queen of the World CA High School,Richmond Hill,1,0,0,1,-79.4167327,43.886699
+2021-09-21,2021-09-22,York Catholic District School Board,766636,Pope Francis Catholic Elementary School,Vaughan,1,0,0,1,-79.6559658,43.8300092
+2021-09-21,2021-09-22,York Catholic District School Board,756709,Sacred Heart Catholic High School,Newmarket,1,0,0,1,-79.4396918,44.0570582
+2021-09-21,2021-09-22,York Catholic District School Board,753161,San Lorenzo Ruiz Catholic Elementary School,Markham,2,0,0,2,-79.2827564,43.8974401
+2021-09-21,2021-09-22,York Catholic District School Board,765708,St Augustine Catholic High School,Markham,1,0,0,1,-79.358348,43.8749274
+2021-09-21,2021-09-22,York Catholic District School Board,781460,St Catherine of Siena Catholic Elementary School,Vaughan,1,0,0,1,-79.5734258,43.7783757
+2021-09-21,2021-09-22,York Catholic District School Board,786020,St David Catholic Elementary School,Vaughan,2,0,0,2,-79.5190803,43.858509
+2021-09-21,2021-09-22,York Catholic District School Board,799912,St Jean de Brebeuf Catholic High School,Vaughan,3,0,0,3,-79.5596005,43.8353428
+2021-09-21,2021-09-22,York Catholic District School Board,801259,St Joan of Arc Catholic High School,Vaughan,1,0,0,1,-79.5189183,43.8612838
+2021-09-21,2021-09-22,York Catholic District School Board,761079,St John Bosco Catholic Elementary School,Vaughan,1,0,0,1,-79.55709519999999,43.8043876
+2021-09-21,2021-09-22,York Catholic District School Board,830437,St Mary Catholic Elementary School,King,3,0,0,3,-79.6455135,43.907782
+2021-09-21,2021-09-22,York Catholic District School Board,728752,St Mary of the Angels Catholic Elementary School,Vaughan,1,0,0,1,-79.5583245,43.8547558
+2021-09-21,2021-09-22,York Catholic District School Board,737242,St Veronica Catholic Elementary School,Vaughan,0,1,0,1,-79.5656864,43.8388396
+2021-09-21,2021-09-22,York Region District School Board,904040,Alexander MacKenzie High School,Richmond Hill,1,0,0,1,-79.448071,43.8698743
+2021-09-21,2021-09-22,York Region District School Board,068710,Alexander Muir Public School,Newmarket,2,0,0,2,-79.4987413,44.0554441
+2021-09-21,2021-09-22,York Region District School Board,112387,Anne Frank Public School,Vaughan,1,1,0,2,-79.4651009,43.8591387
+2021-09-21,2021-09-22,York Region District School Board,028282,Aurora Heights Public School,Aurora,1,0,0,1,-79.47391329999999,44.0038906
+2021-09-21,2021-09-22,York Region District School Board,071870,Buttonville Public School,Markham,2,0,0,2,-79.3552818,43.8647182
+2021-09-21,2021-09-22,York Region District School Board,086517,Castlemore Elementary Public School,Markham,1,0,0,1,-79.3037987,43.8975546
+2021-09-21,2021-09-22,York Region District School Board,128511,Crosby Heights Public School,Richmond Hill,1,0,0,1,-79.4254115,43.884759
+2021-09-21,2021-09-22,York Region District School Board,246078,David Suzuki Public School,Markham,3,0,0,3,-79.2253008,43.8558865
+2021-09-21,2021-09-22,York Region District School Board,904970,Dr John M Denison Secondary School,Newmarket,0,1,0,1,-79.4767299,44.0691009
+2021-09-21,2021-09-22,York Region District School Board,908819,Emily Carr Secondary School,Vaughan,2,0,0,2,-79.5940281,43.8170262
+2021-09-21,2021-09-22,York Region District School Board,156019,E T Crowle Public School,Markham,1,0,0,1,-79.2565839,43.8904297
+2021-09-21,2021-09-22,York Region District School Board,254078,Herbert H Carnegie Public School,Vaughan,1,0,0,1,-79.4773339,43.8771237
+2021-09-21,2021-09-22,York Region District School Board,917893,Huron Heights Secondary School,Newmarket,2,0,0,2,-79.446758,44.064323
+2021-09-21,2021-09-22,York Region District School Board,304220,Lakeside Public School,Georgina,1,0,0,1,-79.4729373,44.24454129999999
+2021-09-21,2021-09-22,York Region District School Board,951714,Maple High School,Vaughan,1,0,0,1,-79.5309309,43.8395045
+2021-09-21,2021-09-22,York Region District School Board,356263,Meadowbrook Public School,Newmarket,1,0,0,1,-79.45049639999999,44.0693068
+2021-09-21,2021-09-22,York Region District School Board,234591,Park Avenue Public School,East Gwillimbury,1,0,0,1,-79.507658,44.1104119
+2021-09-21,2021-09-22,York Region District School Board,894672,Pierre Elliott Trudeau High School,Markham,0,1,0,1,-79.3134237,43.8896491
+2021-09-21,2021-09-22,York Region District School Board,257447,Rick Hansen Public School,Aurora,1,0,0,1,-79.4417523,44.0209442
+2021-09-21,2021-09-22,York Region District School Board,548712,Thornhill Woods Public School,Vaughan,1,0,0,1,-79.4670026,43.8350163
+2021-09-21,2021-09-22,York Region District School Board,340936,Unionville Public School,Markham,1,0,0,1,-79.3137112,43.8745162
+2021-09-21,2021-09-22,York Region District School Board,462820,Victoria Square Public School,Markham,0,1,0,1,-79.3760061,43.9072054
+2021-09-21,2021-09-22,York Region District School Board,634565,Windham Ridge Public School,Richmond Hill,1,0,0,1,-79.4735473,43.9530812
+2021-09-21,2021-09-22,York Region District School Board,954292,Woodbridge College,Vaughan,1,0,0,1,-79.5823801,43.7799382
+2021-09-21,2021-09-22,York Region District School Board,617318,Woodbridge Public School,Vaughan,2,0,0,2,-79.595124,43.7803723
