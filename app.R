@@ -1,6 +1,16 @@
 
 source ("load_clean_data.R")
 
+
+current_label <- paste0("Current as of:", 
+                        wday (current_as_of, label = TRUE), 
+                        " ", 
+                        month(current_as_of, label = TRUE),
+                        " ", 
+                        day (current_as_of),
+                        "<br>"
+                        )
+
 ui <- fluidPage(
   includeCSS("www/styles.css"),
   navbarPage("Ontario COVID-19", 
@@ -14,7 +24,10 @@ ui <- fluidPage(
                  ),
                  mainPanel(
                    fluidRow(
-                     infoBox(HTML("New Cases:<br>", 
+                     HTML (current_label)
+                            ),
+                   fluidRow(
+                     infoBox(HTML("New Cases<br>", 
                                   n_new_cases_current,
                                   change_new_cases, "<br>"),
                              icon = icon ("chart-line"),
