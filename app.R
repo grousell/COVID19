@@ -2,7 +2,7 @@
 source ("load_clean_data.R")
 
 
-current_label <- paste0("Current as of:", 
+current_label <- paste0("Current as of: ", 
                         wday (current_as_of, label = TRUE), 
                         " ", 
                         month(current_as_of, label = TRUE),

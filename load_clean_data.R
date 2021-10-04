@@ -92,7 +92,7 @@ vacc_data_all <- vacc_data %>%
           `Partially Vaccinated` = covid19_cases_partial_vac, 
           Vaccinated =  covid19_cases_full_vac,
           Unknown = covid19_cases_vac_unknown) %>%
-  mutate (Date = mdy (Date)) %>% 
+  #mutate (Date = mdy (Date)) %>% 
   pivot_longer(-Date,
                values_to = "N",
                names_to = "Status") %>% 
