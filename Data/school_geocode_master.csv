@@ -23,7 +23,7 @@ Dryden High School,Dryden,-92.8320819,49.7818568,Dryden High SchoolDryden
 Mine Centre Public School,Rainy River,-92.6166669,48.7666671,Mine Centre Public SchoolRainy River
 Sacred Heart Separate School,Sioux Lookout,-91.927761,50.1017684,Sacred Heart Separate SchoolSioux Lookout
 Sioux North District High School,Sioux Lookout,-91.9122333,50.107593,Sioux North District High SchoolSioux Lookout
-Sioux Mountain Public School,Sioux Lookout,-91.9098694,50.1071396,Sioux Mountain Public SchoolSioux Lookout
+Sioux Mountain Public School,Sioux Lookout,-91.9098694,50.107139599999996,Sioux Mountain Public SchoolSioux Lookout
 Western Technical & Commercial School,Toronto,-91.246004,43.8153791,Western Technical & Commercial SchoolToronto
 Upsala Public School,Thunder Bay,-90.4715806,49.0490709,Upsala Public SchoolThunder Bay
 Crolancia Elementary School,Pickle Lake,-90.1946296,51.4659758,Crolancia Elementary SchoolPickle Lake
@@ -90,8 +90,8 @@ Sandwich West Public School,Lasalle,-83.0550862,42.2488552,Sandwich West Public 
 West Gate Public School,Windsor,-83.0508847,42.2976411,West Gate Public SchoolWindsor
 École secondaire de Lamothe-Cadillac,Windsor,-83.0455283,42.288895,École secondaire de Lamothe-CadillacWindsor
 École élémentaire de Lamothe-Cadillac,Windsor,-83.0455283,42.288895,École élémentaire de Lamothe-CadillacWindsor
-Board Site,Windsor,-83.0430984,42.3147354,Board SiteWindsor
-Windsor Public Alternative Secondary School,Windsor,-83.0430984,42.3147354,Windsor Public Alternative Secondary SchoolWindsor
+Board Site,Windsor,-83.0430984,42.314735400000004,Board SiteWindsor
+Windsor Public Alternative Secondary School,Windsor,-83.0430984,42.314735400000004,Windsor Public Alternative Secondary SchoolWindsor
 Bellewood Elementary School,Windsor,-83.040417,42.2672396,Bellewood Elementary SchoolWindsor
 Bellewood Public School,Windsor,-83.040417,42.2672396,Bellewood Public SchoolWindsor
 Immaculate Conception Catholic School,Windsor,-83.040094,42.314842,Immaculate Conception Catholic SchoolWindsor
@@ -217,8 +217,8 @@ A A Wright Public School,Chatham-Kent,-82.404083,42.5916958,A A Wright Public Sc
 St Elizabeth Catholic School,Chatham-Kent,-82.400005,42.597222,St Elizabeth Catholic SchoolChatham-Kent
 London Road School,Sarnia,-82.3996755,42.979433,London Road SchoolSarnia
 P.E. McGibbon Public School,Sarnia,-82.3923003,42.9669062,P.E. McGibbon Public SchoolSarnia
-Wallaceburg District Secondary School,Chatham-Kent,-82.3914586,42.5964763,Wallaceburg District Secondary SchoolChatham-Kent
-Wallaceburg DSS-Gr. 7 & 8,Chatham-Kent,-82.3914586,42.5964763,Wallaceburg DSS-Gr. 7 & 8Chatham-Kent
+Wallaceburg District Secondary School,Chatham-Kent,-82.391458600000007,42.5964763,Wallaceburg District Secondary SchoolChatham-Kent
+Wallaceburg DSS-Gr. 7 & 8,Chatham-Kent,-82.391458600000007,42.5964763,Wallaceburg DSS-Gr. 7 & 8Chatham-Kent
 King George VI Public School,Sarnia,-82.390997,43.002474,King George VI Public SchoolSarnia
 Hanna Memorial Public School,Sarnia,-82.39009,42.975475,Hanna Memorial Public SchoolSarnia
 Sacred Heart Catholic School,Sarnia,-82.3898938,43.0060518,Sacred Heart Catholic SchoolSarnia
@@ -252,7 +252,7 @@ Merlin Area Public School,Chatham-Kent,-82.2380665,42.2452975,Merlin Area Public
 St. Angela Merici Catholic School,Chatham-Kent,-82.2249834,42.3986148,St. Angela Merici Catholic SchoolChatham-Kent
 Tecumseh Public School,Chatham,-82.2098012,42.4089178,Tecumseh Public SchoolChatham
 Tecumseh Public School,Chatham-Kent,-82.2098012,42.4089178,Tecumseh Public SchoolChatham-Kent
-Winston Churchill Public School,Chatham-Kent,-82.1978133,42.3956618,Winston Churchill Public SchoolChatham-Kent
+Winston Churchill Public School,Chatham-Kent,-82.197813300000007,42.3956618,Winston Churchill Public SchoolChatham-Kent
 Ursuline College,Chatham,-82.1955433,42.4063178,Ursuline CollegeChatham
 Ursuline College,Chatham-Kent,-82.1955433,42.4063178,Ursuline CollegeChatham-Kent
 Ursuline College Chatham Catholic Secondary School,Chatham-Kent,-82.1955433,42.4063178,Ursuline College Chatham Catholic Secondary SchoolChatham-Kent
@@ -405,7 +405,7 @@ St Anne's Separate School,London,-81.2129,43.0210999,St Anne's Separate SchoolLo
 Cedar Hollow Public School,London,-81.2120312,43.0431678,Cedar Hollow Public SchoolLondon
 Ecole Immaculee-Conception Separate School,South Bruce,-81.2115623,44.0675216,Ecole Immaculee-Conception Separate SchoolSouth Bruce
 C C Carrothers Public School,London,-81.209305,42.962569,C C Carrothers Public SchoolLondon
-St Francis School,London,-81.2083005,42.9438031,St Francis SchoolLondon
+St Francis School,London,-81.208300500000007,42.9438031,St Francis SchoolLondon
 John Paul II Catholic Secondary School,London,-81.2082704,43.0103229,John Paul II Catholic Secondary SchoolLondon
 Board Site,Arran-Elderslie,-81.2078164,44.3995556,Board SiteArran-Elderslie
 Centre for Lifelong Learning,London,-81.2075302,42.994695,Centre for Lifelong LearningLondon
@@ -520,7 +520,7 @@ Harrisfield Public School,Ingersoll,-80.8694895,43.0321236,Harrisfield Public Sc
 Minto-Clifford Central Public School,Minto,-80.8673821,43.9177893,Minto-Clifford Central Public SchoolMinto
 St Jude's School,Ingersoll,-80.8661807,43.0295928,St Jude's SchoolIngersoll
 Northeastern Elementary School,Greater Sudbury,-80.857915,46.560254,Northeastern Elementary SchoolGreater Sudbury
-Norwell District Secondary School,Minto,-80.8442138,43.8336036,Norwell District Secondary SchoolMinto
+Norwell District Secondary School,Minto,-80.8442138,43.833603599999996,Norwell District Secondary SchoolMinto
 Tavistock Public School,East Zorra-Tavistock,-80.8337134,43.3175905,Tavistock Public SchoolEast Zorra-Tavistock
 Straffordville Public School,Bayham,-80.7793432,42.7465897,Straffordville Public SchoolBayham
 Egremont Community School,Southgate,-80.7606429,44.0678517,Egremont Community SchoolSouthgate
@@ -755,7 +755,7 @@ St. Gabriel Catholic Catholic Elementary School,Brantford,-80.2937946,43.1230436
 Clemens Mills Public School,Cambridge,-80.2921461,43.3895866,Clemens Mills Public SchoolCambridge
 St Elizabeth Catholic Elementary School,Cambridge,-80.2909529,43.4259249,St Elizabeth Catholic Elementary SchoolCambridge
 Confederation Elementary School,Brantford,-80.2909146,43.1677197,Confederation Elementary SchoolBrantford
-St Vincent de Paul Catholic Elementary School,Cambridge,-80.2902901,43.3466121,St Vincent de Paul Catholic Elementary SchoolCambridge
+St Vincent de Paul Catholic Elementary School,Cambridge,-80.290290100000007,43.3466121,St Vincent de Paul Catholic Elementary SchoolCambridge
 Lansdowne-Costain Public School,Brantford,-80.2888418,43.1508191,Lansdowne-Costain Public SchoolBrantford
 Russell Reid Elementary School,Brantford,-80.2882656,43.1718698,Russell Reid Elementary SchoolBrantford
 Russell Reid Public School,Brantford,-80.2882656,43.1718698,Russell Reid Public SchoolBrantford
@@ -801,7 +801,7 @@ Waverly Drive PS,Guelph,-80.2594843,43.5730719,Waverly Drive PSGuelph
 Waverly Drive Public School,Guelph,-80.2594843,43.5730719,Waverly Drive Public SchoolGuelph
 Waverley Drive Public School,Guelph,-80.2594843,43.5730719,Waverley Drive Public SchoolGuelph
 St. Patrick School,Brantford,-80.2578323,43.170382,St. Patrick SchoolBrantford
-St Patrick Catholic School,Guelph,-80.2577973,43.5767132,St Patrick Catholic SchoolGuelph
+St Patrick Catholic School,Guelph,-80.257797299999993,43.5767132,St Patrick Catholic SchoolGuelph
 St George-German Public School,Brant,-80.257624,43.2442556,St George-German Public SchoolBrant
 Prince Charles Public School,Brantford,-80.2570957,43.1626172,Prince Charles Public SchoolBrantford
 Edward Johnson Public School,Guelph,-80.2560465,43.5654268,Edward Johnson Public SchoolGuelph
@@ -852,7 +852,7 @@ Rickson Ridge Public School,Guelph,-80.2127163,43.5133119,Rickson Ridge Public S
 Lakewood Elementary School,Norfolk County,-80.2123075,42.7901211,Lakewood Elementary SchoolNorfolk County
 Hyland Heights Elementary School,Shelburne,-80.2112187,44.0822469,Hyland Heights Elementary SchoolShelburne
 Centre Dufferin District High School,Shelburne,-80.2086011,44.082481,Centre Dufferin District High SchoolShelburne
-Connaught Public School,Collingwood,-80.2059061,44.4992657,Connaught Public SchoolCollingwood
+Connaught Public School,Collingwood,-80.205906100000007,44.4992657,Connaught Public SchoolCollingwood
 École Arbour Vista PS,Guelph,-80.2032455,43.5310418,École Arbour Vista PSGuelph
 Admiral Collingwood Elementary School,Collingwood,-80.2029489,44.4862806,Admiral Collingwood Elementary SchoolCollingwood
 Glenbrook Elementary School,Shelburne,-80.2023705,44.0869394,Glenbrook Elementary SchoolShelburne
@@ -884,7 +884,7 @@ St. Peter Elementary School,Orangeville,-80.102571,43.912624,St. Peter Elementar
 St Peter Separate School,Orangeville,-80.102571,43.912624,St Peter Separate SchoolOrangeville
 Princess Margaret Public School,Orangeville,-80.0901667,43.9151672,Princess Margaret Public SchoolOrangeville
 Island Lake Public School,Orangeville,-80.0757552,43.9215754,Island Lake Public SchoolOrangeville
-Brisbane Public School,Erin,-80.0736846,43.7473983,Brisbane Public SchoolErin
+Brisbane Public School,Erin,-80.073684600000007,43.7473983,Brisbane Public SchoolErin
 Erin District High School,Erin,-80.0678383,43.7788464,Erin District High SchoolErin
 Worsley Elementary School,Wasaga Beach,-80.0646409,44.4794529,Worsley Elementary SchoolWasaga Beach
 Spring Valley Public School,Hamilton,-80.0484748,43.2435801,Spring Valley Public SchoolHamilton
@@ -1201,7 +1201,7 @@ A M Cunningham Junior Public School,Hamilton,-79.814935,43.237186,A M Cunningham
 St. Matthew Catholic Elementary School,Hamilton,-79.8141562,43.1172227,St. Matthew Catholic Elementary SchoolHamilton
 Dr Charles Best Public School,Burlington,-79.8140031,43.3637039,Dr Charles Best Public SchoolBurlington
 Nelson Mandela P.S. (Elementary),Brampton,-79.8137544,43.6913912,Nelson Mandela P.S. (Elementary)Brampton
-Queen Mary Public School,Hamilton,-79.8134977,43.2458475,Queen Mary Public SchoolHamilton
+Queen Mary Public School,Hamilton,-79.8134977,43.245847500000004,Queen Mary Public SchoolHamilton
 C H Norton Public School,Burlington,-79.8132723,43.3795333,C H Norton Public SchoolBurlington
 Bellmoore Public School,Hamilton,-79.8126015,43.1263283,Bellmoore Public SchoolHamilton
 Clarksdale Public School,Burlington,-79.812563,43.353735,Clarksdale Public SchoolBurlington
@@ -1303,7 +1303,7 @@ Glen Echo Junior Public School,Hamilton,-79.7787191,43.2244452,Glen Echo Junior 
 Saltfleet High School,Hamilton,-79.7785359,43.1841265,Saltfleet High SchoolHamilton
 Beatty-Fleming Senior Public School,Brampton,-79.7785285,43.678802,Beatty-Fleming Senior Public SchoolBrampton
 Lisgar Middle School,Mississauga,-79.7781186,43.5723253,Lisgar Middle SchoolMississauga
-Our Lady of Fatima School,Brampton,-79.7779083,43.6883188,Our Lady of Fatima SchoolBrampton
+Our Lady of Fatima School,Brampton,-79.777908300000007,43.6883188,Our Lady of Fatima SchoolBrampton
 Esker Lake Public School,Brampton,-79.7774106,43.7326378,Esker Lake Public SchoolBrampton
 Hillcrest Elementary Public School,Hamilton,-79.7774,43.239368,Hillcrest Elementary Public SchoolHamilton
 St. Therese of the Child Jesus School,Mississauga,-79.7772609,43.5796953,St. Therese of the Child Jesus SchoolMississauga
@@ -1418,7 +1418,7 @@ Churchill Meadows Public School,Mississauga,-79.7475113,43.559296,Churchill Mead
 Massey Street Public School,Brampton,-79.7471891,43.7378734,Massey Street Public SchoolBrampton
 Father C W Sullivan Catholic School,Brampton,-79.747064,43.70617,Father C W Sullivan Catholic SchoolBrampton
 West Credit Secondary School,Mississauga,-79.7466982,43.5858874,West Credit Secondary SchoolMississauga
-ÉSC Sainte-Famille,Mississauga,-79.7466583,43.614067,ÉSC Sainte-FamilleMississauga
+ÉSC Sainte-Famille,Mississauga,-79.746658300000007,43.614067,ÉSC Sainte-FamilleMississauga
 Pineland Public School,Burlington,-79.7466477,43.3677377,Pineland Public SchoolBurlington
 Good Shepherd Catholic Elementary School,Brampton,-79.746645,43.7562739,Good Shepherd Catholic Elementary SchoolBrampton
 Bishop Francis Allen Catholic School,Brampton,-79.746641,43.666423,Bishop Francis Allen Catholic SchoolBrampton
@@ -1836,7 +1836,7 @@ St. Timothy School,Mississauga,-79.5993205,43.5799189,St. Timothy SchoolMississa
 St. Timothy Separate School,Mississauga,-79.5993205,43.5799189,St. Timothy Separate SchoolMississauga
 Clairville Junior Public School,Toronto,-79.599097,43.747978,Clairville Junior Public SchoolToronto
 Burnhamthorpe Public School,Mississauga,-79.5979328,43.6166955,Burnhamthorpe Public SchoolMississauga
-Kenollie Public School,Mississauga,-79.5978047,43.5571503,Kenollie Public SchoolMississauga
+Kenollie Public School,Mississauga,-79.5978047,43.557150300000004,Kenollie Public SchoolMississauga
 Glenhaven Senior Public School,Mississauga,-79.5974451,43.6223125,Glenhaven Senior Public SchoolMississauga
 St Angela Catholic School,Toronto,-79.5972284,43.754182,St Angela Catholic SchoolToronto
 Innisfil Central Public School,Innisfil,-79.5971263,44.2649436,Innisfil Central Public SchoolInnisfil
@@ -2585,7 +2585,7 @@ Willowbrook Public School,Markham,-79.3980135,43.8290859,Willowbrook Public Scho
 John Fisher Junior Public School,Toronto,-79.3977963,43.7115833,John Fisher Junior Public SchoolToronto
 St Monica Catholic School,Toronto,-79.3976332,43.7099823,St Monica Catholic SchoolToronto
 Richmond Green Secondary School,Richmond Hill,-79.397605,43.9019705,Richmond Green Secondary SchoolRichmond Hill
-The Waterfront School,Toronto,-79.3974515,43.6360481,The Waterfront SchoolToronto
+The Waterfront School,Toronto,-79.3974515,43.636048099999996,The Waterfront SchoolToronto
 Doncrest Public School,Richmond Hill,-79.3968903,43.8532495,Doncrest Public SchoolRichmond Hill
 North Toronto Collegiate,Toronto,-79.3966319,43.7098648,North Toronto CollegiateToronto
 North Toronto Collegiate Institute,Toronto,-79.3966319,43.7098648,North Toronto Collegiate InstituteToronto
@@ -2815,7 +2815,7 @@ Canadian Martyrs Catholic School,Toronto,-79.3197093,43.6982088,Canadian Martyrs
 ÉÉC Georges-Étienne-Cartier,Toronto,-79.3193404,43.6779855,ÉÉC Georges-Étienne-CartierToronto
 Milliken Mills Public School,Markham,-79.3193149,43.8271742,Milliken Mills Public SchoolMarkham
 North Bridlewood Junior Public School,Toronto,-79.3186264,43.7887813,North Bridlewood Junior Public SchoolToronto
-David Lewis Public School,Toronto,-79.3179862,43.8091302,David Lewis Public SchoolToronto
+David Lewis Public School,Toronto,-79.317986200000007,43.8091302,David Lewis Public SchoolToronto
 L'Amoreaux Collegiate Institute,Toronto,-79.3179801,43.8020266,L'Amoreaux Collegiate InstituteToronto
 Senator O'Connor College School,Toronto,-79.317419,43.7506144,Senator O'Connor College SchoolToronto
 Senator O’Connor College School,Toronto,-79.317419,43.7506144,Senator O’Connor College SchoolToronto
@@ -2854,7 +2854,7 @@ Milliken Mills Highschool,Markham,-79.3050509,43.837852,Milliken Mills Highschoo
 Milliken Mills High School,Markham,-79.3050509,43.837852,Milliken Mills High SchoolMarkham
 O'Connor Public School,Toronto,-79.3044553,43.7166078,O'Connor Public SchoolToronto
 Castlemore Elementary Public School,Markham,-79.3037987,43.8975546,Castlemore Elementary Public SchoolMarkham
-Pauline Johnson Junior Public School,Toronto,-79.3033766,43.7849189,Pauline Johnson Junior Public SchoolToronto
+Pauline Johnson Junior Public School,Toronto,-79.303376600000007,43.7849189,Pauline Johnson Junior Public SchoolToronto
 Kew Beach Junior Public School,Toronto,-79.3028493,43.6684289,Kew Beach Junior Public SchoolToronto
 Precious Blood Catholic School,Toronto,-79.3027064,43.7393574,Precious Blood Catholic SchoolToronto
 Holy Spirit Catholic School,Toronto,-79.3022993,43.780386,Holy Spirit Catholic SchoolToronto
@@ -2886,7 +2886,7 @@ Notre Dame Catholic High School,Toronto,-79.2932649,43.6810282,Notre Dame Cathol
 Malvern Collegiate,Toronto,-79.2932404,43.6827978,Malvern CollegiateToronto
 Crescent Town Elementary School,Toronto,-79.2925412,43.6968492,Crescent Town Elementary SchoolToronto
 Inglewood Heights Junior Public School,Toronto,-79.2924889,43.7795378,Inglewood Heights Junior Public SchoolToronto
-St Benedict Catholic Elementary School,Markham,-79.2914729,43.8312773,St Benedict Catholic Elementary SchoolMarkham
+St Benedict Catholic Elementary School,Markham,-79.2914729,43.831277300000004,St Benedict Catholic Elementary SchoolMarkham
 Lynnwood Heights Junior Public School,Toronto,-79.2910899,43.7965696,Lynnwood Heights Junior Public SchoolToronto
 Port Royal Public School,Toronto,-79.2899121,43.8244239,Port Royal Public SchoolToronto
 St Denis Catholic School,Toronto,-79.2899051,43.672987,St Denis Catholic SchoolToronto
@@ -2924,7 +2924,7 @@ San Lorenzo Ruiz Catholic Elementary School,Markham,-79.2827564,43.8974401,San L
 Oakridge Junior Public School,Toronto,-79.2815277,43.6952325,Oakridge Junior Public SchoolToronto
 St Alexander Catholic Elementary School,Pelham,-79.2814319,43.0462195,St Alexander Catholic Elementary SchoolPelham
 St Lawrence Catholic School,Toronto,-79.2799645,43.7491775,St Lawrence Catholic SchoolToronto
-General Crerar Public School,Toronto,-79.279906,43.7455672,General Crerar Public SchoolToronto
+General Crerar Public School,Toronto,-79.279906,43.745567200000004,General Crerar Public SchoolToronto
 Banting and Best Public School,Toronto,-79.2798585,43.8267879,Banting and Best Public SchoolToronto
 Dorset Park Public School,Toronto,-79.2798225,43.7502057,Dorset Park Public SchoolToronto
 Agincourt Collegiate Institute,Toronto,-79.2794975,43.7887118,Agincourt Collegiate InstituteToronto
@@ -2994,7 +2994,7 @@ Stouffville District Secondary School,Whitchurch-Stouffville,-79.2600914,43.9621
 Steele Street Public School,Port Colborne,-79.2600112,42.8853709,Steele Street Public SchoolPort Colborne
 Hunter's Glen Junior Public School,Toronto,-79.2599684,43.7456033,Hunter's Glen Junior Public SchoolToronto
 Hunter’s Glen Junior Public School,Toronto,-79.2599684,43.7456033,Hunter’s Glen Junior Public SchoolToronto
-Markham Gateway Public School,Markham,-79.2599629,43.8444775,Markham Gateway Public SchoolMarkham
+Markham Gateway Public School,Markham,-79.2599629,43.844477500000004,Markham Gateway Public SchoolMarkham
 Birch Cliff Heights Public School,Toronto,-79.2598791,43.7017187,Birch Cliff Heights Public SchoolToronto
 Birchmount Park Collegiate Institute,Toronto,-79.25967,43.6977377,Birchmount Park Collegiate InstituteToronto
 Parkland Public School,Markham,-79.2595768,43.8397737,Parkland Public SchoolMarkham
@@ -3136,7 +3136,7 @@ St Barbara Catholic School,Toronto,-79.2191106,43.7624696,St Barbara Catholic Sc
 Mary Shadd Public School,Toronto,-79.2184349,43.8144737,Mary Shadd Public SchoolToronto
 Cornell Junior Public School,Toronto,-79.218356,43.759448,Cornell Junior Public SchoolToronto
 Burleigh Hill Public School,St. Catharines,-79.218107,43.1331698,Burleigh Hill Public SchoolSt. Catharines
-Holy Cross Catholic Secondary School,St. Catharines,-79.2169618,43.2020339,Holy Cross Catholic Secondary SchoolSt. Catharines
+Holy Cross Catholic Secondary School,St. Catharines,-79.216961800000007,43.202033900000004,Holy Cross Catholic Secondary SchoolSt. Catharines
 Tecumseh Senior Public School,Toronto,-79.2166374,43.7628389,Tecumseh Senior Public SchoolToronto
 Rouge Park Public School,Markham,-79.2162822,43.8885906,Rouge Park Public SchoolMarkham
 Monsignor Clancy Catholic Elementary School,Thorold,-79.2160923,43.1218982,Monsignor Clancy Catholic Elementary SchoolThorold
@@ -3150,7 +3150,7 @@ Port Weller Public School,St. Catharines,-79.2147582,43.2140287,Port Weller Publ
 Henry Hudson Senior Public School,Toronto,-79.2146947,43.777754,Henry Hudson Senior Public SchoolToronto
 St. Mother Teresa Catholic Academy Secondary School,Toronto,-79.2143028,43.8100282,St. Mother Teresa Catholic Academy Secondary SchoolToronto
 St Mother Teresa Catholic Academy Secondary School,Toronto,-79.2143028,43.8100282,St Mother Teresa Catholic Academy Secondary SchoolToronto
-Richmond Street Public School,Thorold,-79.2141704,43.1168011,Richmond Street Public SchoolThorold
+Richmond Street Public School,Thorold,-79.2141704,43.116801100000004,Richmond Street Public SchoolThorold
 Grey Owl Junior Public School,Toronto,-79.2129864,43.8040632,Grey Owl Junior Public SchoolToronto
 Highcastle Public School,Toronto,-79.2122749,43.7866346,Highcastle Public SchoolToronto
 Lockview Public School,St. Catharines,-79.2121142,43.1995682,Lockview Public SchoolSt. Catharines
@@ -3214,7 +3214,7 @@ John G Diefenbaker Public School.,Toronto,-79.1717313,43.8023136,John G Diefenba
 St. Malachy Catholic School,Toronto,-79.1662029,43.7711471,St. Malachy Catholic SchoolToronto
 St Malachy Catholic School,Toronto,-79.1662029,43.7711471,St Malachy Catholic SchoolToronto
 William G Miller Junior Public School,Toronto,-79.1651188,43.7685981,William G Miller Junior Public SchoolToronto
-Meadowvale Public School,Toronto,-79.1641425,43.7953443,Meadowvale Public SchoolToronto
+Meadowvale Public School,Toronto,-79.1641425,43.795344299999996,Meadowvale Public SchoolToronto
 Chief Dan George Public School,Toronto,-79.1636935,43.8028158,Chief Dan George Public SchoolToronto
 École Élémentaire Catholique Saint-Michel,Toronto,-79.1561025,43.7778996,École Élémentaire Catholique Saint-MichelToronto
 ÉÉC Saint-Michel,Toronto,-79.1561025,43.7778996,ÉÉC Saint-MichelToronto
@@ -3328,7 +3328,7 @@ Ajax
 Ajax	
 
 "
-Roland Michener Public School,".Ajax	..",-79.038515,43.854331,"Roland Michener Public School.Ajax	.."
+Roland Michener Public School,.Ajax	..,-79.038515,43.854331,Roland Michener Public School.Ajax	..
 Roland Michener Public School,Ajax,-79.038515,43.854331,Roland Michener Public SchoolAjax
 Father Donald MacLellan Catholic Sec Sch Catholic School,Ajax,-79.0383175,43.8472546,Father Donald MacLellan Catholic Sec Sch Catholic SchoolAjax
 St. Catherine of Siena Catholic School,Ajax,-79.036047,43.87391,St. Catherine of Siena Catholic SchoolAjax
@@ -3420,7 +3420,7 @@ Chris Hadfield Public School,Whitby,-78.9708917,43.9630318,Chris Hadfield Public
 Colonel J.E. Farewell P.S.,Whitby,-78.970558,43.886528,Colonel J.E. Farewell P.S.Whitby
 St Luke the Evangelist Catholic School,Whitby,-78.9690187,43.9037929,St Luke the Evangelist Catholic SchoolWhitby
 Captain Michael VandenBos Public School,Whitby,-78.96894,43.900135,Captain Michael VandenBos Public SchoolWhitby
-St Philomena Catholic Elementary School,Fort Erie,-78.965325,42.8958242,St Philomena Catholic Elementary SchoolFort Erie
+St Philomena Catholic Elementary School,Fort Erie,-78.965325000000007,42.8958242,St Philomena Catholic Elementary SchoolFort Erie
 All Saints Catholic Secondary School,Whitby,-78.9652981,43.8949448,All Saints Catholic Secondary SchoolWhitby
 All Saints Catholic Secondary School Secondary School,Whitby,-78.9652981,43.8949448,All Saints Catholic Secondary School Secondary SchoolWhitby
 Meadowcrest Public School,Whitby,-78.9650988,43.9583179,Meadowcrest Public SchoolWhitby
@@ -3455,7 +3455,7 @@ Whitby
 Whitby	
 
 "
-Fallingbrook Public School,".Whitby	..",-78.9418697,43.9136502,"Fallingbrook Public School.Whitby	.."
+Fallingbrook Public School,.Whitby	..,-78.9418697,43.9136502,Fallingbrook Public School.Whitby	..
 Fallingbrook Public School,Whitby,-78.9418697,43.9136502,Fallingbrook Public SchoolWhitby
 Sinclair Secondary School,Whitby,-78.9412073,43.9198804,Sinclair Secondary SchoolWhitby
 "
@@ -3520,7 +3520,7 @@ Sherwood Public School,Oshawa,-78.863364,43.942723,Sherwood Public SchoolOshawa
 Mary Street Community School,Oshawa,-78.8625665,43.9011052,Mary Street Community SchoolOshawa
 Durham Alternative Secondary School,Oshawa,-78.8613545,43.8908054,Durham Alternative Secondary SchoolOshawa
 Durham Alternative Secondary School.,Oshawa,-78.8613545,43.8908054,Durham Alternative Secondary School.Oshawa
-Elsie MacGill Public School,Oshawa,-78.8585696,43.9507911,Elsie MacGill Public SchoolOshawa
+Elsie MacGill Public School,Oshawa,-78.8585696,43.950791099999996,Elsie MacGill Public SchoolOshawa
 St John Bosco Catholic School,Oshawa,-78.8583016,43.9450454,St John Bosco Catholic SchoolOshawa
 Jeanne Sauvé Public School,Oshawa,-78.8563561,43.9456171,Jeanne Sauvé Public SchoolOshawa
 Glen Street Public School,Oshawa,-78.854314,43.872228,Glen Street Public SchoolOshawa
@@ -4188,7 +4188,7 @@ St Clare Elementary School,Ottawa,-75.474238,45.469296,St Clare Elementary Schoo
 École élémentaire catholique Alain-Fortin,Ottawa,-75.4741483,45.4474034,École élémentaire catholique Alain-FortinOttawa
 Trillium E S,Ottawa,-75.4730485,45.4793902,Trillium E SOttawa
 Trillium Elementary School,Ottawa,-75.4730485,45.4793902,Trillium Elementary SchoolOttawa
-Metcalfe Public School,Ottawa,-75.471191,45.2333824,Metcalfe Public SchoolOttawa
+Metcalfe Public School,Ottawa,-75.471191,45.233382400000004,Metcalfe Public SchoolOttawa
 École élémentaire catholique Arc-en-ciel,Ottawa,-75.470837,45.471413,École élémentaire catholique Arc-en-cielOttawa
 St Catherine Elementary School,Ottawa,-75.4707704,45.2326733,St Catherine Elementary SchoolOttawa
 Osgoode Township High School,Ottawa,-75.469749,45.2291765,Osgoode Township High SchoolOttawa
@@ -4364,7 +4364,7 @@ Grapeview Public School,St. Catharines,-79.2756727,43.1649026,Grapeview Public S
 Cartwright Central Public School,Scugog,-78.8225888,44.1123574,Cartwright Central Public SchoolScugog
 Westwood Junior Public School,Hamilton,-79.893357,43.2278442,Westwood Junior Public SchoolHamilton
 Byron Southwood Public School,London,-81.3339083,42.9507359,Byron Southwood Public SchoolLondon
-DSBN Academy,St. Catharines,-79.2573667,43.1382911,DSBN AcademySt. Catharines
+DSBN Academy,St. Catharines,-79.2573667,43.138291099999996,DSBN AcademySt. Catharines
 Woodland Public School,St. Catharines,-79.3091278,43.1757583,Woodland Public SchoolSt. Catharines
 Colonel J E Farewell Public School,Whitby,-78.969748,43.8865599,Colonel J E Farewell Public SchoolWhitby
 Saint Francis Catholic Secondary School,St. Catharines,-79.2531802,43.1938521,Saint Francis Catholic Secondary SchoolSt. Catharines
@@ -4460,7 +4460,7 @@ Tony Pontes (Elementary),Caledon,-79.8365061,43.7593423,Tony Pontes (Elementary)
 St. Francis of Assisi Catholic Elementary School,Clarington,-78.6002197,43.9106515,St. Francis of Assisi Catholic Elementary SchoolClarington
 St Angela Merici Catholic Elementary School,Bradford West Gwillimbury,-79.5866564,44.1010711,St Angela Merici Catholic Elementary SchoolBradford West Gwillimbury
 East Oxford Public School,Norwich,-80.6389456,43.1007235,East Oxford Public SchoolNorwich
-Valleyview Central Public School,Middlesex Centre,-81.496181,43.017807,Valleyview Central Public SchoolMiddlesex Centre
+Valleyview Central Public School,Middlesex Centre,-81.496181000000007,43.017807,Valleyview Central Public SchoolMiddlesex Centre
 Morse Street Junior Public School,Toronto,-79.3400815,43.6600937,Morse Street Junior Public SchoolToronto
 Sir Samuel B Steele Junior Public School,Toronto,-79.3271898,43.8068263,Sir Samuel B Steele Junior Public SchoolToronto
 Twentieth Street Junior School,Toronto,-79.5196961,43.5978638,Twentieth Street Junior SchoolToronto
@@ -4630,3 +4630,49 @@ Valour JK to 12 School - Elementary School,Petawawa,-77.3259022,45.8953051,Valou
 Uptergrove Public School,Ramara,-79.3036324,44.5997958,Uptergrove Public SchoolRamara
 St John Vianney Separate School,Barrie,-79.6914349,44.3669791,St John Vianney Separate SchoolBarrie
 Stuart W Baker Elementary School,Dysart Et Al,-78.5299264,45.0407266,Stuart W Baker Elementary SchoolDysart Et Al
+Boreal French Immersion Public School,Sault Ste. Marie,-84.32538009999999,46.534696,Boreal French Immersion Public SchoolSault Ste. Marie
+Central Algoma Intermediate School,Johnson,-83.93550549999999,46.3385985,Central Algoma Intermediate SchoolJohnson
+HM Robbins NB Public School,Sault Ste. Marie,-84.3898191,46.5325588,HM Robbins NB Public SchoolSault Ste. Marie
+H M Robbins Public School,Sault Ste. Marie,-84.3898191,46.5325588,H M Robbins Public SchoolSault Ste. Marie
+St Joseph Island Central Public School,St. Joseph,-84.03116039999999,46.2877872,St Joseph Island Central Public SchoolSt. Joseph
+Holy Name of Mary Catholic School,Tyendinaga,-77.1409272,44.2239177,Holy Name of Mary Catholic SchoolTyendinaga
+Bloorview School Authority,East York,-79.3732447,43.718409,Bloorview School AuthorityEast York
+Dawnview Public School,Hanover,-81.0205122,44.1446908,Dawnview Public SchoolHanover
+Christ the King School,Brantford,-80.2837715,43.1479369,Christ the King SchoolBrantford
+St Anthony's Separate School,Kincardine,-81.6222603,44.1701237,St Anthony's Separate SchoolKincardine
+St Joseph's Separate School,Gananoque,-76.163618,44.3346208,St Joseph's Separate SchoolGananoque
+École publique Écho-des-Rapides,Sault Ste. Marie,-84.2918308,46.5064574,École publique Écho-des-RapidesSault Ste. Marie
+École élémentaire Micheline-Saint-Cyr,Toronto,-79.5436804,43.5902619,École élémentaire Micheline-Saint-CyrToronto
+Divine Mercy School,Mississauga,-79.7244604,43.5599656,Divine Mercy SchoolMississauga
+St Gregory School,Mississauga,-79.707837,43.609331,St Gregory SchoolMississauga
+Scott Central Public School,Uxbridge,-79.2049636,44.1361351,Scott Central Public SchoolUxbridge
+GEC Elementary Virtual Learning School-1,Windsor,-83.04309839999999,42.314735400000004,GEC Elementary Virtual Learning School-1Windsor
+St. Joan of Arc Catholic Elementary School,Oakville,-79.7592853,43.4312143,St. Joan of Arc Catholic Elementary SchoolOakville
+Frank Panabaker North School,Hamilton,-79.9921935,43.2091368,Frank Panabaker North SchoolHamilton
+Frank Panabaker South Senior Public School,Hamilton,-79.9931874,43.2079069,Frank Panabaker South Senior Public SchoolHamilton
+C M L Snider Elementary School,Prince Edward County,-77.3466339,43.9527626,C M L Snider Elementary SchoolPrince Edward County
+Harry J Clarke Public School,Belleville,-77.356669,44.1750547,Harry J Clarke Public SchoolBelleville
+Massassaga-Rednersville Public School,Prince Edward County,-77.4399877,44.1159104,Massassaga-Rednersville Public SchoolPrince Edward County
+Holy Family Catholic School,Sault Ste. Marie,-84.3867659,46.54154459999999,Holy Family Catholic SchoolSault Ste. Marie
+Selby Public School,Greater Napanee,-76.9867095,44.3098602,Selby Public SchoolGreater Napanee
+Welborne Avenue Public School,Kingston,-76.5795108,44.22244449999999,Welborne Avenue Public SchoolKingston
+St. Andre Bessette Secondary School,London,-81.3290243,43.01515209999999,St. Andre Bessette Secondary SchoolLondon
+Edenwood Middle School,Mississauga,-79.7639195,43.5791329,Edenwood Middle SchoolMississauga
+Good Shepherd Catholic Elementary School,Clarington,-78.78000159999999,43.9037572,Good Shepherd Catholic Elementary SchoolClarington
+Highview Public School,Pembroke,-77.10484509999999,45.8231478,Highview Public SchoolPembroke
+Birchview Dunes Elementary School,Wasaga Beach,-80.0244019,44.5106352,Birchview Dunes Elementary SchoolWasaga Beach
+Regent Park Public School,Orillia,-79.3988542,44.5980322,Regent Park Public SchoolOrillia
+Stayner Collegiate Institute,Clearview,-80.0964005,44.4267696,Stayner Collegiate InstituteClearview
+W. R. Best Memorial Public School,Oro-Medonte,-79.66429699999999,44.489854,W. R. Best Memorial Public SchoolOro-Medonte
+Children's Hospital (Pediatrics & Adolescents),London,-94.1903392,36.1621821,Children's Hospital (Pediatrics & Adolescents)London
+Lockes Public School,St. Thomas,-81.18071770000002,42.7936451,Lockes Public SchoolSt. Thomas
+Tecumseh Public School,London,-81.2414482,42.9693327,Tecumseh Public SchoolLondon
+St John Bosco Catholic School,Toronto,-79.4504776,43.6891326,St John Bosco Catholic SchoolToronto
+Market Lane Junior and Senior Public School,Toronto,-79.3646344,43.6497565,Market Lane Junior and Senior Public SchoolToronto
+Victoria Park Elementary School,Toronto,-79.2987136,43.7126426,Victoria Park Elementary SchoolToronto
+Huntsville High School,Huntsville,-79.2136896,45.3223487,Huntsville High SchoolHuntsville
+Pine Glen Public School,Huntsville,-79.22939570000001,45.33244200000001,Pine Glen Public SchoolHuntsville
+Arthur Public School,Wellington North,-80.5419986,43.8348553,Arthur Public SchoolWellington North
+Lester B Pearson PS Public School,Waterloo,-80.50642090000001,43.5071981,Lester B Pearson PS Public SchoolWaterloo
+St Cecilia Catholic Elementary School,Vaughan,-79.4944357,43.849368,St Cecilia Catholic Elementary SchoolVaughan
+St Mary Immaculate Catholic Elementary School,Richmond Hill,-79.450615,43.882905,St Mary Immaculate Catholic Elementary SchoolRichmond Hill
