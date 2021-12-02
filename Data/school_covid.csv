@@ -1,7 +1,7 @@
 collected_date,reported_date,school_board,school_id,school,municipality,confirmed_student_cases,confirmed_staff_cases,confirmed_unspecified_cases,total_confirmed_cases,lon,lat
 2021-12-01,2021-12-02,Algoma District School Board,019186,Anna McCrea Public School,Sault Ste. Marie,1,0,0,1,-84.287367,46.5057029
-2021-12-01,2021-12-02,Algoma District School Board,490822,Boreal French Immersion Public School,Sault Ste. Marie,4,0,0,4,-84.32538009999999,46.534696
-2021-12-01,2021-12-02,Algoma District School Board,137967,Central Algoma Intermediate School,Johnson,1,0,0,1,-83.93550549999999,46.3385985
+2021-12-01,2021-12-02,Algoma District School Board,490822,Boreal French Immersion Public School,Sault Ste. Marie,4,0,0,4,-84.3253801,46.534696
+2021-12-01,2021-12-02,Algoma District School Board,137967,Central Algoma Intermediate School,Johnson,1,0,0,1,-83.9355055,46.3385985
 2021-12-01,2021-12-02,Algoma District School Board,891347,Central Algoma Secondary School,Johnson,1,0,0,1,-83.9355055,46.3385985
 2021-12-01,2021-12-02,Algoma District School Board,165042,Echo Bay Central Public School,Macdonald - Meredith and Aberdeen Additional,1,0,0,1,-84.063179,46.4853782
 2021-12-01,2021-12-02,Algoma District School Board,230561,Greenwood Public School,Sault Ste. Marie,1,0,0,1,-84.3527376,46.5674385
@@ -12,8 +12,8 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Algoma District School Board,920533,Korah Collegiate and Vocational School,Sault Ste. Marie,1,0,0,1,-84.3808629,46.542139
 2021-12-01,2021-12-02,Algoma District School Board,018309,Korah Intermediate School,Sault Ste. Marie,1,0,0,1,-84.3808629,46.542139
 2021-12-01,2021-12-02,Algoma District School Board,468339,R M Moore Public School,Sault Ste. Marie,1,0,0,1,-84.4438348,46.5215675
-2021-12-01,2021-12-02,Algoma District School Board,530603,St Joseph Island Central Public School,St. Joseph,1,0,0,1,-84.03116039999999,46.2877872
-2021-12-01,2021-12-02,Algoma District School Board,548413,Tarentorus Public School,Sault Ste. Marie,3,0,0,3,-84.30797799999999,46.54561899999999
+2021-12-01,2021-12-02,Algoma District School Board,530603,St Joseph Island Central Public School,St. Joseph,1,0,0,1,-84.0311604,46.2877872
+2021-12-01,2021-12-02,Algoma District School Board,548413,Tarentorus Public School,Sault Ste. Marie,3,0,0,3,-84.307978,46.545619
 2021-12-01,2021-12-02,Algoma District School Board,551660,Thessalon Public School,Thessalon,1,0,0,1,-83.5590286,46.2607574
 2021-12-01,2021-12-02,Algoma District School Board,953148,White Pines Collegiate and Vocational School,Sault Ste. Marie,2,0,0,2,-84.2558397,46.5267127
 2021-12-01,2021-12-02,Algonquin and Lakeshore Catholic District School Board,827681,Cathedrale Catholic School,Kingston,2,0,0,2,-76.4909053,44.2311284
@@ -185,7 +185,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Greater Essex County District School Board,164690,Eastwood Public School,Windsor,3,0,0,3,-82.9221708,42.3006069
 2021-12-01,2021-12-02,Greater Essex County District School Board,909440,Essex District High School,Essex,1,0,0,1,-82.8291311,42.1792268
 2021-12-01,2021-12-02,Greater Essex County District School Board,203009,Frank W Begley Public School,Windsor,0,1,0,1,-83.0221474,42.3209119
-2021-12-01,2021-12-02,Greater Essex County District School Board,255311,GEC Elementary Virtual Learning School-1,Windsor,0,1,0,1,-83.04309839999999,42.314735400000004
+2021-12-01,2021-12-02,Greater Essex County District School Board,255311,GEC Elementary Virtual Learning School-1,Windsor,0,1,0,1,-83.0430984,42.314735400000004
 2021-12-01,2021-12-02,Greater Essex County District School Board,034361,Giles Campus French Immersion Public School,Windsor,1,0,0,1,-83.0200538,42.3108007
 2021-12-01,2021-12-02,Greater Essex County District School Board,222240,Gore Hill Public School,Leamington,3,0,0,3,-82.5640409,42.0329234
 2021-12-01,2021-12-02,Greater Essex County District School Board,294659,King Edward Public School,Windsor,0,1,0,1,-83.0129152,42.319681
@@ -264,14 +264,14 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Hastings & Prince Edward District School Board,948705,Trenton High School,Quinte West,4,0,0,4,-77.59194,44.097011
 2021-12-01,2021-12-02,Hastings & Prince Edward District School Board,545008,Trenton High School Elementary School,Quinte West,4,0,0,4,-77.59194,44.097011
 2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,817448,Holy Cross Catholic School,Sault Ste. Marie,0,1,0,1,-84.2787113,46.5103177
-2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,716014,Holy Family Catholic School,Sault Ste. Marie,1,0,0,1,-84.3867659,46.54154459999999
+2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,716014,Holy Family Catholic School,Sault Ste. Marie,1,0,0,1,-84.3867659,46.5415446
 2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,792017,St. Basil Catholic School,Sault Ste. Marie,4,0,0,4,-84.3286572,46.5232431
 2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,776076,St Mary's College Separate School,Sault Ste. Marie,3,0,0,3,-84.3074893,46.5389711
 2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,826901,St Mary's French Immersion Catholic School,Sault Ste. Marie,1,0,0,1,-84.266479,46.5225021
 2021-12-01,2021-12-02,Huron-Superior Catholic District School Board,841986,St Paul Catholic School,Sault Ste. Marie,1,1,0,2,-84.3094974,46.5305521
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,895539,Bowmanville High School,Clarington,1,0,0,1,-78.6795883,43.9150428
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,445658,Charles Bowman Public School,Clarington,1,0,0,1,-78.697758,43.9310896
-2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,251356,Clarington Central Intermediate School,Clarington,3,0,0,3,-78.70961729999999,43.9129106
+2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,251356,Clarington Central Intermediate School,Clarington,3,0,0,3,-78.7096173,43.9129106
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,069841,Courtice North Public School,Clarington,1,0,0,1,-78.7866681,43.9144675
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,903078,Courtice Secondary School,Clarington,1,0,0,1,-78.7828051,43.9152462
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,131768,Dale Road Senior School,Hamilton,1,0,0,1,-78.2111816,44.0081214
@@ -280,7 +280,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,551333,M J Hobbs Senior Public School,Clarington,1,0,0,1,-78.744057,43.9645781
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,384747,Newcastle Public School,Clarington,8,0,0,8,-78.5826898,43.9126521
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,109010,Orono Public School,Clarington,5,0,0,5,-78.6158452,43.9797502
-2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,467529,R F Downey Public School,Peterborough,1,1,0,2,-78.3328823,44.33419749999999
+2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,467529,R F Downey Public School,Peterborough,1,1,0,2,-78.3328823,44.3341975
 2021-12-01,2021-12-02,Kawartha Pine Ridge District School Board,578053,Vincent Massey Public School,Clarington,0,1,0,1,-78.6790049,43.9123557
 2021-12-01,2021-12-02,Keewatin-Patricia District School Board,515000,Sioux Narrows Public School,Sioux Narrows-Nestor Falls,0,1,0,1,-94.0953613,49.40795
 2021-12-01,2021-12-02,Keewatin-Patricia District School Board,569739,Valleyview Public School,Kenora,3,0,0,3,-94.4457969,49.7831094
@@ -308,11 +308,11 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Limestone District School Board,483540,Rideau Public School,Kingston,3,0,0,3,-76.5047598,44.2350074
 2021-12-01,2021-12-02,Limestone District School Board,505099,Selby Public School,Greater Napanee,3,1,0,4,-76.9867095,44.3098602
 2021-12-01,2021-12-02,Limestone District School Board,562289,Truedell Public School,Kingston,13,0,0,13,-76.58016,44.2441403
-2021-12-01,2021-12-02,Limestone District School Board,591270,Welborne Avenue Public School,Kingston,2,0,0,2,-76.5795108,44.22244449999999
+2021-12-01,2021-12-02,Limestone District School Board,591270,Welborne Avenue Public School,Kingston,2,0,0,2,-76.5795108,44.2224445
 2021-12-01,2021-12-02,London District Catholic School Board,690406,Blessed Sacrament Separate School,London,1,0,0,1,-81.2182,43.0051
 2021-12-01,2021-12-02,London District Catholic School Board,723673,Jean Vanier Separate School,London,0,1,0,1,-81.293771,42.9454314
 2021-12-01,2021-12-02,London District Catholic School Board,732346,Monsignor J H O'Neil School,Tillsonburg,1,0,0,1,-80.750378,42.871948
-2021-12-01,2021-12-02,London District Catholic School Board,763602,St. Andre Bessette Secondary School,London,1,0,0,1,-81.3290243,43.01515209999999
+2021-12-01,2021-12-02,London District Catholic School Board,763602,St. Andre Bessette Secondary School,London,1,0,0,1,-81.3290243,43.0151521
 2021-12-01,2021-12-02,London District Catholic School Board,815594,St Joseph's School,Tillsonburg,2,0,0,2,-80.7226193,42.8737056
 2021-12-01,2021-12-02,London District Catholic School Board,835129,St Michael's School,Woodstock,6,0,0,6,-80.7322481,43.1470613
 2021-12-01,2021-12-02,Near North District School Board,266063,Alliance French Immersion Public School,North Bay,1,0,0,1,-79.4535278,46.3228882
@@ -404,7 +404,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Peel District School Board,948187,T. L. Kennedy Secondary School,Mississauga,2,0,0,2,-79.6192452,43.5819102
 2021-12-01,2021-12-02,Peel District School Board,006005,Tony Pontes (Elementary),Caledon,1,0,0,1,-79.8365061,43.7593423
 2021-12-01,2021-12-02,Peel District School Board,600091,Westervelts Corners Public School,Brampton,2,0,0,2,-79.7796544,43.7040385
-2021-12-01,2021-12-02,Peterborough Victoria Northum Clarington Catholic District School Board,706299,Good Shepherd Catholic Elementary School,Clarington,0,1,0,1,-78.78000159999999,43.9037572
+2021-12-01,2021-12-02,Peterborough Victoria Northum Clarington Catholic District School Board,706299,Good Shepherd Catholic Elementary School,Clarington,0,1,0,1,-78.7800016,43.9037572
 2021-12-01,2021-12-02,Peterborough Victoria Northum Clarington Catholic District School Board,781304,St. Catherine Catholic Elementary School,Peterborough,2,0,0,2,-78.3657277,44.295215
 2021-12-01,2021-12-02,Peterborough Victoria Northum Clarington Catholic District School Board,809535,St. Joseph Catholic Elementary School,Clarington,1,0,0,1,-78.6750638,43.9028258
 2021-12-01,2021-12-02,Peterborough Victoria Northum Clarington Catholic District School Board,843024,St. Paul Catholic Elementary School,Peterborough,5,0,0,5,-78.3252722,44.3330193
@@ -435,7 +435,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Renfrew County Catholic District School Board,B67199,Board Site,Pembroke,0,1,0,1,-77.1491396,45.8326424
 2021-12-01,2021-12-02,Renfrew County District School Board,892416,Arnprior District High School,Arnprior,1,0,0,1,-76.3541731,45.4394437
 2021-12-01,2021-12-02,Renfrew County District School Board,100757,Champlain Discovery Public School,Pembroke,1,0,0,1,-77.0989457,45.8154599
-2021-12-01,2021-12-02,Renfrew County District School Board,256307,Highview Public School,Pembroke,2,0,0,2,-77.10484509999999,45.8231478
+2021-12-01,2021-12-02,Renfrew County District School Board,256307,Highview Public School,Pembroke,2,0,0,2,-77.1048451,45.8231478
 2021-12-01,2021-12-02,Renfrew County District School Board,123885,Valour JK to 12 School - Elementary School,Petawawa,1,0,0,1,-77.3259022,45.8953051
 2021-12-01,2021-12-02,Simcoe County District School Board,277495,Alcona Glen Elementary School,Innisfil,0,1,0,1,-79.5664374,44.3113017
 2021-12-01,2021-12-02,Simcoe County District School Board,011584,Algonquin Ridge Elementary School,Barrie,2,0,0,2,-79.6437191,44.368418
@@ -471,7 +471,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Simcoe County District School Board,594970,West Bayfield Elementary School,Barrie,4,0,0,4,-79.7206499,44.4073338
 2021-12-01,2021-12-02,Simcoe County District School Board,612405,Willow Landing Elementary School,Barrie,1,0,0,1,-79.6623378,44.3545006
 2021-12-01,2021-12-02,Simcoe County District School Board,429619,Worsley Elementary School,Wasaga Beach,2,0,0,2,-80.0646409,44.4794529
-2021-12-01,2021-12-02,Simcoe County District School Board,580520,W. R. Best Memorial Public School,Oro-Medonte,1,0,0,1,-79.66429699999999,44.489854
+2021-12-01,2021-12-02,Simcoe County District School Board,580520,W. R. Best Memorial Public School,Oro-Medonte,1,0,0,1,-79.664297,44.489854
 2021-12-01,2021-12-02,Simcoe Muskoka Catholic District School Board,B67091,Board Site,Barrie,0,1,0,1,-79.7155357,44.4164652
 2021-12-01,2021-12-02,Simcoe Muskoka Catholic District School Board,720518,Holy Cross Catholic School,Innisfil,2,0,0,2,-79.5467334,44.3225266
 2021-12-01,2021-12-02,Simcoe Muskoka Catholic District School Board,711098,Holy Trinity Catholic High School,Bradford West Gwillimbury,1,1,0,2,-79.5796203,44.1074409
@@ -503,14 +503,14 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Sudbury Catholic District School Board,783358,St Charles College,Greater Sudbury,4,0,0,4,-80.927149,46.518235
 2021-12-01,2021-12-02,Sudbury Catholic District School Board,791075,St Francis Catholic School,Greater Sudbury,1,0,0,1,-81.0130632,46.4772115
 2021-12-01,2021-12-02,Thames Valley District School Board,011576,Algonquin Public School,Woodstock,1,0,0,1,-80.7335636,43.1515814
-2021-12-01,2021-12-02,Thames Valley District School Board,642576,Children's Hospital (Pediatrics & Adolescents),London,1,0,0,1,-94.1903392,36.1621821
+2021-12-01,2021-12-02,Thames Valley District School Board,642576,Children's Hospital (Pediatrics & Adolescents),London,1,0,0,1,-81.2256175,42.9604618
 2021-12-01,2021-12-02,Thames Valley District School Board,902420,College Avenue Secondary School,Woodstock,1,0,0,1,-80.7454828,43.1242326
 2021-12-01,2021-12-02,Thames Valley District School Board,906581,East Elgin Secondary School,Aylmer,1,0,0,1,-80.9915392,42.7725162
 2021-12-01,2021-12-02,Thames Valley District School Board,160210,East Oxford Public School,Norwich,2,0,0,2,-80.6389456,43.1007235
 2021-12-01,2021-12-02,Thames Valley District School Board,170500,Elgin Court Public School,St. Thomas,4,0,0,4,-81.1757411,42.7620166
 2021-12-01,2021-12-02,Thames Valley District School Board,912956,Glendale High School,Tillsonburg,3,0,0,3,-80.7417955,42.8671791
 2021-12-01,2021-12-02,Thames Valley District School Board,918024,Huron Park Secondary School,Woodstock,1,0,0,1,-80.7387019,43.1394955
-2021-12-01,2021-12-02,Thames Valley District School Board,318051,Lockes Public School,St. Thomas,2,0,0,2,-81.18071770000002,42.7936451
+2021-12-01,2021-12-02,Thames Valley District School Board,318051,Lockes Public School,St. Thomas,2,0,0,2,-81.1807177,42.7936451
 2021-12-01,2021-12-02,Thames Valley District School Board,321370,Lord Nelson Public School,London,2,0,0,2,-81.1675,42.9991
 2021-12-01,2021-12-02,Thames Valley District School Board,046639,Mary Wright Public School,Strathroy-Caradoc,0,1,0,1,-81.6157847,42.9437533
 2021-12-01,2021-12-02,Thames Valley District School Board,375128,Mosa Central Public School,Southwest Middlesex,4,4,0,8,-81.7490809,42.7129687
@@ -624,7 +624,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Toronto District School Board,607177,Wilkinson Junior Public School,Toronto,2,0,0,2,-79.3374865,43.6820502
 2021-12-01,2021-12-02,Trillium Lakelands District School Board,917761,Huntsville High School,Huntsville,1,0,0,1,-79.2136896,45.3223487
 2021-12-01,2021-12-02,Trillium Lakelands District School Board,368946,Monck Public School,Bracebridge,2,0,0,2,-79.3207417,45.0410178
-2021-12-01,2021-12-02,Trillium Lakelands District School Board,099520,Pine Glen Public School,Huntsville,1,0,0,1,-79.22939570000001,45.33244200000001
+2021-12-01,2021-12-02,Trillium Lakelands District School Board,099520,Pine Glen Public School,Huntsville,1,0,0,1,-79.2293957,45.332442
 2021-12-01,2021-12-02,Trillium Lakelands District School Board,048305,Ridgewood Public School,Kawartha Lakes,1,0,0,1,-78.8037065,44.6660282
 2021-12-01,2021-12-02,Trillium Lakelands District School Board,068454,Riverside Public School,Huntsville,2,0,0,2,-79.203417,45.29548
 2021-12-01,2021-12-02,Trillium Lakelands District School Board,099783,Spruce Glen Public School,Huntsville,22,1,0,23,-79.2024198,45.3458113
@@ -664,7 +664,7 @@ collected_date,reported_date,school_board,school_id,school,municipality,confirme
 2021-12-01,2021-12-02,Waterloo Region District School Board,279595,J F Carmichael Public School,Kitchener,3,0,0,3,-80.5042066,43.4400397
 2021-12-01,2021-12-02,Waterloo Region District School Board,920495,Kitchener Waterloo Collegiate and Vocational School,Kitchener,1,1,0,2,-80.509026,43.455668
 2021-12-01,2021-12-02,Waterloo Region District School Board,309320,Laurentian Public School,Kitchener,1,0,0,1,-80.5019963,43.4165544
-2021-12-01,2021-12-02,Waterloo Region District School Board,311731,Lester B Pearson PS Public School,Waterloo,1,2,0,3,-80.50642090000001,43.5071981
+2021-12-01,2021-12-02,Waterloo Region District School Board,311731,Lester B Pearson PS Public School,Waterloo,1,2,0,3,-80.5064209,43.5071981
 2021-12-01,2021-12-02,Waterloo Region District School Board,327930,MacGregor Public School,Waterloo,1,0,0,1,-80.526125,43.4703301
 2021-12-01,2021-12-02,Waterloo Region District School Board,589101,Mackenzie King Public School,Kitchener,2,0,0,2,-80.4477018,43.4661191
 2021-12-01,2021-12-02,Waterloo Region District School Board,345997,Mary Johnston Public School,Waterloo,2,0,0,2,-80.5645396,43.4582082
